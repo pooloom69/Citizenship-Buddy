@@ -1,71 +1,59 @@
-import os
-import tempfile
 import streamlit as st
-from openai import OpenAI
 import base64
+from openai import OpenAI
 
-client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+def get_client():
+    # 여러 Key name을 대응 (Cloud 호환)
+    for key in ["OPENAI_API_KEY", "openai_api_key", "OPENAI", "openai"]:
+        if key in st.secrets:
+            return OpenAI(api_key=st.secrets[key])
+    raise ValueError("❗ OpenAI API Key not found in Streamlit secrets.")
 
-# ---------------------------------------------------
-# 🎙️ 녹음 및 Whisper 변환
-# ---------------------------------------------------
+# --------------------------------------------------------------
+# 🎧 TEXT → SPEECH (모바일 완전 호환)
+# --------------------------------------------------------------
+def play_tts(text):
+    client = get_client()
+
+    # 1) TTS 생성
+    response = client.audio.speech.create(
+        model="gpt-4o-mini-tts",
+        voice="alloy",
+        input=text
+    )
+
+    # 2) 바이트로 변환
+    audio_bytes = response.read()
+
+    # 3) base64로 인코딩
+    audio_b64 = base64.b64encode(audio_bytes).decode()
+
+    # 4) HTML audio 태그로 넣기 (모바일 100% 지원)
+    st.markdown(
+        f"""
+        <audio controls>
+            <source src="data:audio/mp3;base64,{audio_b64}" type="audio/mp3">
+        </audio>
+        """,
+        unsafe_allow_html=True
+    )
+
+# --------------------------------------------------------------
+# 🎤 RECORD + WHISPER STT
+# --------------------------------------------------------------
 def record_and_transcribe():
-    """
-    ✅ Streamlit 내장형 Recorder로 음성 녹음 → Whisper로 텍스트 변환
-    """
-    st.markdown("### 🎤 Record your answer below")
-    st.caption("Click the button to start and stop recording.")
+    client = get_client()
 
-    # 🟢 streamlit 최신 버전의 내장 오디오 녹음기 (2025 기준)
-    audio_bytes = st.audio_input("Record your voice")
+    audio = st.audio_input("Record your voice")
+    if audio is None:
+        return None
 
-    if audio_bytes is not None:
-        # st.success("✅ Recording received. Transcribing...")
-
-        # 임시 WAV 파일 생성
-        with tempfile.NamedTemporaryFile(delete=False, suffix=".wav") as tmp:
-            tmp.write(audio_bytes.getbuffer())
-            tmp_path = tmp.name
-
-        try:
-            with open(tmp_path, "rb") as f:
-                transcript = client.audio.transcriptions.create(
-                    model="whisper-1",
-                    file=f
-                )
-            text = transcript.text.strip()
-            os.remove(tmp_path)
-            st.session_state["user_answer"] = text
-            st.success(f"🗣️ You said: **{text}**")
-            return text
-        except Exception as e:
-            st.error(f"Whisper error: {e}")
-            return ""
-
-    return ""
-
-
-# ---------------------------------------------------
-# 🔊 TEXT TO SPEECH
-# ---------------------------------------------------
-def play_tts(text, voice="alloy"):
-    """
-    질문을 음성으로 재생 (OpenAI TTS 사용)
-    """
-    st.session_state.pop("tts_audio_path", None)
-    try:
-        st.info("🔊 Generating audio...")
-        speech = client.audio.speech.create(
+    with st.spinner("📥 Recording received. Transcribing..."):
+        transcript = client.audio.transcriptions.create(
             model="gpt-4o-mini-tts",
-            voice=voice,
-            input=text,
+            file=audio
         )
-        tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".mp3")
-        tmp.write(speech.read())
-        tmp.close()
-        st.session_state["tts_audio_path"] = tmp.name
-
-        with open(tmp.name, "rb") as f:
-            st.audio(f.read(), format="audio/mp3")
-    except Exception as e:
-        st.error(f"TTS Error: {e}")
+        text = transcript.text
+        st.success("🎉 Transcription completed!")
+        st.markdown(f"🗣️ You said: **{text}**")
+        return text
