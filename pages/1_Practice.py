@@ -36,7 +36,7 @@ if "show_result" not in st.session_state:
 questions = st.session_state["questions"]
 q = questions[st.session_state.q_index]
 
-st.markdown(f"### ❓ Question {st.session_state.q_index + 1}")
+st.markdown(f"### Question {st.session_state.q_index + 1}")
 st.markdown(q["question_en"])
 
 if st.session_state.get("lang") == "한국어 번역 보기":

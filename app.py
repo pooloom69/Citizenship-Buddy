@@ -16,7 +16,7 @@ if "questions" not in st.session_state:
 
 
 
-st.set_page_config(page_title="AI Citizenship Coach", page_icon="🇺🇸", layout="centered")
+st.set_page_config(page_title="AI Citizenship Buddy", page_icon="🇺🇸", layout="centered")
 
 session_manager.init_session()
 

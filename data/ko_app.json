@@ -16,11 +16,11 @@
   },
   {
     "id": 2,
-    "question_en": "What is the supreme law of the land? *",
+    "question_en": "What is the supreme law of the land? ",
     "answers_en": [
       "Constitution"
     ],
-    "question_ko": "국가의 최고의 법은 무엇인가? *",
+    "question_ko": "국가의 최고의 법은 무엇인가? ",
     "answers_ko": [
       "헌법"
     ]
@@ -89,7 +89,7 @@
   },
   {
     "id": 7,
-    "question_en": "How many amendments does the U.S. Constitution have? *",
+    "question_en": "How many amendments does the U.S. Constitution have? ",
     "answers_en": [
       "Twenty-seven ("
     ],
@@ -160,12 +160,12 @@
   },
   {
     "id": 12,
-    "question_en": "What is the economic system of the United States? *",
+    "question_en": "What is the economic system of the United States? ",
     "answers_en": [
       "Capitalism",
       "Free market economy"
     ],
-    "question_ko": "미국의 경제 시스템은 무엇인가? *",
+    "question_ko": "미국의 경제 시스템은 무엇인가? ",
     "answers_ko": [
       "자본주의",
       "자유 시장 경제"
@@ -280,13 +280,13 @@
   },
   {
     "id": 20,
-    "question_en": "Name one power of the U.S. Congress. *",
+    "question_en": "Name one power of the U.S. Congress. ",
     "answers_en": [
       "Writes laws",
       "Declares war",
       "Makes the federal budget"
     ],
-    "question_ko": "미 의회의 권력들 중 하나를 말해보아라. *",
+    "question_ko": "미 의회의 권력들 중 하나를 말해보아라. ",
     "answers_ko": [
       "법안 작성",
       "전쟁 선포",
@@ -380,7 +380,7 @@
     "question_ko": "왜 각 주에 두명의 상원 의원이 있는가?",
     "answers_ko": [
       "(작은 주들을 위한) 평등한 대의권",
-      "위대한 타협 (코네티컷 타협) 8 시민권 시험 문제 및 답변 128가지(2025년"
+      "위대한 타협 (코네티컷 타협) "
     ]
   },
   {
@@ -396,13 +396,13 @@
   },
   {
     "id": 30,
-    "question_en": "What is the name of the Speaker of the House of Representatives now? *",
+    "question_en": "What is the name of the Speaker of the House of Representatives now? ",
     "answers_en": [
-      "Visit uscis.gov/citizenship/testupdates for the name of the Speaker of the House of Representatives."
+      "Mike Johnson"
     ],
     "question_ko": "현재 미국 하원 의장의 이름은 무엇인가? *",
     "answers_ko": [
-      "uscis.gov/citizenship/testupdates를 방문하여 하원의장의 이름을 알아보십시오."
+      "Mike Johnson"
     ]
   },
   {
@@ -474,11 +474,11 @@
   },
   {
     "id": 36,
-    "question_en": "The President of the United States is elected for how many years? *",
+    "question_en": "The President of the United States is elected for how many years? ",
     "answers_en": [
       "Four ( years"
     ],
-    "question_ko": "대통령은 몇 년 마다 선출되는가? *",
+    "question_ko": "대통령은 몇 년 마다 선출되는가? ",
     "answers_ko": [
       "(4년)"
     ]
@@ -498,22 +498,22 @@
   },
   {
     "id": 38,
-    "question_en": "What is the name of the President of the United States now? *",
+    "question_en": "What is the name of the President of the United States now? ",
     "answers_en": [
       "Donald John Trump"
     ],
-    "question_ko": "현재 미국 대통령의 이름은 무엇인가?*",
+    "question_ko": "현재 미국 대통령의 이름은 무엇인가?",
     "answers_ko": [
       "Donald John Trump"
     ]
   },
   {
     "id": 39,
-    "question_en": "What is the name of the Vice President of the United States now? *",
+    "question_en": "What is the name of the Vice President of the United States now? ",
     "answers_en": [
       "The Vice President of the United States is JD Vance."
     ],
-    "question_ko": "현재 미국 부통령의 이름은 무엇인가? *",
+    "question_ko": "현재 미국 부통령의 이름은 무엇인가? ",
     "answers_ko": [
       "The Vice President of the United States is JD Vance."
     ]
@@ -574,11 +574,11 @@
   },
   {
     "id": 44,
-    "question_en": "Who vetoes bills? *",
+    "question_en": "Who vetoes bills? ",
     "answers_en": [
       "The President (of the United States)"
     ],
-    "question_ko": "누가 법안에 거부권을 행사하는가? *",
+    "question_ko": "누가 법안에 거부권을 행사하는가? ",
     "answers_ko": [
       "대통령"
     ]
@@ -664,7 +664,7 @@
       "재무부 장관",
       "보훈부 장관",
       "법무부 장관",
-      "부통령 14 시민권 시험 문제 및 답변 128가지(2025년",
+      "부통령 ",
       "환경보호청 청장",
       "중소기업청 청장",
       "중앙정보국 국장",
@@ -710,7 +710,7 @@
     ],
     "question_ko": "사법부는 무엇을 하는가?",
     "answers_ko": [
-      "법률의 재검토 15 시민권 시험 문제 및 답변 128가지(2025년",
+      "법률의 재검토",
       "법률의 해석",
       "법에 대해 분쟁이나 다툼의 해결",
       "법률이 헌법에 위배되는지를 판단"
@@ -718,11 +718,11 @@
   },
   {
     "id": 52,
-    "question_en": "What is the highest court in the United States? *",
+    "question_en": "What is the highest court in the United States? ",
     "answers_en": [
       "Supreme Court"
     ],
-    "question_ko": "미국의 최고 법원은 무엇인가? *",
+    "question_ko": "미국의 최고 법원은 무엇인가? ",
     "answers_ko": [
       "연방 대법원"
     ]
@@ -731,22 +731,22 @@
     "id": 53,
     "question_en": "How many seats are on the Supreme Court?",
     "answers_en": [
-      "Nine ("
+      "Nine "
     ],
     "question_ko": "대법원에는 몇 자리가 있나요?",
     "answers_ko": [
-      "아홉 ("
+      "아홉 "
     ]
   },
   {
     "id": 54,
     "question_en": "How many Supreme Court justices are usually needed to decide a case?",
     "answers_en": [
-      "Five ("
+      "Five "
     ],
     "question_ko": "판결을 내리기 위해는 보통 몇 명의 대법관들이 필요한가?",
     "answers_ko": [
-      "다섯명 ("
+      "다섯명 "
     ]
   },
   {
@@ -921,7 +921,7 @@
       "The United States",
       "The flag"
     ],
-    "question_ko": "충성의 맹세를 말할 때, 무엇에 충성을 표하는 것인가?*",
+    "question_ko": "충성의 맹세를 말할 때, 무엇에 충성을 표하는 것인가?",
     "answers_ko": [
       "미국",
       "국기"
@@ -1066,12 +1066,12 @@
   },
   {
     "id": 74,
-    "question_en": "Who lived in America before the Europeans arrived? *",
+    "question_en": "Who lived in America before the Europeans arrived? ",
     "answers_en": [
       "American Indians",
       "Native Americans"
     ],
-    "question_ko": "유럽인들이 오기 전에 미국에는 누가 살았는가? *",
+    "question_ko": "유럽인들이 오기 전에 미국에는 누가 살았는가? ",
     "answers_ko": [
       "아메리칸 인디언",
       "아메리카 원주민들"
@@ -1136,13 +1136,13 @@
   },
   {
     "id": 78,
-    "question_en": "Who wrote the Declaration of Independence? *",
+    "question_en": "Who wrote the Declaration of Independence? ",
     "answers_en": [
       "(Thomas) Jefferson"
     ],
-    "question_ko": "독립 선언서는 누가 썼는가? *",
+    "question_ko": "독립 선언서는 누가 썼는가? ",
     "answers_ko": [
-      "토마스 제퍼슨 25 시민권 시험 문제 및 답변 128가지(2025년"
+      "토마스 제퍼슨 "
     ]
   },
   {
@@ -1274,14 +1274,14 @@
   },
   {
     "id": 86,
-    "question_en": "George Washington is famous for many things. Name one. *",
+    "question_en": "George Washington is famous for many things. Name one. ",
     "answers_en": [
       "“Father of Our Country”",
       "First president of the United States",
       "General of the Continental Army",
       "President of the Constitutional Convention"
     ],
-    "question_ko": "조지 워싱턴은 많은 이유들로 유명하다. 하나를 말해보아라. *",
+    "question_ko": "조지 워싱턴은 많은 이유들로 유명하다. 하나를 말해보아라. ",
     "answers_ko": [
       "\"우리 조국의 아버지\"",
       "미국의 초대 대통령",
@@ -1414,7 +1414,7 @@
   },
   {
     "id": 94,
-    "question_en": "Abraham Lincoln is famous for many things. Name one. *",
+    "question_en": "Abraham Lincoln is famous for many things. Name one. ",
     "answers_en": [
       "Freed the slaves (Emancipation Proclamation)",
       "Saved (or preserved) the Union",
@@ -1422,7 +1422,7 @@
       "16th president of the United States",
       "Delivered the Gettysburg Address"
     ],
-    "question_ko": "에이브라함 링컨은 많은 이유들로 유명하다. 하나를 말해보아라. *",
+    "question_ko": "에이브라함 링컨은 많은 이유들로 유명하다. 하나를 말해보아라. ",
     "answers_ko": [
       "노예 해방 (해방 선언문)",
       "연방의 구조 (또는 보존)",
@@ -1715,14 +1715,14 @@
   },
   {
     "id": 115,
-    "question_en": "What major event happened on September 11, 2001 in the United States? *",
+    "question_en": "What major event happened on September 11, 2001 in the United States? ",
     "answers_en": [
       "Terrorists attacked the United States",
       "Terrorists took over two planes and crashed them into the World Trade Center in New York City",
       "Terrorists took over a plane and crashed into the Pentagon in Arlington, Virginia",
       "Terrorists took over a plane originally aimed at Washington, D.C., and crashed in a field in Pennsylvania"
     ],
-    "question_ko": "미국에서는 2001년 9월 11일에 어떤 큰 사건이 발생했는가? *",
+    "question_ko": "미국에서는 2001년 9월 11일에 어떤 큰 사건이 발생했는가? ",
     "answers_ko": [
       "테러범들이 미국을 공격함.",
       "테러리스트들이 비행기 두 대를 탈취 해 뉴욕시의 세계 무역 센터에 추락시켰다.",
@@ -1853,7 +1853,7 @@
   },
   {
     "id": 121,
-    "question_en": "Why does the flag have 13 stripes? *",
+    "question_en": "Why does the flag have 13 stripes? ",
     "answers_en": [
       "(Because there were) 13 original colonies",
       "(Because the stripes) represent the original colonies"
@@ -1918,7 +1918,7 @@
   },
   {
     "id": 126,
-    "question_en": "Name three national U.S. holidays. *",
+    "question_en": "Name three national U.S. holidays. ",
     "answers_en": [
       "New Year’s Day",
       "Martin Luther King, Jr. Day",
@@ -1932,10 +1932,10 @@
       "Thanksgiving Day",
       "Christmas Day"
     ],
-    "question_ko": "미국의 국가 공휴일 중 셋 가지를 말하라.*",
+    "question_ko": "미국의 국가 공휴일 중 셋 가지를 말하라.",
     "answers_ko": [
       "새해 첫날",
-      "마틴 루터 킹 2세 기념일 43 시민권 시험 문제 및 답변 128가지(2025년",
+      "마틴 루터 킹 2세 기념일 ",
       "대통령 기념일 (워싱턴의 생일)",
       "전몰 장병 추도 기념일",
       "독립 기념일",

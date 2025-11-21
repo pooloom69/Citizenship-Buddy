@@ -4,7 +4,7 @@ from utils import session_manager
 st.set_page_config(page_title="Result Summary", page_icon="📊")
 session_manager.init_session()
 
-st.header("📊 Result Summary")
+st.header("Result Summary")
 
 results = st.session_state.get("test_results", [])
 if not results:

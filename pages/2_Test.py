@@ -4,7 +4,7 @@ from utils import question_loader, ai_evaluator, session_manager, voice_utils
 
 st.set_page_config(page_title="Test Mode", page_icon="🧠")
 session_manager.init_session()
-st.header("🧠 Citizenship Test Simulation")
+st.header("Citizenship Test Simulation")
 
 # -------------------------------------------------------
 # 🔹 Load unified bilingual questions (ko_app.json)
