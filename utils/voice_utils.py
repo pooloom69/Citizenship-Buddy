@@ -4,7 +4,7 @@ import streamlit as st
 from openai import OpenAI
 import base64
 
-client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # ---------------------------------------------------
 # 🎙️ 녹음 및 Whisper 변환
