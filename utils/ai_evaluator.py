@@ -1,6 +1,8 @@
 from openai import OpenAI
 import re
-client = OpenAI()
+
+
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 def normalize(text):
     # Lowercase

@@ -1,7 +1,6 @@
 import streamlit as st
 from utils import session_manager
-from dotenv import load_dotenv
-load_dotenv()
+
 
 from utils.question_loader import load_questions
 
