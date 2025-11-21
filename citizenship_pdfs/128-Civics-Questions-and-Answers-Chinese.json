@@ -1,0 +1,1166 @@
+[
+  {
+    "id": 1,
+    "question": "美国政府是什么政体？",
+    "answers": [
+      "共和国",
+      "基于宪法的联邦共和国",
+      "民主代议制"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "美国最高层级法律为何？*",
+    "answers": [
+      "宪法"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "请写出一件美国宪法做的事。",
+    "answers": [
+      "组建政府",
+      "定义政府权力",
+      "定义政府部门 1 128 Civics Questions and Answers (2025 version) 128 道公民问题及答案（2025 年版）",
+      "保护人民权利"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "美国宪法以“我们，人民”开头。“我们，人民”是什么意思？",
+    "answers": [
+      "自治",
+      "人民主权",
+      "被统治者的同意",
+      "人们应自我统治",
+      "社会契约（示例）"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "美国宪法由哪些变动？",
+    "answers": [
+      "修订",
+      "修订过程"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "权利法案保护了什么？",
+    "answers": [
+      "美国人的（基本）权利",
+      "生活在美国的人的（基本）权利 2 128 Civics Questions and Answers (2025 version) 128 道公民问题及答案（2025 年版）"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "宪法有多少条修订案？*",
+    "answers": [
+      "二十七条（27）"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "《独立宣言》有什么重要性？",
+    "answers": [
+      "它声明了美国不再由英国控制。",
+      "它声明所有人生而平等。",
+      "它强调人生来就有的权利。",
+      "它强调人的自由"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "哪一创始文件说美国殖民地摆脱了英国的统治？",
+    "answers": [
+      "《独立宣言》"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "从《独立宣言》和《美国宪法》中列举两个重要的思想。",
+    "answers": [
+      "平等",
+      "自由",
+      "社会契约",
+      "自然权利",
+      "有限政府",
+      "自治"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "什么创始文件中有“生命，自由以及追求幸福”？",
+    "answers": [
+      "《独立宣言》"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "美国的经济体制是什么？*",
+    "answers": [
+      "资本主义",
+      "自由市场经济"
+    ]
+  },
+  {
+    "id": 13,
+    "question": ".法治是什么？",
+    "answers": [
+      "每个人都必须遵循法律。 4 128 Civics Questions and Answers (2025 version) 128 道公民问题及答案（2025 年版）",
+      "领导者必须守法。",
+      "政府必须守法。",
+      "任何人都不得凌驾于法律之上。"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "很多文件影响了美国宪法。说出一个。",
+    "answers": [
+      "独立宣言",
+      "联邦条款",
+      "联邦党人文集",
+      "反联邦党人文集",
+      "弗吉尼亚权利宣言",
+      "康涅狄格州的基本命令",
+      "五月花契约",
+      "易洛魁大和平法"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "政府有三个分支。为什么？",
+    "answers": [
+      "任何一部分不会变得过于强大",
+      "制衡与平衡 5 128 Civics Questions and Answers (2025 version) 128 道公民问题及答案（2025 年版）",
+      "分权 B: System of Government B: 政府体制"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "说出政府的三个分支。",
+    "answers": [
+      "立法，行政和司法",
+      "国会，总统和法院"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "美国总统负责哪个政府部门？",
+    "answers": [
+      "行政机关"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "联邦政府的哪一部分制定法律？",
+    "answers": [
+      "美国 国会",
+      "(美国或国家）立法机构",
+      "立法分支"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "美国国会的两个部分是什么",
+    "answers": [
+      "参议院和众议院（代表）"
+    ]
+  },
+  {
+    "id": 20,
+    "question": ".说出美国国会的一项权力。*",
+    "answers": [
+      "制定法律",
+      "宣战",
+      "制定联邦预算"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "有多少名美国参议员？",
+    "answers": [
+      "一百名（100）"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "参议员的任期有多长？",
+    "answers": [
+      "六（6）年"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "您所在州现任的一个参议员是谁",
+    "answers": [
+      "答案会有异。[美国哥伦比亚特区居民和美国辖区居民 (或申请人居住地）应该回答 华盛顿特区无参议员。]"
+    ]
+  },
+  {
+    "id": 24,
+    "question": ".众议院有多少投票成员？",
+    "answers": [
+      "四百三十五名（435）"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "众议员任期多长时间？",
+    "answers": [
+      "两（2）年"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "为什么美国众议员的任期比参议员的任期短？",
+    "answers": [
+      "为了紧跟公众舆论"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "每个州有多少名参议员？",
+    "answers": [
+      "二（2）"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "为什么每州有2名参议员？",
+    "answers": [
+      "平等代表制（适用于小州）",
+      "大妥协（康涅狄格州妥协）"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "说出您的美国代表名字。",
+    "answers": [
+      "答案会有异。[无表决权代表或驻地专员的领土居民可以 提供该代表或专员的名字。 驻地代表在国会中 无表决权的表述也可接受。]"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "现任众议院议长的名字是什么*",
+    "answers": []
+  },
+  {
+    "id": 31,
+    "question": "美国参议员代表的是谁？",
+    "answers": [
+      "他们州的公民",
+      "他们所在州的人"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "谁来选举美国参议员？",
+    "answers": [
+      "每个州的公民"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "众议院的议员代表的是谁？",
+    "answers": [
+      "其（国会）地区的公民",
+      "其地区的公民",
+      "来自他们（国会）选区的人",
+      "他们所在地区的人"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "谁来选举众议院议员？",
+    "answers": [
+      "来自（国会）区的公民"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "为什么有些州的代表比其他州多？",
+    "answers": [
+      "(因为）該州的人口",
+      "(因为）他们有更多人",
+      "(因为）一些州有更多人 10 128 Civics Questions and Answers (2025 version) 128 道公民问题及答案（2025 年版）"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "我们选举总统任期为多少年？*",
+    "answers": [
+      "四年（4)"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "美国总统只能担任两个任期。为什么？",
+    "answers": [
+      "(因为）第22条修正案",
+      "防止总统权力过大"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "美国现任总统名字*",
+    "answers": [
+      "浏览 uscis.gov/citizenship/testupdates 搜索美国总统的姓名。"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "美国现任副总统名字？ *",
+    "answers": [
+      "浏览 uscis.gov/citizenship/testupdates搜索美国副总统的姓名。"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "如果总统无法继续履任，谁会成为总统？",
+    "answers": [
+      "副总統"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "说出一个总统的职权。",
+    "answers": [
+      "签署法案成为法律",
+      "否决法案",
+      "实施法律",
+      "(军事）总司令",
+      "首席外交官",
+      "任命联邦法官"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "谁是军队总司令？",
+    "answers": [
+      "总统"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "谁签署议案将其变成法律？",
+    "answers": [
+      "总统"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "谁否決法案？*",
+    "answers": [
+      "总统"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "谁任命联邦法官？",
+    "answers": [
+      "（美国）总统"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "行政部门包括许多部分。说出一个。",
+    "answers": [
+      "（美国）总统",
+      "内阁",
+      "联邦部门和机构"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "总统内阁的职责是什么？",
+    "answers": [
+      "建议总统"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "两个内阁级职位是什么？",
+    "answers": [
+      "农业部长",
+      "商务部长",
+      "国防部长",
+      "教育部长",
+      "能源部长",
+      "卫生与公共事务部部长",
+      "国土安全部部长",
+      "住房和城市发展部部长",
+      "內政部長",
+      "劳工部長",
+      "国务卿",
+      "交通部长 14 128 Civics Questions and Answers (2025 version) 128 道公民问题及答案（2025 年版）",
+      "财政部长",
+      "退伍军人事务部长",
+      "司法部长",
+      "副总统",
+      "环境保护局局长",
+      "小企业行政管理局长",
+      "中央情报局局长",
+      "管理与预算办公室主任",
+      "国民情报总监",
+      "美国贸易代表"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "选举团为何重要？",
+    "answers": [
+      "它决定谁当选总统。",
+      "在总统大选与国会选举之间做出折衷。"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "司法部门的一部分是什么？",
+    "answers": [
+      "最高法院",
+      "联邦法院"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "司法部门的职责是什么?",
+    "answers": [
+      "审查法律",
+      "解释法律",
+      "解決争议（分歧）",
+      "決定法律是否违反宪法"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "美国的最高法院是什么？*",
+    "answers": [
+      "最高法院"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "最高法院有多少个席位？",
+    "answers": [
+      "九名(9)"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "决定一个案件通常需要多少位最高法院法官？",
+    "answers": [
+      "五个"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "最高法院大法官任职多长时间？",
+    "answers": [
+      "一生",
+      "终身任命",
+      "(直到）退休"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "最高法院大法官终生任期。为什么？",
+    "answers": [
+      "独立于（政治）",
+      "限制外部（政治）影响"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "谁是美国现任首席大法官？",
+    "answers": [
+      "浏览 uscis.gov/citizenship/testupdates 搜索美国最高法院首席法官的姓名。"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "列出仅适用于联邦政府的一种权力。",
+    "answers": [
+      "印制纸币",
+      "铸币",
+      "宣战",
+      "建军 17 128 Civics Questions and Answers (2025 version) 128 道公民问题及答案（2025 年版）",
+      "订立条约",
+      "制定外交政策"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "列出仅适用于各州的一种权力。",
+    "answers": [
+      "提供学校与国民教育",
+      "提供人民保护（警政部門）",
+      "提供居住安全（消防部门）",
+      "提供驾驶执照",
+      "批准分区和土地使用"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "第十修正案的目的是什么？",
+    "answers": [
+      "(它规定）没有赋予联邦政府的权力属于各州或人民。"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "谁是您所在州的现任州长？*",
+    "answers": [
+      "答案会有异。[美国哥伦比亚特区居民应该回答华盛顿特区无州长。]"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "您所在州的首府是什么",
+    "answers": [
+      "答案会有异。[美国哥伦比亚特区居民应该回答华盛顿特区不是一个州而且 无州首府。美国领土居民应该命名该领土的首府。] C: Rights and Responsibilities C: 权利与责任"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "宪法」有四个关于谁可以投票的修正案。描述其中一个。",
+    "answers": [
+      "十八（18）岁及以上的公民（可以投票)。",
+      "您无需支付（人头税）投票。",
+      "任何公民可以投票。（女性和男性可投票。）",
+      "任何种族的男性公民（可投票）。"
+    ]
+  },
+  {
+    "id": 64,
+    "question": ".什么人可以在联邦选举中投票，竞选联邦公职并在美国担任陪审团？",
+    "answers": [
+      "公民 19 128 Civics Questions and Answers (2025 version) 128 道公民问题及答案（2025 年版）",
+      "美国的公民",
+      "美国公民"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "住在美国的任何人都有的三个权利是什么？",
+    "answers": [
+      "表达的自由",
+      "言论的自由",
+      "集会的自由",
+      "向政府请愿的自由",
+      "宗教的自由",
+      "携带武器的自由"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "当念效忠誓词的时候，我们向什么表示忠诚？*",
+    "answers": [
+      "美国",
+      "国旗"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "列举两个新公民在效忠誓言中所作的承诺。",
+    "answers": [
+      "放弃对他国的忠诚",
+      "保护（美国） 宪法",
+      "遵守美国法律",
+      "服务美国军队 (必要时)",
+      "(必要时)为国家服务 (从事重要工作)",
+      "效忠于美国"
+    ]
+  },
+  {
+    "id": 68,
+    "question": ".如何才能成为美国公民？",
+    "answers": [
+      "在美国出生，符合第十四修正案规定的条件",
+      "衍生公民身份",
+      "根据国会规定的条件获得公民身份"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "请举两个美国公民参与国家事务的例子？",
+    "answers": [
+      "投票",
+      "竞选公职",
+      "加入政党",
+      "帮助竞选活动",
+      "加入公民团体",
+      "加入社区团体",
+      "向民选官员发表您的意见（关于问题）",
+      "与民选官员联系",
+      "支持或反对某个问题或政策",
+      "为报纸供稿"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "美国人为国家服务的一种方式是什么？",
+    "answers": [
+      "投票",
+      "交税",
+      "遵守法律",
+      "在军队中服役",
+      "竞选公职",
+      "为地方、州或联邦政府工作"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "为什么要缴纳联邦税？",
+    "answers": [
+      "这是法律规定的",
+      "所有的人都要支付联邦政府的资金",
+      "由（美国）所要求 宪法(第十六修正案)",
+      "公民义务"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "所有18至25岁的男子都必须登记参加选拔服务。说出一个原因。",
+    "answers": [
+      "这是法律规定的",
+      "公民义务",
+      "如果需要的话，可以使选举公平 A: Colonial Period and Independence A : 殖民时期和独立"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "殖民者到美国有很多理由。说出一个。",
+    "answers": [
+      "人身自由",
+      "政治自由",
+      "宗教自由",
+      "经济机遇",
+      "逃避迫害"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "在欧洲殖民到来之前，何族裔栖于美国？*",
+    "answers": [
+      "美洲印第安人",
+      "土著美洲人"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "什么人群被带到美国被贩卖为奴?",
+    "answers": [
+      "非洲人",
+      "来自非洲的人"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "美国人为了从英国手中赢得独立，打了哪场战争？",
+    "answers": [
+      "美国革命",
+      "(美国）革命战争",
+      "(美国）独立战争 24 128 Civics Questions and Answers (2025 version) 128 道公民问题及答案（2025 年版）"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "请说明美国人宣布脱离英国而独立的原因之一。",
+    "answers": [
+      "高税收",
+      "没有理由的税收",
+      "英国士兵呆在美国人的房屋中（寄宿，营区）",
+      "他们没有自治权",
+      "波士顿大屠杀",
+      "波士顿茶党（茶法）",
+      "邮票法",
+      "糖法",
+      "汤申法",
+      "不能容忍 （强制性）行为"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "谁起草了独立宣言?*",
+    "answers": [
+      "(托马斯）杰斐逊 (Thomas) Jefferson"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "独立宣言何时被采用?",
+    "answers": [
+      "1776年7月4日"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "美国革命时期发生了许多重要事件。说出一个。",
+    "answers": [
+      "邦克山（战役）",
+      "独立宣言",
+      "华盛顿穿越特拉华州（特伦顿战役）",
+      "萨拉托加（战役）",
+      "福奇谷（营地）",
+      "约克敦（战役）（约克敦英国投降）"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "最初的州有十三个。说出五个。",
+    "answers": [
+      "新罕布什尔州",
+      "马萨诸塞州",
+      "罗得岛州",
+      "康涅狄格州",
+      "纽约州",
+      "新泽西州",
+      "宾夕法尼亚州",
+      "特拉华州",
+      "马里兰州",
+      "维珍尼亚州",
+      "北卡罗莱纳州",
+      "南卡罗莱纳州",
+      "佐治亚州"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "哪一创始文件是于1787年撰写的？",
+    "answers": [
+      "(美国） 宪法"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "”联邦党人文集” 支持通过美国宪法。说出其中一位作者。",
+    "answers": [
+      "(詹姆斯）麦迪逊 (James) Madison",
+      "(亚历山大）汉密尔顿 (Alexander)Hamilton",
+      "(约翰）杰伊 (John) Jay 27 128 Civics Questions and Answers (2025 version) 128 道公民问题及答案（2025 年版）",
+      "普布利乌斯 Publius"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "为什么《联邦党人文集》很重要？",
+    "answers": [
+      "他们帮助人们了解（美国） 宪法。",
+      "他们支持通过（美国） 宪法。"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "本杰明·富兰克林以许多事情而闻名。说出一个。",
+    "answers": [
+      "建立了第一批免费的公共图书馆",
+      "美国第一任邮政局长",
+      "帮助撰写了《独立宣言》",
+      "发明家",
+      "美国外交官"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "乔治华盛顿以许多事情着称。说出一个。*",
+    "answers": [
+      "“我们国家的父亲” 28 128 Civics Questions and Answers (2025 version) 128 道公民问题及答案（2025 年版）",
+      "美国第一任总统",
+      "大陆军将军",
+      "制宪会议主席"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "托马斯·杰斐逊以许多事情而闻名。说出一个。",
+    "answers": [
+      "《独立宣言》的作者",
+      "美国第三任总统",
+      "美国的规模扩大了一倍（买下路易斯安那州）",
+      "一等国务卿",
+      "成立了弗吉尼亚大学",
+      "弗吉尼亚宗教自由法规的作者"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "詹姆斯·麦迪逊因许多事情而闻名。说出一个。",
+    "answers": [
+      "“宪法之父”",
+      "美国第四任总统",
+      "1812年战争期间的总统",
+      "联邦党人文集的作者之一 29 128 Civics Questions and Answers (2025 version) 128 道公民问题及答案（2025 年版）"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "What territory did the United States buy from France in 1803?",
+    "answers": [
+      "Louisiana Territory",
+      "Louisiana"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Name one war fought by the United States in the 1800s.",
+    "answers": [
+      "War of 1812",
+      "Mexican-American War",
+      "Civil War",
+      "Spanish-American War"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Name the U.S. war between the North and the South.",
+    "answers": [
+      "The Civil War"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "The Civil War had many important events. Name one.",
+    "answers": [
+      "(Battle of) Fort Sumter",
+      "Emancipation Proclamation",
+      "(Battle of) Vicksburg",
+      "(Battle of) Gettysburg",
+      "Sherman’s March",
+      "(Surrender at) Appomattox",
+      "(Battle of) Antietam/Sharpsburg",
+      "Lincoln was assassinated."
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Abraham Lincoln is famous for many things. Name one. *",
+    "answers": [
+      "Freed the slaves (Emancipation Proclamation)",
+      "Saved (or preserved) the Union",
+      "Led the United States during the Civil War",
+      "16th president of the United States",
+      "Delivered the Gettysburg Address"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "What did the Emancipation Proclamation do?",
+    "answers": [
+      "Freed the slaves",
+      "Freed slaves in the Confederacy",
+      "Freed slaves in the Confederate states",
+      "Freed slaves in most Southern states"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "What U.S. war ended slavery?",
+    "answers": [
+      "The Civil War"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "What amendment says all persons born or naturalized in the United States, and",
+    "answers": [
+      "14th Amendment"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "When did all men get the right to vote?",
+    "answers": [
+      "After the Civil War",
+      "During Reconstruction",
+      "(With the) 15th Amendment",
+      "1870"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Name one leader of the women’s rights movement in the 1800s.",
+    "answers": [
+      "Susan B. Anthony",
+      "Elizabeth Cady Stanton",
+      "Sojourner Truth",
+      "Harriet Tubman",
+      "Lucretia Mott",
+      "Lucy Stone"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Name one war fought by the United States in the 1900s.",
+    "answers": [
+      "World War I",
+      "World War II",
+      "Korean War",
+      "Vietnam War",
+      "(Persian) Gulf War"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Why did the United States enter World War I?",
+    "answers": [
+      "Because Germany attacked U.S. (civilian) ships",
+      "To support the Allied Powers (England, France, Italy, and Russia)",
+      "To oppose the Central Powers (Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria)"
+    ]
+  },
+  {
+    "id": 101,
+    "question": "When did all women get the right to vote?",
+    "answers": [
+      "1920",
+      "After World War I",
+      "(With the) 19th Amendment"
+    ]
+  },
+  {
+    "id": 102,
+    "question": "What was the Great Depression?",
+    "answers": [
+      "Longest economic recession in modern history"
+    ]
+  },
+  {
+    "id": 103,
+    "question": "When did the Great Depression start?",
+    "answers": [
+      "The Great Crash (1929)",
+      "Stock market crash of 1929"
+    ]
+  },
+  {
+    "id": 104,
+    "question": "Who was president during the Great Depression and World War II?",
+    "answers": [
+      "(Franklin) Roosevelt"
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Why did the United States enter World War II?",
+    "answers": [
+      "(Bombing of) Pearl Harbor",
+      "Japanese attacked Pearl Harbor 35 128 Civics Questions and Answers (2025 version) 128 道公民问题及答案（2025 年版）",
+      "To support the Allied Powers (England, France, and Russia)",
+      "To oppose the Axis Powers (Germany, Italy, and Japan)"
+    ]
+  },
+  {
+    "id": 106,
+    "question": "Dwight Eisenhower is famous for many things. Name one.",
+    "answers": [
+      "General during World War II",
+      "President at the end of (during) the Korean War",
+      "34th president of the United States",
+      "Signed the Federal-Aid Highway Act of 1956 (Created the Interstate System)"
+    ]
+  },
+  {
+    "id": 107,
+    "question": "Who was the United States’ main rival during the Cold War?",
+    "answers": [
+      "Soviet Union",
+      "USSR",
+      "Russia"
+    ]
+  },
+  {
+    "id": 108,
+    "question": "During the Cold War, what was one main concern of the United States?",
+    "answers": [
+      "Communism",
+      "Nuclear war"
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Why did the United States enter the Korean War?",
+    "answers": [
+      "To stop the spread of communism"
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Why did the United States enter the Vietnam War?",
+    "answers": [
+      "To stop the spread of communism"
+    ]
+  },
+  {
+    "id": 111,
+    "question": "What did the civil rights movement do?",
+    "answers": [
+      "Fought to end racial discrimination"
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Martin Luther King, Jr. is famous for many things. Name one. *",
+    "answers": [
+      "Fought for civil rights",
+      "Worked for equality for all Americans",
+      "Worked to ensure that people would “not be judged by the color of their skin, but by the content of their character”"
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Why did the United States enter the Persian Gulf War?",
+    "answers": [
+      "To force the Iraqi military from Kuwait"
+    ]
+  },
+  {
+    "id": 114,
+    "question": "What major event happened on September 11, 2001 in the United States? *",
+    "answers": [
+      "Terrorists attacked the United States",
+      "Terrorists took over two planes and crashed them into the World Trade Center in New York City",
+      "Terrorists took over a plane and crashed into the Pentagon in Arlington, Virginia",
+      "Terrorists took over a plane originally aimed at Washington, D.C., and crashed in a field in Pennsylvania"
+    ]
+  },
+  {
+    "id": 115,
+    "question": "Name one U.S. military conflict after the September 11, 2001 attacks.",
+    "answers": [
+      "(Global) War on Terror",
+      "War in Afghanistan",
+      "War in Iraq"
+    ]
+  },
+  {
+    "id": 116,
+    "question": "Name one American Indian tribe in the United States.",
+    "answers": [
+      "Apache",
+      "Blackfeet",
+      "Cayuga",
+      "Cherokee",
+      "Cheyenne",
+      "Chippewa",
+      "Choctaw",
+      "Creek",
+      "Crow",
+      "Hopi",
+      "Huron",
+      "Inupiat",
+      "Lakota",
+      "Mohawk",
+      "Mohegan",
+      "Navajo",
+      "Oneida",
+      "Onondaga",
+      "Pueblo",
+      "Seminole",
+      "Seneca",
+      "Shawnee",
+      "Sioux",
+      "Teton",
+      "Tuscarora For a complete list of tribes, please visit bia.gov."
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Name one example of an American innovation.",
+    "answers": [
+      "Light bulb",
+      "Automobile (cars, combustible engine)",
+      "Skyscrapers",
+      "Airplane 40 128 Civics Questions and Answers (2025 version) 128 道公民问题及答案（2025 年版）",
+      "Assembly line",
+      "Landing on the moon",
+      "Integrated circuit (IC)"
+    ]
+  },
+  {
+    "id": 118,
+    "question": "What is the capital of the United States?",
+    "answers": [
+      "Washington, D.C."
+    ]
+  },
+  {
+    "id": 119,
+    "question": "Where is the Statue of Liberty?",
+    "answers": [
+      "New York (Harbor)",
+      "Liberty Island [Also acceptable are New Jersey, near New York City, and on the Hudson (River).]"
+    ]
+  },
+  {
+    "id": 120,
+    "question": "Why does the flag have 13 stripes? *",
+    "answers": [
+      "(Because there were) 13 original colonies",
+      "(Because the stripes) represent the original colonies"
+    ]
+  },
+  {
+    "id": 121,
+    "question": "Why does the flag have 50 stars?",
+    "answers": [
+      "(Because there is) one star for each state",
+      "(Because) each star represents a state",
+      "(Because there are) 50 states"
+    ]
+  },
+  {
+    "id": 122,
+    "question": "What is the name of the national anthem?",
+    "answers": [
+      "The Star-Spangled Banner"
+    ]
+  },
+  {
+    "id": 123,
+    "question": "The Nation’s first motto was “E Pluribus Unum.” What does that mean?",
+    "answers": [
+      "Out of many, one",
+      "We all become one"
+    ]
+  },
+  {
+    "id": 124,
+    "question": "What is Independence Day?",
+    "answers": [
+      "A holiday to celebrate U.S. independence (from Britain)",
+      "The country’s birthday"
+    ]
+  },
+  {
+    "id": 125,
+    "question": "Name three national U.S. holidays. *",
+    "answers": [
+      "New Year’s Day",
+      "Martin Luther King, Jr. Day",
+      "Presidents Day (Washington’s Birthday)",
+      "Memorial Day",
+      "Independence Day",
+      "Labor Day",
+      "Columbus Day",
+      "Veterans Day",
+      "Thanksgiving Day",
+      "Christmas Day"
+    ]
+  },
+  {
+    "id": 126,
+    "question": "What is Memorial Day?",
+    "answers": [
+      "A holiday to honor soldiers who died in military service"
+    ]
+  },
+  {
+    "id": 127,
+    "question": "What is Veterans Day?",
+    "answers": [
+      "A holiday to honor people in the (U.S.) military",
+      "A holiday to honor people who have served (in the U.S. military)"
+    ]
+  }
+]

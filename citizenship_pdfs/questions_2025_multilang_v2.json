@@ -1,0 +1,6790 @@
+[
+  {
+    "question": "What is the form of government of the United States?",
+    "answers": [
+      "Republic",
+      "Constitution-based federal republic",
+      "Representative democracy"
+    ],
+    "id": 1,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "1. 美国政府是什么政体？",
+        "answers": [
+          "共和国",
+          "基于宪法的联邦共和国",
+          "民主代议制"
+        ]
+      },
+      "fr": {
+        "question": "1. Quel est le régime politique des États-Unis?",
+        "answers": [
+          "Une République",
+          "Une République fédérale constitutionnelle",
+          "Une démocratie représentative"
+        ]
+      },
+      "ja": {
+        "question": "1. アメリカ合衆国の政体は何ですか?",
+        "answers": [
+          "共和制",
+          "憲法に基づく連邦共和制",
+          "議会制民主主義"
+        ]
+      },
+      "ko": {
+        "question": "1. 미국 정부는 어떤 형태의 정부인가?",
+        "answers": [
+          "공화국",
+          "헌법 기반 연방 공화국",
+          "대의민주주의"
+        ]
+      },
+      "pl": {
+        "question": "1. Jaki jest ustrój Stanów Zjednoczonych?",
+        "answers": [
+          "Republika",
+          "Konstytucyjna republika federalna",
+          "Demokracja przedstawicielska"
+        ]
+      },
+      "ru": {
+        "question": "1. Какая форма правления в Соединенных Штатах?",
+        "answers": [
+          "Республика",
+          "Федеративная республика, основанная на конституции",
+          "Представительная демократия"
+        ]
+      },
+      "es": {
+        "question": "1. ¿Cuál es la forma de gobierno de los Estados Unidos?",
+        "answers": [
+          "República",
+          "Constitución basada en la República federal",
+          "Democracia representativa"
+        ]
+      },
+      "uk": {
+        "question": "1. Яка форма правління у Сполучених Штатах?",
+        "answers": [
+          "Республіка",
+          "Федеративна республіка, що базується на конституції",
+          "Представницька демократія"
+        ]
+      },
+      "vi": {
+        "question": "1. Các hình thức của chính phủ Hoa Kỳ là gì?",
+        "answers": [
+          "Cộng Hòa",
+          "Cộng Hòa liên bang dựa trên Hiến Pháp",
+          "Dân Chủ đại diện"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What is the supreme law of the land? *",
+    "answers": [
+      "(U.S.) Constitution"
+    ],
+    "id": 2,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "2. 美国最高层级法律为何？*",
+        "answers": [
+          "宪法"
+        ]
+      },
+      "fr": {
+        "question": "2. Quelle est la loi suprême du pays? *",
+        "answers": [
+          "la Constitution"
+        ]
+      },
+      "ja": {
+        "question": "2. アメリカの最高法は何ですか? *",
+        "answers": [
+          "アメリカ合衆国 憲法"
+        ]
+      },
+      "ko": {
+        "question": "2. 국가의 최고의 법은 무엇인가? *",
+        "answers": [
+          "헌법"
+        ]
+      },
+      "pl": {
+        "question": "2. Co jest najwyższym prawem kraju? *",
+        "answers": [
+          "(Stany Zjednoczone) Konstytucja"
+        ]
+      },
+      "ru": {
+        "question": "2. Что является высшим законом страны? *",
+        "answers": [
+          "Конституция США"
+        ]
+      },
+      "es": {
+        "question": "2. ¿Cuál es la ley suprema de la nación?*",
+        "answers": [
+          "La Constitución"
+        ]
+      },
+      "uk": {
+        "question": "2. Який найвищий закон країни? *",
+        "answers": [
+          "Конституція США"
+        ]
+      },
+      "vi": {
+        "question": "2. Bộ luật tối cao của quốc gia là gì? *",
+        "answers": [
+          "Hiến pháp"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name one thing the U.S. Constitution does.",
+    "answers": [
+      "Forms the government",
+      "Defines powers of government",
+      "Defines the parts of government",
+      "Protects the rights of the people"
+    ],
+    "id": 3,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "3. 请写出一件美国宪法做的事。",
+        "answers": [
+          "组建政府",
+          "定义政府权力",
+          "定义政府部门"
+        ]
+      },
+      "fr": {
+        "question": "3. Nommez l'un des rôles de la Constitution américaine.",
+        "answers": [
+          "Elle forme le gouvernement",
+          "Elle définit les pouvoirs du gouvernement",
+          "Elle définit les instances du gouvernement"
+        ]
+      },
+      "ja": {
+        "question": "3. アメリカ合衆国憲法がすることを一つ挙げてください。",
+        "answers": [
+          "政府を形成すること",
+          "政府の権力を定義すること"
+        ]
+      },
+      "ko": {
+        "question": "3. 미국 헌법이 하는 일 중 하나가 무엇인지 말하라.",
+        "answers": [
+          "정부를 구성함",
+          "정부의 권한을 정의함",
+          "정부의 부서들을 정의함"
+        ]
+      },
+      "pl": {
+        "question": "3. Wymień jedną rzecz, którą stanowi Konstytucja Stanów Zjednoczonych.",
+        "answers": [
+          "Uchwala rząd",
+          "Definiuje zakres władzy rządu"
+        ]
+      },
+      "ru": {
+        "question": "3. Назовите одну функцию Конституции США",
+        "answers": [
+          "Формирует правительство",
+          "Определяет полномочия правительства",
+          "Определяет органы власти правительства"
+        ]
+      },
+      "es": {
+        "question": "3. Nombra una cosa que hace la Constitución de los Estados Unidos.",
+        "answers": [
+          "Forma el gobierno",
+          "Define los poderes del gobierno",
+          "Define las partes del gobierno"
+        ]
+      },
+      "uk": {
+        "question": "3. Назвіть одну річ, яку виконує Конституція США.",
+        "answers": [
+          "Формує уряд",
+          "Визначає повноваження уряду",
+          "Визначає частини уряду"
+        ]
+      },
+      "vi": {
+        "question": "3. Kể tên một điều mà Hiến Pháp Hoa Kỳ thực hiện.",
+        "answers": [
+          "Thiết lập Chính phủ",
+          "Mô tả quyền hạn Chính phủ",
+          "Mô tả tổ chức Chính phủ"
+        ]
+      }
+    }
+  },
+  {
+    "question": "The U.S. Constitution starts with the words “We the People.” What does “We the People” mean?",
+    "answers": [
+      "Self-government",
+      "Popular sovereignty",
+      "Consent of the governed",
+      "People should govern themselves",
+      "(Example of) social contract"
+    ],
+    "id": 4,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "People” mean?",
+        "answers": [
+          "Self-government",
+          "Popular sovereignty",
+          "Consent of the governed",
+          "People should govern themselves",
+          "(Example of) social contract"
+        ]
+      },
+      "fr": {
+        "question": "People” mean?",
+        "answers": [
+          "Self-government",
+          "Popular sovereignty",
+          "Consent of the governed",
+          "People should govern themselves",
+          "(Example of) social contract"
+        ]
+      },
+      "ja": {
+        "question": "People” mean?",
+        "answers": [
+          "Self-government",
+          "Popular sovereignty",
+          "Consent of the governed",
+          "People should govern themselves",
+          "(Example of) social contract"
+        ]
+      },
+      "ko": {
+        "question": "People” mean?",
+        "answers": [
+          "Self-government",
+          "Popular sovereignty",
+          "Consent of the governed",
+          "People should govern themselves",
+          "(Example of) social contract"
+        ]
+      },
+      "pl": {
+        "question": "People” mean?",
+        "answers": [
+          "Self-government",
+          "Popular sovereignty",
+          "Consent of the governed",
+          "People should govern themselves",
+          "(Example of) social contract"
+        ]
+      },
+      "ru": {
+        "question": "People” mean?",
+        "answers": [
+          "Self-government",
+          "Popular sovereignty",
+          "Consent of the governed",
+          "People should govern themselves",
+          "(Example of) social contract"
+        ]
+      },
+      "es": {
+        "question": "People” mean?",
+        "answers": [
+          "Self-government",
+          "Popular sovereignty",
+          "Consent of the governed",
+          "People should govern themselves",
+          "(Example of) social contract"
+        ]
+      },
+      "uk": {
+        "question": "People” mean?",
+        "answers": [
+          "Self-government",
+          "Popular sovereignty",
+          "Consent of the governed",
+          "People should govern themselves",
+          "(Example of) social contract"
+        ]
+      },
+      "vi": {
+        "question": "People” mean?",
+        "answers": [
+          "Self-government",
+          "Popular sovereignty",
+          "Consent of the governed",
+          "People should govern themselves",
+          "(Example of) social contract"
+        ]
+      }
+    }
+  },
+  {
+    "question": "How are changes made to the U.S. Constitution?",
+    "answers": [
+      "Amendments",
+      "The amendment process"
+    ],
+    "id": 5,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "Que signifie “Nous, le peuple”?",
+        "answers": [
+          "Gouvernement autonome",
+          "Souveraineté populaire",
+          "Consentement des gouvernés",
+          "Le peuple devrait se gouverner lui-même",
+          "(Exemple de) contrat social"
+        ]
+      },
+      "ja": {
+        "question": "どういう意味ですか?",
+        "answers": [
+          "自治",
+          "国民主権",
+          "被治者の同意",
+          "人民による統治",
+          "社会契約（の例）"
+        ]
+      },
+      "ko": {
+        "question": "의미하는가?",
+        "answers": [
+          "자치",
+          "대중의 주권",
+          "통치되는 이들의 동의",
+          "국민들은 스스로 통치해야함",
+          "사회 계약 (의 예)"
+        ]
+      },
+      "pl": {
+        "question": "zwrot \"My, Naród\"?",
+        "answers": [
+          "Samorząd",
+          "Suwerenność ludu",
+          "Zgoda rządzonych",
+          "Ludzie powinni sami o sobie stanowić",
+          "(Przykład) umowy społecznej"
+        ]
+      },
+      "es": {
+        "question": "Pueblo.\" ¿Qué significa \"Nosotros el Pueblo\"?",
+        "answers": [
+          "Autogobierno",
+          "Soberanía popular",
+          "Consentimiento de los gobernados",
+          "El pueblo debería gobernarse a sí mismo",
+          "(Ejemplo de) contrato social"
+        ]
+      },
+      "uk": {
+        "question": "народ”?",
+        "answers": [
+          "Самоврядування",
+          "Народний суверенітет",
+          "Згода керованих",
+          "Люди мають управляти собою",
+          "(Приклад) суспільного договору"
+        ]
+      },
+      "vi": {
+        "question": "nhân dân\" nghĩa là gì?",
+        "answers": [
+          "Tự quản",
+          "Chủ quyền phổ biến",
+          "Sự ưng thuận của nhân dân",
+          "Người dân nên tự quản lý",
+          "(Ví dụ về) khế ước xã hội"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What does the Bill of Rights protect?",
+    "answers": [
+      "(The basic) rights of Americans",
+      "(The basic) rights of people living in the United States"
+    ],
+    "id": 6,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "5. 美国宪法由哪些变动？",
+        "answers": [
+          "修订",
+          "修订过程"
+        ]
+      },
+      "fr": {
+        "question": "5. Comment sont effectués les changements dans la Constitution?",
+        "answers": [
+          "Les amendements",
+          "Le processus d’amendement"
+        ]
+      },
+      "ja": {
+        "question": "5. アメリカ合衆国憲法はどのように改正されますか?",
+        "answers": [
+          "修正条項（アメリカ合衆国憲法に追加されまたはこれを修正する条項）",
+          "修正手続き"
+        ]
+      },
+      "ko": {
+        "question": "5. 미국 헌법은 어떻게 개정 되는가?",
+        "answers": [
+          "미 헌법 수정 조항",
+          "헌법 수정 절차"
+        ]
+      },
+      "pl": {
+        "question": "5. Jak dokonuje się zmian Konstytucji Stanów Zjednoczonych?",
+        "answers": [
+          "Poprawki",
+          "Proces ratyfikacji i wprowadzania poprawek"
+        ]
+      },
+      "ru": {
+        "question": "5. Как вносятся изменения в Конституцию США?",
+        "answers": [
+          "Поправки",
+          "Процесс внесения поправок"
+        ]
+      },
+      "es": {
+        "question": "5. ¿Cómo se hacen los cambios en la Constitución de los Estados Unidos?",
+        "answers": [
+          "Enmiendas",
+          "El proceso de enmienda"
+        ]
+      },
+      "uk": {
+        "question": "5. Як вносяться зміни до Конституції США?",
+        "answers": [
+          "Поправки",
+          "Процес внесення поправок"
+        ]
+      },
+      "vi": {
+        "question": "5. Hiến pháp Hoa Kỳ được thay đổi như thế nào?",
+        "answers": [
+          "Tu chánh án",
+          "Quy trình tu chính"
+        ]
+      }
+    }
+  },
+  {
+    "question": "How many amendments does the U.S. Constitution have? *",
+    "answers": [
+      "Twenty-seven (27)"
+    ],
+    "id": 7,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "6. 权利法案保护了什么？",
+        "answers": [
+          "美国人的（基本）权利",
+          "生活在美国的人的（基本）权利"
+        ]
+      },
+      "fr": {
+        "question": "6. Que protège la Déclaration des droits américaine?",
+        "answers": [
+          "Les droits (fondamentaux) des Américains"
+        ]
+      },
+      "de": {
+        "question": "People” mean?",
+        "answers": [
+          "Self-government",
+          "Popular sovereignty",
+          "Consent of the governed",
+          "People should govern themselves",
+          "(Example of) social contract"
+        ]
+      },
+      "ja": {
+        "question": "6. 権利章典が保護するものは何ですか?",
+        "answers": []
+      },
+      "ko": {
+        "question": "6. 권리 장전은 무엇을 보호하는가?",
+        "answers": [
+          "미국인들의 (기본적인) 권리"
+        ]
+      },
+      "ru": {
+        "question": "6. Что защищает Билль о правах?",
+        "answers": [
+          "(Основные) права американцев",
+          "(Основные) права людей, которые проживают в США"
+        ]
+      },
+      "es": {
+        "question": "6. ¿Qué protege la Carta de derechos?",
+        "answers": [
+          "Los derechos (básicos) de los estadounidenses"
+        ]
+      },
+      "sw": {
+        "question": "People” mean?",
+        "answers": [
+          "Self-government",
+          "Popular sovereignty",
+          "Consent of the governed",
+          "People should govern themselves",
+          "(Example of) social contract"
+        ]
+      },
+      "tl": {
+        "question": "People” mean?",
+        "answers": [
+          "Self-government",
+          "Popular sovereignty",
+          "Consent of the governed",
+          "People should govern themselves",
+          "(Example of) social contract"
+        ]
+      },
+      "uk": {
+        "question": "6. Що захищає Білль про права?",
+        "answers": [
+          "(Базові) права американців",
+          "(Базові) права людей, які проживають у США"
+        ]
+      },
+      "vi": {
+        "question": "6. Tuyên ngôn Nhân quyền Hoa Kỳ bảo vệ điều gì?",
+        "answers": [
+          "Các quyền (cơ bản) của công dân Hoa Kỳ"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Why is the Declaration of Independence important?",
+    "answers": [
+      "It says America is free from British control.",
+      "It says all people are created equal.",
+      "It identifies inherent rights.",
+      "It identifies individual freedoms."
+    ],
+    "id": 8,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "7. 宪法有多少条修订案？*",
+        "answers": [
+          "二十七条（27）"
+        ]
+      },
+      "de": {
+        "question": "„Wir, das Volk“?",
+        "answers": [
+          "Selbstverwaltung",
+          "Volkssouveränität",
+          "Zustimmung der Regierten",
+          "Das Volk soll sich selbst regieren.",
+          "(Beispiel für einen) Gesellschaftsvertrag"
+        ]
+      },
+      "ja": {
+        "question": "7. アメリカ合衆国憲法にはいくつの修正条項がありますか? *",
+        "answers": [
+          "27"
+        ]
+      },
+      "ko": {
+        "question": "7. 헌법에는 얼마나 많은 수정안이 있는가? *",
+        "answers": [
+          "27 (27개 조항)"
+        ]
+      },
+      "ru": {
+        "question": "7. Сколько поправок в Конституции США? *",
+        "answers": [
+          "Двадцать семь (27)"
+        ]
+      },
+      "es": {
+        "question": "7. ¿Cuántas enmiendas tiene la Constitución de los Estados Unidos? *",
+        "answers": [
+          "Veintisiete (27)"
+        ]
+      },
+      "uk": {
+        "question": "7. Скільки поправок має Конституція США? *",
+        "answers": [
+          "Двадцять сім (27)"
+        ]
+      },
+      "vi": {
+        "question": "7. Hiến pháp có bao nhiêu tu chính án? *",
+        "answers": [
+          "hai mươi bảy (27)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What founding document said the American colonies were free from Britain?",
+    "answers": [
+      "Declaration of Independence"
+    ],
+    "id": 9,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "8. 《独立宣言》有什么重要性？",
+        "answers": [
+          "它声明了美国不再由英国控制。",
+          "它声明所有人生而平等。",
+          "它强调人生来就有的权利。",
+          "它强调人的自由"
+        ]
+      },
+      "de": {
+        "question": "5. Wie werden Änderungen an der US-Verfassung vorgenommen?",
+        "answers": [
+          "Abänderungen oder Ergänzungen der Verfassung",
+          "Verfahren zur Abänderung oder Ergänzung der US-Verfassung"
+        ]
+      },
+      "ja": {
+        "question": "8. 独立宣言が重要な理由は何ですか?",
+        "answers": [
+          "アメリカはイギリスによる支配を受けないことを述べているため。",
+          "すべての人は平等につくられていることを述べているため。",
+          "生得権（自然権）を確認しているため。",
+          "個人の自由を確認しているため。"
+        ]
+      },
+      "ko": {
+        "question": "8. 독립 선언문은 왜 중요한가?",
+        "answers": [
+          "미국은 영국의 통제에서 자유롭다고 선언한다.",
+          "모든 사람들이 평등하게 창조되었다고 선언한다.",
+          "생득권들이 무엇인지 정의한다.",
+          "개인의 자유를 식별한다."
+        ]
+      },
+      "pl": {
+        "question": "7. Ile jest poprawek do Konstytucji Stanów Zjednoczonych? *",
+        "answers": [
+          "Dwadzieścia siedem (27)"
+        ]
+      },
+      "ru": {
+        "question": "8. Почему Декларация Независимости важна?",
+        "answers": [
+          "В ней говорится, что Америка свободна от Британского контроля.",
+          "В ней говорится, что все люди созданы равными.",
+          "В ней определяются неотъемлемые права.",
+          "В ней определяются индивидуальные свободы."
+        ]
+      },
+      "es": {
+        "question": "8. ¿Por qué es importante la Declaración de independencia?",
+        "answers": [
+          "Dice que Estados Unidos está libre del control británico.",
+          "Dice que todas las personas son iguales.",
+          "Identifica los derechos inherentes.",
+          "Identifica las libertades individuales."
+        ]
+      },
+      "uk": {
+        "question": "8. Чому Декларація Незалежності важлива?",
+        "answers": [
+          "У ній стверджується, що Америка вільна від Британського контролю.",
+          "У ній стверджується, що всі люди створені вільними.",
+          "Вона визначає невід’ємні права.",
+          "Вона визначає індивідуальні свободи."
+        ]
+      },
+      "vi": {
+        "question": "8. Tại sao Tuyên ngôn Độc lập lại quan trọng?",
+        "answers": [
+          "Nó xác định rằng Hoa Kỳ thoát khỏi sự kiểm soát của Anh Quốc.",
+          "Nó chỉ ra tất cả mọi người đều sinh ra có quyền bình đẳng.",
+          "Nó xác định các quyền vốn có.",
+          "Nó xác định các quyền tự do cá nhân"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name two important ideas from the Declaration of Independence and the U.S. Constitution.",
+    "answers": [
+      "Equality",
+      "Liberty",
+      "Social contract",
+      "Natural rights",
+      "Limited government",
+      "Self-government"
+    ],
+    "id": 10,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "9. 哪一创始文件说美国殖民地摆脱了英国的统治？",
+        "answers": [
+          "《独立宣言》"
+        ]
+      },
+      "fr": {
+        "question": "8. Pourquoi la Déclaration d’Indépendance est-elle importante?",
+        "answers": [
+          "Elle stipule que l’Amérique n’est plus sous le contrôle britannique.",
+          "Elle stipule que tous les citoyens naissent égaux.",
+          "Elle identifie les droits naturels.",
+          "Elle identifie les libertés individuelles"
+        ]
+      },
+      "de": {
+        "question": "6. Was schützt der Grundrechtekatalog?",
+        "answers": []
+      },
+      "ja": {
+        "question": "9. アメリカ植民地がイギリスによる支配を受けないことを表明した建国文書は何ですか?",
+        "answers": [
+          "独立宣言"
+        ]
+      },
+      "ko": {
+        "question": "9. 무슨 건국 문서가 미국 식민지들이 영국으로부터 자유롭다 선언 했는가?",
+        "answers": [
+          "독립 선언문"
+        ]
+      },
+      "pl": {
+        "question": "8. Dlaczego Deklaracja Niepodległości jest ważna?",
+        "answers": [
+          "Stwierdza, że Ameryka jest wolna od kontroli Brytyjczyków.",
+          "Stwierdza, że wszyscy ludzie są równi.",
+          "Określa prawa nieodłączne.",
+          "Określa wolności indywidualne."
+        ]
+      },
+      "ru": {
+        "question": "9. В каком учредительном документе говорилось о независимости",
+        "answers": []
+      },
+      "es": {
+        "question": "9. ¿Qué documento fundacional decía que las colonias americanas estaban libres",
+        "answers": []
+      },
+      "uk": {
+        "question": "9. У якому основоположному документі було зазначено, що американські",
+        "answers": []
+      },
+      "vi": {
+        "question": "9. Văn kiện thành lập nào cho biết các thuộc địa của Hoa Kỳ đã thoát khỏi Anh",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "The words “Life, Liberty, and the pursuit of Happiness” are in what founding document?",
+    "answers": [
+      "Declaration of Independence"
+    ],
+    "id": 11,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "9. Quel document fondateur stipulait que les colonies américaines n'étaient plus",
+        "answers": []
+      },
+      "pl": {
+        "question": "9. Jaki dokument założycielski stwierdza, że kolonie amerykańske są wolne od",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "What is the economic system of the United States? *",
+    "answers": [
+      "Capitalism",
+      "Free market economy"
+    ],
+    "id": 12,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "11. The words “Life, Liberty, and the pursuit of Happiness” are in what founding",
+        "answers": []
+      },
+      "ja": {
+        "question": "11. The words “Life, Liberty, and the pursuit of Happiness” are in what founding",
+        "answers": []
+      },
+      "ko": {
+        "question": "11. The words “Life, Liberty, and the pursuit of Happiness” are in what founding",
+        "answers": []
+      },
+      "ru": {
+        "question": "США.",
+        "answers": [
+          "Равенство",
+          "Свобода",
+          "Общественный договор",
+          "Естественные права",
+          "Ограниченное правительство",
+          "Самоуправление"
+        ]
+      },
+      "es": {
+        "question": "Constitución de los Estados Unidos.",
+        "answers": [
+          "Igualdad",
+          "Libertad",
+          "Contrato social",
+          "Derechos naturales",
+          "Gobierno limitado",
+          "Autogobierno"
+        ]
+      },
+      "uk": {
+        "question": "11. The words “Life, Liberty, and the pursuit of Happiness” are in what founding",
+        "answers": []
+      },
+      "vi": {
+        "question": "11. The words “Life, Liberty, and the pursuit of Happiness” are in what founding",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "What is the rule of law?",
+    "answers": [
+      "Everyone must follow the law.",
+      "Leaders must obey the law.",
+      "Government must obey the law.",
+      "No one is above the law."
+    ],
+    "id": 13,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "Constitution américaine.",
+        "answers": [
+          "Egalité",
+          "Liberté",
+          "Contrat social",
+          "Droits naturels",
+          "Gouvernement limité",
+          "Gouvernement autonome"
+        ]
+      },
+      "de": {
+        "question": "8. Weshalb ist die Unabhängigkeitserklärung wichtig?",
+        "answers": [
+          "Sie besagt, dass Amerika nicht mehr der britischen Kontrolle untersteht.",
+          "Sie besagt, dass alle Menschen einander gleichwertig sind.",
+          "Sie stellt angeborene und unveräußerliche Rechte heraus.",
+          "Sie stellt persönliche Freiheiten heraus."
+        ]
+      },
+      "pl": {
+        "question": "Stanów Zjednoczonych.",
+        "answers": [
+          "Równość",
+          "Wolność",
+          "Umowa społeczna",
+          "Prawa naturalne",
+          "Ograniczony rząd",
+          "Samorząd"
+        ]
+      },
+      "uk": {
+        "question": "Щастя”?",
+        "answers": [
+          "Декларація Незалежності"
+        ]
+      },
+      "vi": {
+        "question": "nào?",
+        "answers": [
+          "Tuyên ngôn Độc lập"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Many documents influenced the U.S. Constitution. Name one.",
+    "answers": [
+      "Declaration of Independence",
+      "Articles of Confederation",
+      "Federalist Papers",
+      "Anti-Federalist Papers",
+      "Virginia Declaration of Rights",
+      "Fundamental Orders of Connecticut",
+      "Mayflower Compact",
+      "Iroquois Great Law of Peace"
+    ],
+    "id": 14,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "12. 美国的经济体制是什么？*",
+        "answers": [
+          "资本主义",
+          "自由市场经济"
+        ]
+      },
+      "de": {
+        "question": "9. Welche Gründungsurkunde besagt, dass die amerikanischen Kolonien nicht mehr",
+        "answers": []
+      },
+      "ja": {
+        "question": "12. アメリカの経済体制は何ですか? *",
+        "answers": [
+          "資本主義",
+          "自由市場経済"
+        ]
+      },
+      "ko": {
+        "question": "12. 미국의 경제 시스템은 무엇인가? *",
+        "answers": [
+          "자본주의",
+          "자유 시장 경제"
+        ]
+      },
+      "ru": {
+        "question": "стремление к Счастью”?",
+        "answers": [
+          "Декларация Независимости"
+        ]
+      },
+      "es": {
+        "question": "fundacional están?",
+        "answers": [
+          "La Declaración de independencia"
+        ]
+      },
+      "uk": {
+        "question": "12. Яка економічна система Сполучених Штатів? *",
+        "answers": [
+          "Капіталізм",
+          "Вільна ринкова економіка"
+        ]
+      },
+      "vi": {
+        "question": "12. Hệ thống kinh tế của Hoa Kỳ là gì? *",
+        "answers": [
+          "Kinh tế tư bản",
+          "Kinh tế thị trường tự do"
+        ]
+      }
+    }
+  },
+  {
+    "question": "There are three branches of government. Why?",
+    "answers": [
+      "So one part does not become too powerful",
+      "Checks and balances",
+      "Separation of powers"
+    ],
+    "id": 15,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "13..法治是什么？",
+        "answers": [
+          "每个人都必须遵循法律。"
+        ]
+      },
+      "fr": {
+        "question": "liberté et la recherche du bonheur”?",
+        "answers": [
+          "La Déclaration d’Indépendance"
+        ]
+      },
+      "ko": {
+        "question": "13. 법치 주의란 무엇인가?",
+        "answers": [
+          "모든 사람은 법을 따라야 한다."
+        ]
+      },
+      "pl": {
+        "question": "do Szczęścia\"?",
+        "answers": [
+          "Deklaracja Niepodległości"
+        ]
+      },
+      "ru": {
+        "question": "12. Какова экономическая система Соединеннных Штатов? *",
+        "answers": [
+          "Капитализм",
+          "Свободная рыночная экономика"
+        ]
+      },
+      "es": {
+        "question": "12. ¿Cuál es el sistema económico de los Estados Unidos? *",
+        "answers": [
+          "Capitalismo",
+          "Economía de libre mercado"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name the three branches of government.",
+    "answers": [
+      "Legislative, executive, and judicial",
+      "Congress, president, and the courts"
+    ],
+    "id": 16,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "14. 很多文件影响了美国宪法。说出一个。",
+        "answers": [
+          "独立宣言",
+          "联邦条款",
+          "联邦党人文集",
+          "反联邦党人文集",
+          "弗吉尼亚权利宣言",
+          "康涅狄格州的基本命令",
+          "五月花契约",
+          "易洛魁大和平法"
+        ]
+      },
+      "fr": {
+        "question": "12. Quel est le système économique des États-Unis ? *",
+        "answers": [
+          "Capitalisme",
+          "Économie de marché"
+        ]
+      },
+      "ko": {
+        "question": "14. 많은 문서들의 미국의 헌법에 영향을 미쳤다. 하나를 말해보아라.",
+        "answers": [
+          "독립 선언문",
+          "연맹 조항",
+          "연방 주의자 논집",
+          "반-연방주의 논집",
+          "버지니아의 권리 선언문",
+          "코네티컷의 근본적 지시",
+          "메이플라워호 협약",
+          "이로쿼이 연맹 위대한 평화 법"
+        ]
+      },
+      "pl": {
+        "question": "12. Jaki jest ustrój ekonomiczny Stanów Zjednoczonych? *",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "The President of the United States is in charge of which branch of government?",
+    "answers": [
+      "Executive branch"
+    ],
+    "id": 17,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "15. 政府有三个分支。为什么？",
+        "answers": [
+          "任何一部分不会变得过于强大",
+          "制衡与平衡"
+        ]
+      },
+      "ja": {
+        "question": "14. さまざまな文書がアメリカ合衆国憲法に影響を与えました。その一つを挙げてください。",
+        "answers": [
+          "独立宣言",
+          "連合規約",
+          "ザ・フェデラリスト（ペーパーズ）",
+          "ザ・アンチフェデラリスト（ペーパーズ）",
+          "バージニア権利章典",
+          "コネティカット基本法",
+          "メイフラワー盟約",
+          "イロコイ連邦の大いなる平和の法"
+        ]
+      },
+      "ko": {
+        "question": "15. 정부에는 세개의 부서들이 있다. 왜 그런가?",
+        "answers": [
+          "한 부서가 너무 강해지지 않기 위해",
+          "견제와 균형"
+        ]
+      },
+      "pl": {
+        "question": "13. Na czym polegają rządy prawa?",
+        "answers": [
+          "Każdy musi przestrzegać prawa.",
+          "Rządzący muszą przestrzegać prawa.",
+          "Rząd musi przestrzegać prawa.",
+          "Nikt nie jest ponad prawem."
+        ]
+      },
+      "uk": {
+        "question": "14. Багато документів вплинули на Конституцію США. Назвіть один.",
+        "answers": [
+          "Декларація Незалежності.",
+          "Статті Конфедерації.",
+          "Федералістські документи.",
+          "Антифедералістські документи.",
+          "Вірджинська Декларація прав.",
+          "Фундаментальні закони Коннектикуту.",
+          "Мейфлаверська угода",
+          "Великий Закон Миру ірокезів."
+        ]
+      },
+      "vi": {
+        "question": "14. Nhiều tài liệu ảnh hưởng đến Hiến pháp Hoa Kỳ. Hãy nêu một ví dụ.",
+        "answers": [
+          "Tuyên ngôn Độc lập",
+          "Các điều khoản Hợp bang",
+          "Luận cương Liên bang",
+          "Luận cương chống Liên bang",
+          "Tuyên ngôn về Quyền của Virginia",
+          "Các Chỉ thị Cơ bản của Connecticut",
+          "Hiệp ước Mayflower",
+          "Luật Hòa bình Vĩ đại Iroquois"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What part of the federal government writes laws?",
+    "answers": [
+      "(U.S.) Congress",
+      "(U.S. or national) legislature",
+      "Legislative branch"
+    ],
+    "id": 18,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "16. 说出政府的三个分支。",
+        "answers": [
+          "立法，行政和司法",
+          "国会，总统和法院"
+        ]
+      },
+      "de": {
+        "question": "Glück“?",
+        "answers": [
+          "Unabhängigkeitserklärung"
+        ]
+      },
+      "ko": {
+        "question": "16. 정부의 세 기관의 이름을 말하라.",
+        "answers": [
+          "입법부, 행정부 및 사법부",
+          "의회, 대통령 및 법원"
+        ]
+      },
+      "pl": {
+        "question": "14. Wiele dokumentów miało wpływ na Konstytucję USA. Wymień jeden z nich.",
+        "answers": [
+          "Deklaracja Niepodległości",
+          "Artykuły Konfederacji",
+          "Dokumenty federalistyczne",
+          "Dokumenty antyfederalistów",
+          "Deklaracja Praw Wirginii"
+        ]
+      },
+      "ru": {
+        "question": "14. На Конституцию США повлияли много документов. Назовите один.",
+        "answers": [
+          "Декларация Независимости.",
+          "Статьи Конфедерации.",
+          "Документы федералистов.",
+          "Документы антифедералистов.",
+          "Вирджинская декларация прав.",
+          "Фундаментальные законы Коннектикута.",
+          "Мэйфлауерское соглашение.",
+          "Великий Закон Мира ирокезов."
+        ]
+      },
+      "es": {
+        "question": "14. Muchos documentos influyeron en la Constitución de los Estados Unidos.",
+        "answers": []
+      },
+      "uk": {
+        "question": "15. Існує три гілки влади. Чому?",
+        "answers": [
+          "Щоб одна частина не стала занадто потужною."
+        ]
+      }
+    }
+  },
+  {
+    "question": "What are the two parts of the U.S. Congress?",
+    "answers": [
+      "Senate and House (of Representatives)"
+    ],
+    "id": 19,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "17. 美国总统负责哪个政府部门？",
+        "answers": [
+          "行政机关"
+        ]
+      },
+      "fr": {
+        "question": "14. Un certain nombre de documents ont influencé la Constitution américaine.",
+        "answers": []
+      },
+      "ko": {
+        "question": "17. 미국의 대통령은 어느 정부 기관을 책임지고 있는가?",
+        "answers": [
+          "행정부"
+        ]
+      },
+      "pl": {
+        "question": "15. Istnieją trzy gałęzie rządu. Dlaczego?",
+        "answers": [
+          "Aby żadna z nich nie uzyskała zbyt dużej władzy",
+          "Mechanizmy równowagi i kontroli",
+          "Rozdział władzy"
+        ]
+      },
+      "ru": {
+        "question": "15. Существует три ветви власти. Почему?",
+        "answers": [
+          "Чтобы одна часть не стала слишком сильной."
+        ]
+      },
+      "uk": {
+        "question": "16. Назвіть три гілки влади.",
+        "answers": [
+          "Законодавча, виконавча, судова",
+          "Конгрес, президент, та суди"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name one power of the U.S. Congress. *",
+    "answers": [
+      "Writes laws",
+      "Declares war",
+      "Makes the federal budget"
+    ],
+    "id": 20,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "18. 联邦政府的哪一部分制定法律？",
+        "answers": [
+          "美国 国会",
+          "(美国或国家）立法机构",
+          "立法分支"
+        ]
+      },
+      "ja": {
+        "question": "16. 政府の三つの部門を挙げてください。",
+        "answers": [
+          "立法府、行政府、司法府",
+          "国会、大統領、裁判所"
+        ]
+      },
+      "ko": {
+        "question": "18. 연방 정부의 무슨 부서가 법률을 작성하는가?",
+        "answers": [
+          "(미국) 의회",
+          "(미국 또는 국가의) 입법부",
+          "입법부"
+        ]
+      },
+      "pl": {
+        "question": "16. Wymień trzy gałęzie rządu.",
+        "answers": [
+          "Władza ustawodawcza, wykonawcza oraz sądownicza",
+          "Kongres, prezydent oraz sądy"
+        ]
+      },
+      "ru": {
+        "question": "16. Назовите три ветви власти.",
+        "answers": [
+          "Законодательная, исполнительная, судебная.",
+          "Конгресс, президент, и суды."
+        ]
+      },
+      "sw": {
+        "question": "11. The words “Life, Liberty, and the pursuit of Happiness” are in what founding",
+        "answers": []
+      },
+      "uk": {
+        "question": "17. Якою гілкою влади керує Президент Сполучених Штатів?",
+        "answers": [
+          "Виконавчою гілкою"
+        ]
+      },
+      "vi": {
+        "question": "16. Kể tên ba nhánh của chính phủ.",
+        "answers": [
+          "Lập pháp, hành pháp và tư pháp",
+          "Quốc hội, tổng thống và tòa án"
+        ]
+      }
+    }
+  },
+  {
+    "question": "How many U.S. senators are there?",
+    "answers": [
+      "One hundred (100)"
+    ],
+    "id": 21,
+    "year": 2025,
+    "translations": {
+      "ja": {
+        "question": "17. アメリカ合衆国大統領に象徴されるのは政府のどの部門ですか?",
+        "answers": [
+          "行政府"
+        ]
+      },
+      "ko": {
+        "question": "19. 미국 의회의 두 부문은 무엇인가?",
+        "answers": []
+      },
+      "pl": {
+        "question": "17. Jakiej gałęzi rządu przewodzi Prezydent Stanów Zjednoczonych?",
+        "answers": [
+          "Władza wykonawcza"
+        ]
+      },
+      "ru": {
+        "question": "17. Какую ветвь власти возглавляет Президент США?",
+        "answers": [
+          "Исполнительную власть."
+        ]
+      },
+      "uk": {
+        "question": "18. Яка частина федерального уряду пише закони?",
+        "answers": [
+          "Конгрес (США)",
+          "Законодавчий орган (США або національний)",
+          "Законодавча гілка влади"
+        ]
+      },
+      "vi": {
+        "question": "17. Tổng thống Hoa Kỳ phụ trách nhánh nào của chính phủ?",
+        "answers": [
+          "Nhánh hành pháp"
+        ]
+      }
+    }
+  },
+  {
+    "question": "How long is a term for a U.S. senator?",
+    "answers": [
+      "Six (6) years"
+    ],
+    "id": 22,
+    "year": 2025,
+    "translations": {
+      "ja": {
+        "question": "18. 法律を作成するのは連邦政府のどの部門ですか?",
+        "answers": []
+      },
+      "ko": {
+        "question": "20. 미 의회의 권력들 중 하나를 말해보아라. *",
+        "answers": [
+          "법안 작성",
+          "전쟁 선포",
+          "연방 예산 작성"
+        ]
+      },
+      "pl": {
+        "question": "18. Jaki element rządu federalnego spisuje prawa?",
+        "answers": [
+          "(Stany Zjednoczone) Kongres",
+          "Legislatura stanowa",
+          "Władza ustawodawcza"
+        ]
+      },
+      "ru": {
+        "question": "18. Какая часть федерального правительства разрабатывает законы?",
+        "answers": [
+          "Конгресс (США)",
+          "Законодательный орган (США или национальный)",
+          "Законодательная ветвь власти"
+        ]
+      },
+      "vi": {
+        "question": "18. Bộ phận nào của chính phủ liên bang viết luật?",
+        "answers": [
+          "Quốc hội",
+          "(của Liên Bang hay Quốc Gia) cơ quan lập pháp",
+          "Nhánh Lập Pháp"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Who is one of your state’s U.S. senators now?",
+    "answers": [
+      "Answers will vary. [District of Columbia residents and residents of U.S. territories should answer that D.C. (or"
+    ],
+    "id": 23,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "20. .说出美国国会的一项权力。*",
+        "answers": [
+          "制定法律",
+          "宣战",
+          "制定联邦预算"
+        ]
+      },
+      "de": {
+        "question": "14. Es sind viele verschiedene Schriftstücke in die US-Verfassung eingeflossen.",
+        "answers": []
+      },
+      "ja": {
+        "question": "19. 米国議会を構成する二つの要素は何ですか?",
+        "answers": [
+          "上院と下院"
+        ]
+      },
+      "ko": {
+        "question": "21. 미국의 상원 의원은 몇명인가?",
+        "answers": [
+          "백명 (100)"
+        ]
+      },
+      "pl": {
+        "question": "19. Jakie są dwie izby Kongresu Stanów Zjednoczonych?",
+        "answers": [
+          "Senat oraz Izba Reprezentantów"
+        ]
+      },
+      "es": {
+        "question": "17. ¿El Presidente de los Estados Unidos está a cargo de qué rama del gobierno?",
+        "answers": [
+          "Poder ejecutivo"
+        ]
+      },
+      "vi": {
+        "question": "19. Lưỡng Viện Hoa Kỳ bao gồm hai phần gì?",
+        "answers": [
+          "Thượng Viện và Hạ Viện"
+        ]
+      }
+    }
+  },
+  {
+    "question": "How many voting members are in the House of Representatives?",
+    "answers": [
+      "Four hundred thirty-five (435)"
+    ],
+    "id": 24,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "21. 有多少名美国参议员？",
+        "answers": [
+          "一百名（100）"
+        ]
+      },
+      "fr": {
+        "question": "17. Quel pouvoir est détenu par le président des Etats-Unis?",
+        "answers": [
+          "Le pouvoir exécutif"
+        ]
+      },
+      "ja": {
+        "question": "20. 米国議会の権限を一つ挙げてください。*",
+        "answers": [
+          "法律の作成",
+          "戦争の宣言",
+          "連邦予算の作成"
+        ]
+      },
+      "ko": {
+        "question": "22. 미국 상원 의원의 임기는 얼마나 되는가?",
+        "answers": [
+          "육 년 (6)"
+        ]
+      },
+      "pl": {
+        "question": "20. Wymień jedno uprawnienie Kongresu Stanów Zjednoczonych. *",
+        "answers": [
+          "Pisze ustawy",
+          "Wypowiada wojnę",
+          "uchwala budżet federalny"
+        ]
+      },
+      "es": {
+        "question": "18. ¿Qué parte del gobierno federal escribe las leyes?",
+        "answers": [
+          "(EE. UU.) El Congreso"
+        ]
+      },
+      "uk": {
+        "question": "20. Назвіть одне з повноважень Конгресу США. *",
+        "answers": [
+          "Пише закони",
+          "Оголошує війну",
+          "Формує федеральний бюджет"
+        ]
+      },
+      "vi": {
+        "question": "20. Nêu tên một quyền lực của Quốc hội Hoa Kỳ. *",
+        "answers": [
+          "Viết luật",
+          "Tuyên bố chiến tranh",
+          "Tạo ra ngân sách liên bang"
+        ]
+      }
+    }
+  },
+  {
+    "question": "How long is a term for a member of the House of Representatives?",
+    "answers": [
+      "Two (2) years"
+    ],
+    "id": 25,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "22. 参议员的任期有多长？",
+        "answers": [
+          "六（6）年"
+        ]
+      },
+      "fr": {
+        "question": "18. Quelle branche du gouvernement fédéral rédige les lois?",
+        "answers": [
+          "Le Congrès"
+        ]
+      },
+      "ja": {
+        "question": "21. 米国上院議員の数は何名ですか?",
+        "answers": [
+          "100名"
+        ]
+      },
+      "pl": {
+        "question": "21. Ilu jest senatorów USA?",
+        "answers": [
+          "Stu (100)"
+        ]
+      },
+      "ru": {
+        "question": "20. Назовите одно полномочие Конгресса США. *",
+        "answers": [
+          "Принимает законы",
+          "Объявляет войну",
+          "Формирует федеральный бюджет"
+        ]
+      },
+      "es": {
+        "question": "19. ¿Cuáles son las dos partes que integran el Congreso de los Estados Unidos?",
+        "answers": [
+          "El Senado y la Cámara (de Representantes)"
+        ]
+      },
+      "uk": {
+        "question": "21. Скільки є сенаторів США?",
+        "answers": [
+          "Сто (100)"
+        ]
+      },
+      "vi": {
+        "question": "21. Có bao nhiêu Thượng Nghị Sĩ Hoa Kỳ?",
+        "answers": [
+          "Một trăm (100)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Why do U.S. representatives serve shorter terms than U.S. senators?",
+    "answers": [
+      "To more closely follow public opinion"
+    ],
+    "id": 26,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "19. Quelles sont les deux parties qui constituent le Congrès américain?",
+        "answers": [
+          "Le Sénat et la Chambre (des Représentants)"
+        ]
+      },
+      "ja": {
+        "question": "22. 米国上院議員の任期は何年ですか?",
+        "answers": [
+          "6年"
+        ]
+      },
+      "ko": {
+        "question": "신청인이",
+        "answers": []
+      },
+      "pl": {
+        "question": "22. Jak długo trwa kadencja senatora Stanów Zjednoczonych?",
+        "answers": [
+          "Sześć (6) lat"
+        ]
+      },
+      "ru": {
+        "question": "21. Сколько в США сенаторов?",
+        "answers": [
+          "Сто (100)"
+        ]
+      },
+      "uk": {
+        "question": "22. Який термін повноважень сенатора США?",
+        "answers": [
+          "Шість (6) років"
+        ]
+      },
+      "vi": {
+        "question": "22. Nhiệm kỳ của một thượng nghị sĩ Hoa Kỳ là bao lâu?",
+        "answers": [
+          "Sáu (6) năm"
+        ]
+      }
+    }
+  },
+  {
+    "question": "How many senators does each state have?",
+    "answers": [
+      "Two (2)"
+    ],
+    "id": 27,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "20. Nommez un pouvoir du Congrès américain. *",
+        "answers": [
+          "Rédige les lois",
+          "Déclare la guerre",
+          "Établit le budget fédéral"
+        ]
+      },
+      "ko": {
+        "question": "24. 하원 의원은 몇 명인가?",
+        "answers": [
+          "사백 마흔 다섯명 (435)"
+        ]
+      },
+      "ru": {
+        "question": "22. Какова продолжительность срока полномочий Сенатора США?",
+        "answers": [
+          "Шесть (6) лет"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Why does each state have two senators?",
+    "answers": [
+      "Equal representation (for small states)",
+      "The Great Compromise (Connecticut Compromise)"
+    ],
+    "id": 28,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "24. .众议院有多少投票成员？",
+        "answers": [
+          "四百三十五名（435）"
+        ]
+      },
+      "fr": {
+        "question": "21. Combien y a-t-il de sénateurs américains?",
+        "answers": [
+          "Cent (100)"
+        ]
+      },
+      "de": {
+        "question": "17. Welche Art von Regierungsgewalt hat der Präsident der Vereinigten Staaten von",
+        "answers": []
+      },
+      "ja": {
+        "question": "は、コロンビア特別区（または市民権申請者が居住している領土）には、米国上院議員",
+        "answers": []
+      },
+      "ko": {
+        "question": "25. 하원 의원의 임기는 얼마나 되는가?",
+        "answers": [
+          "이년 (2)"
+        ]
+      },
+      "pl": {
+        "question": "terytoriów amerykańskich powinni odpowiedzieć, że w Dystrykcie Kolumbii",
+        "answers": []
+      },
+      "es": {
+        "question": "21. ¿Cuántos senadores de los Estados Unidos hay?",
+        "answers": [
+          "Cien (100)"
+        ]
+      },
+      "vi": {
+        "question": "rằng Quận Colombia (hoặc lãnh thổ mà ứng viên sinh sống) không có nghị sĩ",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "Name your U.S. representative.",
+    "answers": [
+      "Answers will vary. [Residents of territories with nonvoting Delegates or Resident Commissioners may provide"
+    ],
+    "id": 29,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "25. 众议员任期多长时间？",
+        "answers": [
+          "两（2）年"
+        ]
+      },
+      "fr": {
+        "question": "22. Combien de temps dure le mandat d'un sénateur américain?",
+        "answers": [
+          "Six (6) ans"
+        ]
+      },
+      "ja": {
+        "question": "24. 米国下院で投票権を持つ議員は何名ですか?",
+        "answers": [
+          "435名"
+        ]
+      },
+      "ko": {
+        "question": "26. 왜 미국의 하원 의원들이 상원 의원들보다 임기가 짧은가?",
+        "answers": [
+          "여론을 더 밀접하게 따르기 위해"
+        ]
+      },
+      "pl": {
+        "question": "24. Ilu członków, posiadających prawo głosu zasiada w Izbie Reprezentantów?",
+        "answers": [
+          "Czterystu trzydziestu pięciu (435)"
+        ]
+      },
+      "es": {
+        "question": "22. ¿Cuánto dura un mandato para un senador de los EE. UU.?",
+        "answers": [
+          "Seis (6) años"
+        ]
+      },
+      "uk": {
+        "question": "24. Скільки членів Палати Представників мають право голосу?",
+        "answers": [
+          "Чотириста тридцять п’ять (435)"
+        ]
+      },
+      "vi": {
+        "question": "24. Hạ Viện có bao nhiêu thành viên bỏ phiếu?",
+        "answers": [
+          "Bốn trăm ba mươi lăm (435)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What is the name of the Speaker of the House of Representatives now? *",
+    "answers": [
+      "Visit uscis.gov/citizenship/testupdates for the name of the Speaker of the House of Representatives."
+    ],
+    "id": 30,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "26. 为什么美国众议员的任期比参议员的任期短？",
+        "answers": [
+          "为了紧跟公众舆论"
+        ]
+      },
+      "ja": {
+        "question": "25. 下院の議員の任期は何年ですか?",
+        "answers": [
+          "2年"
+        ]
+      },
+      "ko": {
+        "question": "27. 각 주에는 몇 명의 상원 의원이 있는가?",
+        "answers": [
+          "두명 (2)"
+        ]
+      },
+      "pl": {
+        "question": "25. Jak długo trwa kadencja członka Izby Reprezentantów?",
+        "answers": [
+          "Dwa (2) lata"
+        ]
+      },
+      "ru": {
+        "question": "24. Сколько членов с правом голоса в Палате Представителей?",
+        "answers": [
+          "Четыреста тридцать пять(435)"
+        ]
+      },
+      "uk": {
+        "question": "25. Який термін повноважень члена Палати Представників?",
+        "answers": [
+          "Два (2) роки"
+        ]
+      },
+      "vi": {
+        "question": "25. Nhiệm kỳ của một dân biểu trong Hạ Viện là bao lâu?",
+        "answers": [
+          "Hai (2) năm"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Who does a U.S. senator represent?",
+    "answers": [
+      "Citizens of their state",
+      "People of their state"
+    ],
+    "id": 31,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "27. 每个州有多少名参议员？",
+        "answers": [
+          "二（2）"
+        ]
+      },
+      "fr": {
+        "question": "résidents des États-Unis doivent répondre que D.C. (ou le territoire où réside",
+        "answers": []
+      },
+      "ja": {
+        "question": "26. 米国下院議員の任期が米国上院議員の任期よりも短いのはなぜですか?",
+        "answers": [
+          "国民の近くに身を置き、より世論に密着するため"
+        ]
+      },
+      "ko": {
+        "question": "28. 왜 각 주에 두명의 상원 의원이 있는가?",
+        "answers": [
+          "(작은 주들을 위한) 평등한 대의권",
+          "위대한 타협 (코네티컷 타협)"
+        ]
+      },
+      "ru": {
+        "question": "25. Каков срок полномочий члена Палаты Представителей?",
+        "answers": [
+          "Два (2) года"
+        ]
+      },
+      "es": {
+        "question": "territorios de los Estados Unidos deberán responder que D.C. (o territorio en",
+        "answers": []
+      },
+      "uk": {
+        "question": "26. Чому представники США обіймають коротші терміни повноважень, аніж",
+        "answers": []
+      },
+      "vi": {
+        "question": "26. Tại sao dân biểu Hoa Kỳ có nhiệm kỳ ngắn hơn so với thượng nghị sĩ Hoa Kỳ?",
+        "answers": [
+          "Theo dõi sát sao dư luận hơn"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Who elects U.S. senators?",
+    "answers": [
+      "Citizens from their state"
+    ],
+    "id": 32,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "28. 为什么每州有2名参议员？",
+        "answers": []
+      },
+      "fr": {
+        "question": "24. Combien y a-t-il de membres à la Chambre des Représentants?",
+        "answers": [
+          "Quatre cent trente-cinq (435)"
+        ]
+      },
+      "ru": {
+        "question": "26. Почему срок полномочий членов Палаты Представителей короче, чем у",
+        "answers": []
+      },
+      "es": {
+        "question": "24. ¿Cuántos miembros con derecho a voto hay en la Cámara de Representantes?",
+        "answers": [
+          "Cuatrocientos treinta y cinco (435)"
+        ]
+      },
+      "uk": {
+        "question": "27. Скільки сенаторів має кожний штат?",
+        "answers": [
+          "Два (2)"
+        ]
+      },
+      "vi": {
+        "question": "27. Mỗi bang có bao nhiêu thượng nghị sĩ?",
+        "answers": [
+          "Hai (2)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Who does a member of the House of Representatives represent?",
+    "answers": [
+      "Citizens in their (congressional) district",
+      "Citizens in their district",
+      "People from their (congressional) district",
+      "People in their district"
+    ],
+    "id": 33,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "25. Combien de temps dure le mandat d'un membre à la Chambre des",
+        "answers": []
+      },
+      "ko": {
+        "question": "주민들은 대표나 주민 커미셔너 이름을 말하면 됨. 거주하는 미국령에는 국회에",
+        "answers": []
+      },
+      "pl": {
+        "question": "27. Ilu senatorów jest w każdym stanie?",
+        "answers": [
+          "Dwóch (2)"
+        ]
+      },
+      "ru": {
+        "question": "27. Сколько сенаторов в каждом штате?",
+        "answers": [
+          "Два (2)"
+        ]
+      },
+      "es": {
+        "question": "25. ¿Cuánto dura un mandato para un miembro de la Cámara de Representantes?",
+        "answers": [
+          "Dos (2) años"
+        ]
+      },
+      "vi": {
+        "question": "28. Tại sao mỗi bang có hai thượng nghị sĩ?",
+        "answers": [
+          "Đại diện bình đẳng (cho các bang nhỏ)",
+          "Thỏa Hiệp Lớn (Thỏa Hiệp Connecticut)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Who elects members of the House of Representatives?",
+    "answers": [
+      "Citizens from their (congressional) district"
+    ],
+    "id": 34,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "驻地代表在国会中 无表决权的表述也可接受。]",
+        "answers": []
+      },
+      "fr": {
+        "question": "26. Pourquoi est-ce que les membres de la Chambre des Représentants ont un",
+        "answers": []
+      },
+      "ja": {
+        "question": "28. 各州に二名の上院議員がいる理由は何ですか?",
+        "answers": [
+          "（人口が少ない州でも）平等に代表するため",
+          "大妥協（コネティカット妥協案）"
+        ]
+      },
+      "pl": {
+        "question": "28. Dlaczego w każdym stanie jest dwóch senatorów?",
+        "answers": [
+          "Równa reprezentacja (dla małych stanów)",
+          "Wielki Kompromis (Kompromis Connecticut)"
+        ]
+      },
+      "es": {
+        "question": "26. ¿Por qué los representantes sirven por períodos más cortos que los senadores",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "Some states have more representatives than other states. Why?",
+    "answers": [
+      "(Because of) the state’s population",
+      "(Because) they have more people",
+      "(Because) some states have more people"
+    ],
+    "id": 35,
+    "year": 2025,
+    "translations": {
+      "es": {
+        "question": "27. ¿Cuántos senadores tiene cada estado?",
+        "answers": []
+      },
+      "vi": {
+        "question": "viên Thường trú không bỏ phiếu có thể nêu tên của Đại biểu hoặc Ủy viên đó.",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "The President of the United States is elected for how many years? *",
+    "answers": [
+      "Four (4) years"
+    ],
+    "id": 36,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "浏览 uscis.gov/citizenship/testupdates 搜索众议院议长的姓名。",
+        "answers": []
+      },
+      "ja": {
+        "question": "ショナー）が投票権を持たない領土の住人は、その代表者の名前を挙げてもよい。また",
+        "answers": []
+      },
+      "ko": {
+        "question": "31. 미국의 상원의원은 누구를 대표하는가?",
+        "answers": [
+          "해당 주의 주민들",
+          "해당 주의 사람들"
+        ]
+      },
+      "pl": {
+        "question": "nieposiadających prawa głosu lub tzw. Resident Commissioners mogą podać",
+        "answers": []
+      },
+      "es": {
+        "question": "28. ¿Por qué cada estado tiene dos senadores?",
+        "answers": [
+          "Representación igualitaria (para los estados pequeños)",
+          "El Gran compromiso (Compromiso de Connecticut)"
+        ]
+      },
+      "uk": {
+        "question": "голосу або постійними уповноваженими можуть вказати ім’я цього",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "The President of the United States can serve only two terms. Why?",
+    "answers": [
+      "(Because of) the 22nd Amendment",
+      "To keep the president from becoming too powerful"
+    ],
+    "id": 37,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "31. 美国参议员代表的是谁？",
+        "answers": [
+          "他们州的公民",
+          "他们所在州的人"
+        ]
+      },
+      "fr": {
+        "question": "28. Pourquoi chaque État peut envoyer deux sénateurs?",
+        "answers": [
+          "Représentation équitable (pour les petits États)",
+          "le Great Compromise (Compromis du Connecticut)"
+        ]
+      },
+      "ko": {
+        "question": "32. 누가 미국 상원 의원을 선출하는가?",
+        "answers": [
+          "해당 주의 주민들"
+        ]
+      },
+      "ru": {
+        "question": "голоса или постоянными комиссарами могут указать имя такого",
+        "answers": []
+      },
+      "vi": {
+        "question": "Hạ viện Dân Biểu Hoa Kỳ",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "What is the name of the President of the United States now? *",
+    "answers": [
+      "Visit uscis.gov/citizenship/testupdates for the name of the President of the United States."
+    ],
+    "id": 38,
+    "year": 2025,
+    "translations": {
+      "de": {
+        "question": "23. Who is one of your state’s U.S. senators now?",
+        "answers": [
+          "Answers will vary. [District of Columbia residents and residents of U.S."
+        ]
+      },
+      "ko": {
+        "question": "33. 하원 의원은 누구를 대표하는가?",
+        "answers": [
+          "자신의 (의회) 지구 시민",
+          "본인들의 지구 내 시민들",
+          "해당 지구(선거구)의 사람들",
+          "해당 지구의 사람들"
+        ]
+      },
+      "uk": {
+        "question": "Палати Представників.",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "What is the name of the Vice President of the United States now? *",
+    "answers": [
+      "Visit uscis.gov/citizenship/testupdates for the name of the Vice President of the United States."
+    ],
+    "id": 39,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "votants ou des commissaires résidents peuvent indiquer le nom de ce",
+        "answers": []
+      },
+      "ko": {
+        "question": "34. 누가 하원 의원들을 선출하는가?",
+        "answers": [
+          "자신의 (의회) 지구의 시민들"
+        ]
+      },
+      "pl": {
+        "question": "31. Kogo reprezentuje senator Stanów Zjednoczonych?",
+        "answers": [
+          "Obywateli swojego stanu",
+          "Osoby ze swojego stanu"
+        ]
+      },
+      "uk": {
+        "question": "31.Кого представляє сенатор США?",
+        "answers": [
+          "Громадян свого штату",
+          "Людей свого штату"
+        ]
+      }
+    }
+  },
+  {
+    "question": "If the president can no longer serve, who becomes president?",
+    "answers": [
+      "The Vice President (of the United States)"
+    ],
+    "id": 40,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "33. 众议院的议员代表的是谁？",
+        "answers": [
+          "其（国会）地区的公民",
+          "其地区的公民",
+          "来自他们（国会）选区的人",
+          "他们所在地区的人"
+        ]
+      },
+      "de": {
+        "question": "24. Wie viele Abgeordnete hat das Repräsentantenhaus?",
+        "answers": [
+          "Vierhundertfünfunddreißig (435)"
+        ]
+      },
+      "ko": {
+        "question": "35. 어째서 어떤 주에는 다른 주보다 더 많은 하원의원이 있는가?",
+        "answers": [
+          "주의 인구 때문에",
+          "더 많은 사람들이 살고 있기 때문에",
+          "어떤 주에는 사람이 더 많기 때문에"
+        ]
+      },
+      "pl": {
+        "question": "32. Kto wybiera senatorów Stanów Zjednoczonych?",
+        "answers": [
+          "Obywatele ich stanów"
+        ]
+      },
+      "ru": {
+        "question": "31.Кого представляет сенатор США?",
+        "answers": [
+          "Граждан своего штата",
+          "Людей своего штата"
+        ]
+      },
+      "es": {
+        "question": "la Cámara de Representantes.",
+        "answers": []
+      },
+      "uk": {
+        "question": "32. Хто обирає сенаторів США?",
+        "answers": [
+          "Громадяни їхнього штату"
+        ]
+      },
+      "vi": {
+        "question": "32. Ai bầu chọn thượng nghị sĩ Hoa Kỳ?",
+        "answers": [
+          "Công dân tiểu bang của họ"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name one power of the president.",
+    "answers": [
+      "Signs bills into law",
+      "Vetoes bills",
+      "Enforces laws",
+      "Commander in Chief (of the military)",
+      "Chief diplomat",
+      "Appoints federal judges"
+    ],
+    "id": 41,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "34. 谁来选举众议院议员？",
+        "answers": [
+          "来自（国会）区的公民"
+        ]
+      },
+      "fr": {
+        "question": "Chambre des représentants.",
+        "answers": []
+      },
+      "de": {
+        "question": "25. Wie lange dauert die Amtszeit eines Mitglieds des Repräsentantenhauses?",
+        "answers": [
+          "zwei (2) Jahre"
+        ]
+      },
+      "ja": {
+        "question": "32. 米国上院議員を選出するのは誰ですか?",
+        "answers": [
+          "その州の市民"
+        ]
+      },
+      "pl": {
+        "question": "33. Kogo reprezentuje członek Izby Reprezentantów?",
+        "answers": [
+          "Obywateli ze swojego okręgu kongresowego",
+          "Obywateli ze swojego okręgu"
+        ]
+      },
+      "ru": {
+        "question": "32. Кто избирает сенаторов США?",
+        "answers": [
+          "Граждане своего штата"
+        ]
+      },
+      "uk": {
+        "question": "33. Кого представляє член Палати Представників?",
+        "answers": [
+          "Громадян у своєму виборчому окрузі",
+          "Громадян у своєму окрузі",
+          "Людей у своєму виборчому окрузі",
+          "Людей у своєму окрузі"
+        ]
+      },
+      "vi": {
+        "question": "33. Dân biểu của Hạ viện đại diện cho ai?",
+        "answers": [
+          "Công dân trong quận (quốc hội) của họ",
+          "Công dân trong quận của họ",
+          "Người dân từ khu vực bầu cử (quốc hội) của họ",
+          "Người dân trong khu vực của họ"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Who is Commander in Chief of the U.S. military?",
+    "answers": [
+      "The President (of the United States)"
+    ],
+    "id": 42,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "35. 为什么有些州的代表比其他州多？",
+        "answers": [
+          "(因为）該州的人口",
+          "(因为）他们有更多人",
+          "(因为）一些州有更多人"
+        ]
+      },
+      "ja": {
+        "question": "33. 米国下院議員は誰の代表ですか?",
+        "answers": [
+          "その（下院）選挙区の市民",
+          "その選挙区の市民",
+          "その（議会）選挙区に属する人々",
+          "その選挙区に住んでいる人々"
+        ]
+      },
+      "pl": {
+        "question": "34. Kto wybiera członków Izby Reprezentantów?",
+        "answers": [
+          "Obywatele z ich okręgów kongresowych"
+        ]
+      },
+      "ru": {
+        "question": "33. Кого представляет член Палаты Представителей?",
+        "answers": [
+          "Граждан своего избирательного округа",
+          "Граждан своего округа",
+          "Людей своего избирательного округа",
+          "Людей своего округа"
+        ]
+      },
+      "uk": {
+        "question": "34. Хто обирає членів Палати Представників?",
+        "answers": [
+          "Громадяни з іхнього виборчого округу"
+        ]
+      },
+      "vi": {
+        "question": "34. Ai bầu ra các dân biểu của Hạ Viện?",
+        "answers": [
+          "Công dân từ quận (quốc hội) của họ"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Who signs bills to become laws?",
+    "answers": [
+      "The President (of the United States)"
+    ],
+    "id": 43,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "36. 我们选举总统任期为多少年？*",
+        "answers": [
+          "四年（4)"
+        ]
+      },
+      "de": {
+        "question": "kürzer als die für Senatoren?",
+        "answers": [
+          "um dem Willen des Volkes besser Folge leisten zu können"
+        ]
+      },
+      "ja": {
+        "question": "34. 米国下院議員を選出するのは誰ですか?",
+        "answers": [
+          "その（下院）選挙区の市民"
+        ]
+      },
+      "ko": {
+        "question": "37. 미국의 대통령은 두 번만 임기를 할 수 있다. 왜 그런가?",
+        "answers": [
+          "제 22대 미국 헌법 수정 조항 (때문에)",
+          "대통령이 너무 강력 해지는 것 부터 막기 위해"
+        ]
+      },
+      "pl": {
+        "question": "35. Niektóre stany mają więcej reprezentantów, niż inne. Dlaczego?",
+        "answers": [
+          "Ze względu na populację danego stanu",
+          "Bo mieszka tam więcej ludzi",
+          "Bo w niektórych stanach jest więcej ludzi"
+        ]
+      },
+      "ru": {
+        "question": "34. Кто избирает членов Палаты Представителей?",
+        "answers": [
+          "Граждане от своего избирательного округа"
+        ]
+      },
+      "es": {
+        "question": "32. ¿Quién elige a los senadores de los EE. UU.?",
+        "answers": [
+          "Los ciudadanos de su estado"
+        ]
+      },
+      "sw": {
+        "question": "23. Who is one of your state’s U.S. senators now?",
+        "answers": [
+          "Answers will vary. [District of Columbia residents and residents of U.S."
+        ]
+      },
+      "uk": {
+        "question": "35. У деяких штатах більше представників, аніж у інших. Чому?",
+        "answers": [
+          "(Через) населення штату",
+          "(Через те, що) у них більше людей",
+          "(Через те, що) у деяких штатах більше людей"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Who vetoes bills? *",
+    "answers": [
+      "The President (of the United States)"
+    ],
+    "id": 44,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "37. 美国总统只能担任两个任期。为什么？",
+        "answers": [
+          "(因为）第22条修正案",
+          "防止总统权力过大"
+        ]
+      },
+      "fr": {
+        "question": "32. Qui élit les sénateurs américains?",
+        "answers": [
+          "Les citoyens de leur État"
+        ]
+      },
+      "ja": {
+        "question": "35. 一部の州には他の州よりも多く下院議員が割り当てられます。これはなぜですか?",
+        "answers": [
+          "その州の人口数によるため",
+          "人が多いため",
+          "一部の州は、他の州よりも人口が多いため"
+        ]
+      },
+      "pl": {
+        "question": "36. Na ile lat wybierany jest prezydent Stanów Zjednoczonych? *",
+        "answers": [
+          "Na cztery (4) lata"
+        ]
+      },
+      "ru": {
+        "question": "35. В некоторых штатах представителей больше, чем в других. Почему?",
+        "answers": [
+          "Из-за численности населения штата",
+          "Потому, что в них больше людей"
+        ]
+      },
+      "es": {
+        "question": "33. ¿A quiénes representa un miembro de la Cámara de Representantes?",
+        "answers": [
+          "Los ciudadanos en su distrito (congresional)",
+          "Los ciudadanos en su distrito",
+          "Personas de su distrito (del Congreso)",
+          "Personas en su distrito"
+        ]
+      },
+      "tl": {
+        "question": "23. Who is one of your state’s U.S. senators now?",
+        "answers": [
+          "Answers will vary. [District of Columbia residents and residents of U.S."
+        ]
+      },
+      "uk": {
+        "question": "36. На скільки років обирається Президент США? *",
+        "answers": [
+          "Чотири (4) роки"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Who appoints federal judges?",
+    "answers": [
+      "The President (of the United States)"
+    ],
+    "id": 45,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "33. Qui est représenté par un membre de la Chambre des Représentants?",
+        "answers": [
+          "Les citoyens de son district (congressionnel)",
+          "Les citoyens de son district",
+          "Les habitants de son district (congressionel)",
+          "Les habitants de son district"
+        ]
+      },
+      "ja": {
+        "question": "36. アメリカ合衆国大統領の任期は何年ですか? *",
+        "answers": [
+          "4年"
+        ]
+      },
+      "ko": {
+        "question": "알아보십시오.",
+        "answers": []
+      },
+      "pl": {
+        "question": "37. Prezydentem Stanów Zjednoczonych można być tylko przez dwie kadencje.",
+        "answers": []
+      },
+      "ru": {
+        "question": "36. На сколько лет избирается Президент США? *",
+        "answers": [
+          "Четыре (4) года"
+        ]
+      },
+      "es": {
+        "question": "34. ¿Quién elige a los miembros de la Cámara de Representantes?",
+        "answers": [
+          "Los ciudadanos de su distrito (congresional)"
+        ]
+      },
+      "uk": {
+        "question": "37. Президент США може обіймати посаду лише два терміни. Чому?",
+        "answers": [
+          "Через 22-гу Поправку",
+          "Щоб президент не став занадто могутнім"
+        ]
+      },
+      "vi": {
+        "question": "36. Nhiệm kỳ của một Tổng thống là bao nhiêu năm? *",
+        "answers": [
+          "bốn (4)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "The executive branch has many parts. Name one.",
+    "answers": [
+      "President (of the United States)",
+      "Cabinet",
+      "Federal departments and agencies"
+    ],
+    "id": 46,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "34. Qui élit les membres de la Chambre des Représentants?",
+        "answers": [
+          "Les citoyens de chaque district (congressionnel)"
+        ]
+      },
+      "ja": {
+        "question": "37. アメリカ合衆国大統領は最長二期です。これはなぜですか?",
+        "answers": [
+          "修正第22条により",
+          "大統領の権力が強くなりすぎないようにするため"
+        ]
+      },
+      "ru": {
+        "question": "37. Президент США может занимать пост только два срока. Почему?",
+        "answers": [
+          "Из-за 22-ой Поправки",
+          "Чтобы предотвратить чрезмерное усиление власти президента"
+        ]
+      },
+      "vi": {
+        "question": "37. Tổng thống Hoa Kỳ chỉ có thể phục vụ hai nhiệm kỳ. Tại sao?",
+        "answers": [
+          "(Vì) Tu chính án thứ 22",
+          "Để giữ tổng thống không trở nên quá quyền lực"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What does the President’s Cabinet do?",
+    "answers": [
+      "Advises the President (of the United States)"
+    ],
+    "id": 47,
+    "year": 2025,
+    "translations": {
+      "ko": {
+        "question": "알아보십시오.",
+        "answers": []
+      },
+      "uk": {
+        "question": "Президента Сполучених Штатів.",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "What are two Cabinet-level positions?",
+    "answers": [
+      "Attorney General",
+      "Secretary of Agriculture",
+      "Secretary of Commerce",
+      "Secretary of Education",
+      "Secretary of Energy",
+      "Secretary of Health and Human Services",
+      "Secretary of Homeland Security",
+      "Secretary of Housing and Urban Development",
+      "Secretary of the Interior",
+      "Secretary of Labor",
+      "Secretary of State",
+      "Secretary of Transportation",
+      "Secretary of the Treasury",
+      "Secretary of Veterans Affairs",
+      "Secretary of War (Defense)",
+      "Vice-President",
+      "Administrator of the Environmental Protection Agency",
+      "Administrator of the Small Business Administration",
+      "Director of the Central Intelligence Agency",
+      "Director of the Office of Management and Budget",
+      "Director of National Intelligence",
+      "United States Trade Representative"
+    ],
+    "id": 48,
+    "year": 2025,
+    "translations": {
+      "ko": {
+        "question": "40. 대통령이 더 이상 임무를 수행할 수 없다면, 누가 대통령이 되는가?",
+        "answers": [
+          "부통령"
+        ]
+      },
+      "es": {
+        "question": "36. ¿De cuántos años es el término de elección de un presidente? *",
+        "answers": [
+          "Cuatro (4）"
+        ]
+      },
+      "vi": {
+        "question": "Thống Hoa Kỳ.",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "Why is the Electoral College important?",
+    "answers": [
+      "It decides who is elected president.",
+      "It provides a compromise between the popular election of the president and congressional selection."
+    ],
+    "id": 49,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "40. 如果总统无法继续履任，谁会成为总统？",
+        "answers": []
+      },
+      "fr": {
+        "question": "36. Pour combien d'années élisons-nous un Président ?*",
+        "answers": [
+          "Quatre (4)"
+        ]
+      },
+      "de": {
+        "question": "nicht stimmberechtigten Delegierten oder ortsansässigen Kommissaren",
+        "answers": []
+      },
+      "ko": {
+        "question": "41. 대통령의 권한 중 하나를 말해 보아라.",
+        "answers": [
+          "법안을 법률로 서명",
+          "법안 거부",
+          "법 직행",
+          "(군대의) 총 사령관",
+          "최고위자 외교관",
+          "연방 판사를 임명합니다"
+        ]
+      },
+      "es": {
+        "question": "37. El Presidente de los Estados Unidos sólo puede cumplir dos mandatos. ¿Por",
+        "answers": []
+      },
+      "uk": {
+        "question": "Віце-Президента Сполучених Штатів.",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "What is one part of the judicial branch?",
+    "answers": [
+      "Supreme Court",
+      "Federal Courts"
+    ],
+    "id": 50,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "41. 说出一个总统的职权。",
+        "answers": [
+          "签署法案成为法律",
+          "否决法案",
+          "实施法律",
+          "(军事）总司令",
+          "首席外交官",
+          "任命联邦法官"
+        ]
+      },
+      "fr": {
+        "question": "37. Le Président des Etats-Unis est autorisé à n'effectuer que deux mandats.",
+        "answers": []
+      },
+      "ja": {
+        "question": "と。",
+        "answers": []
+      },
+      "ko": {
+        "question": "42. 군의 최고 사령관은 누구인가?",
+        "answers": [
+          "대통령"
+        ]
+      },
+      "pl": {
+        "question": "40. Kto zostaje prezydentem, jeśli obecny prezydent nie może dłużej pełnić swojego",
+        "answers": []
+      },
+      "vi": {
+        "question": "Tổng Thống Hoa Kỳ.",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "What does the judicial branch do?",
+    "answers": [
+      "Reviews laws",
+      "Explains laws",
+      "Resolves disputes (disagreements) about the law",
+      "Decides if a law goes against the (U.S.) Constitution"
+    ],
+    "id": 51,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "42. 谁是军队总司令？",
+        "answers": [
+          "总统"
+        ]
+      },
+      "de": {
+        "question": "können Sie auf der Website uscis.gov/citizenship/testupdates",
+        "answers": []
+      },
+      "ja": {
+        "question": "40. 大統領が職務を遂行できなくなった場合、誰が大統領になりますか?",
+        "answers": [
+          "アメリカ合衆国副大統領"
+        ]
+      },
+      "ko": {
+        "question": "43. 누가 법안에 서명하여 법률로 정하는가?",
+        "answers": [
+          "대통령"
+        ]
+      },
+      "vi": {
+        "question": "40. Nếu Tổng thống không thể tiếp tục phục vụ, ai sẽ trở thành Tổng thống?",
+        "answers": [
+          "Phó Tổng thống"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What is the highest court in the United States? *",
+    "answers": [
+      "Supreme Court"
+    ],
+    "id": 52,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "43. 谁签署议案将其变成法律？",
+        "answers": [
+          "总统"
+        ]
+      },
+      "fr": {
+        "question": "États-Unis",
+        "answers": []
+      },
+      "de": {
+        "question": "31. Wen repräsentieren die US-Senatorinnen und -Senatoren?",
+        "answers": [
+          "die Bürgerinnen und Bürger ihres Bundestaates",
+          "Menschen ihres Bundesstaates"
+        ]
+      },
+      "ja": {
+        "question": "41. 大統領の権限を一つ挙げてください。",
+        "answers": [
+          "法案に署名し法律として成立させる",
+          "法案を拒否する",
+          "法律（大統領令）を発令する",
+          "（米軍の）最高司令官",
+          "最高外交官",
+          "連邦判事を任命する"
+        ]
+      },
+      "ko": {
+        "question": "44. 누가 법안에 거부권을 행사하는가? *",
+        "answers": []
+      },
+      "ru": {
+        "question": "становится президентом?",
+        "answers": [
+          "Вице-Президент (США)"
+        ]
+      },
+      "uk": {
+        "question": "41. Назвіть одне повноваження президента.",
+        "answers": [
+          "Підписує законопроекти, перетворюючи їх на закони",
+          "Накладає вето на законопроекти",
+          "Забезпечує дотримання законів",
+          "Головнокомандувач (збройними силами)",
+          "Головний дипломат",
+          "Призначає федеральних суддів"
+        ]
+      },
+      "vi": {
+        "question": "41. Kể tên một quyền lực của tổng thống.",
+        "answers": [
+          "Ký các dự luật thành luật",
+          "Phủ quyết các dự luật",
+          "Thi hành luật",
+          "Tổng tư lệnh (quân đội)",
+          "Trưởng ngoại giao",
+          "Bổ nhiệm các thẩm phán liên bang"
+        ]
+      }
+    }
+  },
+  {
+    "question": "How many seats are on the Supreme Court?",
+    "answers": [
+      "Nine (9)"
+    ],
+    "id": 53,
+    "year": 2025,
+    "translations": {
+      "de": {
+        "question": "32. Wer wählt die US-Senatorinnen und -Senatoren?",
+        "answers": [
+          "die Bürgerinnen und Bürger ihres Bundestaates"
+        ]
+      },
+      "ko": {
+        "question": "45. 누가 연방 판사들을 임명하는가?",
+        "answers": [
+          "(미국의) 대통령"
+        ]
+      },
+      "pl": {
+        "question": "42. Kto jest naczelnym dowódcą wojskowym Stanów Zjednoczonych?",
+        "answers": [
+          "Prezydent Stanów Zjednoczonych"
+        ]
+      },
+      "ru": {
+        "question": "41. Назовите одно полномочие президента.",
+        "answers": [
+          "Подписывает законопроекты, превращая их в законы",
+          "Накладывает вето на законопроекты",
+          "Обеспечивает исполнение законов",
+          "Главнокомандующий (вооруженными силами)",
+          "Главный дипломат",
+          "Назначает федеральных судей"
+        ]
+      },
+      "uk": {
+        "question": "42. Хто є Головнокомандувачем збройних сил (Сполучених Штатів)?",
+        "answers": [
+          "Президент (Сполучених Штатів)"
+        ]
+      },
+      "vi": {
+        "question": "42. Ai là Chỉ huy tối cao của quân đội?",
+        "answers": [
+          "Tổng thống"
+        ]
+      }
+    }
+  },
+  {
+    "question": "How many Supreme Court justices are usually needed to decide a case?",
+    "answers": [
+      "Five (5)"
+    ],
+    "id": 54,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "États-Unis.",
+        "answers": []
+      },
+      "de": {
+        "question": "33. Wen repräsentieren die Abgeordneten des Repräsentantenhauses?",
+        "answers": [
+          "die Bürgerinnen und Bürger ihres (Kongress)-Wahlbezirks"
+        ]
+      },
+      "ko": {
+        "question": "46. 행정부에는 많은 부서들이 있다. 하나를 말해보아라.",
+        "answers": [
+          "(미국의) 대통령",
+          "정부의 내각",
+          "연방 부서들 및 기관들"
+        ]
+      },
+      "ru": {
+        "question": "42. Кто является главнокомандующим вооруженными силами (США)?",
+        "answers": [
+          "Президент (США)"
+        ]
+      },
+      "es": {
+        "question": "40. Si el Presidente ya no puede cumplir sus funciones, ¿quién se convierte en",
+        "answers": []
+      },
+      "uk": {
+        "question": "43. Хто підписує законопроекти, щоб вони стали законами?",
+        "answers": [
+          "Президент (Сполучених Штатів)"
+        ]
+      },
+      "vi": {
+        "question": "43. Ai sẽ ký dự thảo để thông qua thành luật?",
+        "answers": [
+          "Tổng thống"
+        ]
+      }
+    }
+  },
+  {
+    "question": "How long do Supreme Court justices serve?",
+    "answers": [
+      "(For) life",
+      "Lifetime appointment",
+      "(Until) retirement"
+    ],
+    "id": 55,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "45. 谁任命联邦法官？",
+        "answers": [
+          "（美国）总统"
+        ]
+      },
+      "fr": {
+        "question": "40. Si le Président ne peut plus exercer sa fonction, qui devient Président?",
+        "answers": [
+          "le Vice-président"
+        ]
+      },
+      "de": {
+        "question": "34. Wer wählt die Abgeordneten des Repräsentantenhauses?",
+        "answers": [
+          "die Bürgerinnen und Bürger ihres (Kongress)-Wahlbezirks"
+        ]
+      },
+      "ja": {
+        "question": "43. 法案に署名して法律として成立させるのは誰ですか?",
+        "answers": [
+          "アメリカ合衆国大統"
+        ]
+      },
+      "ko": {
+        "question": "47. 대통령의 각료들은 무엇을 하는가?",
+        "answers": [
+          "대통령을 보조하여 조언한다"
+        ]
+      },
+      "ru": {
+        "question": "43. Кто подписывает законопроекты, чтобы они стали законами?",
+        "answers": [
+          "Президент (США)"
+        ]
+      },
+      "uk": {
+        "question": "44. Хто накладає вето на законопроекти? *",
+        "answers": [
+          "Президент (Сполучених Штатів)"
+        ]
+      },
+      "vi": {
+        "question": "44. Ai phủ quyết các dự thảo luật? *",
+        "answers": [
+          "Tổng thống"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Supreme Court justices serve for life. Why?",
+    "answers": [
+      "To be independent (of politics)",
+      "To limit outside (political) influence"
+    ],
+    "id": 56,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "46. 行政部门包括许多部分。说出一个。",
+        "answers": [
+          "（美国）总统",
+          "内阁",
+          "联邦部门和机构"
+        ]
+      },
+      "fr": {
+        "question": "41. Nommez un pouvoir détenu par le président.",
+        "answers": [
+          "Promulgue des projets de lois",
+          "Exerce son droit de veto sur des projets de lois",
+          "Fait respecter les lois",
+          "Commandant en chef (de l’armée)",
+          "Chef de la diplomatie",
+          "Nommer les juges fédéraux"
+        ]
+      },
+      "ja": {
+        "question": "44. 法案に拒否権を行使するのは誰ですか? *",
+        "answers": [
+          "アメリカ合衆国大統領"
+        ]
+      },
+      "ru": {
+        "question": "44. Хто накладывает вето на законопроекты? *",
+        "answers": [
+          "Президент (США)"
+        ]
+      },
+      "uk": {
+        "question": "45. Хто призначає федеральних суддів?",
+        "answers": [
+          "Президент (Сполучених Штатів)"
+        ]
+      },
+      "vi": {
+        "question": "45. Ai bổ nhiệm thẩm phán liên bang?",
+        "answers": [
+          "Tổng thống (của Hoa Kỳ)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Who is the Chief Justice of the United States now?",
+    "answers": [
+      "Visit uscis.gov/citizenship/testupdates for the name of the Chief Justice of the United States."
+    ],
+    "id": 57,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "47. 总统内阁的职责是什么？",
+        "answers": [
+          "建议总统"
+        ]
+      },
+      "ja": {
+        "question": "45. 連邦判事を任命するのは誰ですか?",
+        "answers": [
+          "アメリカ合衆国大統領"
+        ]
+      },
+      "ru": {
+        "question": "45. Кто назначает федеральных судей?",
+        "answers": [
+          "Президент (США)"
+        ]
+      },
+      "uk": {
+        "question": "46. Виконавча гілка влади має багато складових. Назвіть одну.",
+        "answers": [
+          "Президент (Сполучених Штатів)",
+          "Кабінет",
+          "Федеральні департаменти та відомства"
+        ]
+      },
+      "vi": {
+        "question": "46. Nhánh hành pháp có nhiều bộ phận. Hãy nêu một ví dụ.",
+        "answers": [
+          "Tổng thống (của Hoa Kỳ)",
+          "Nội các",
+          "Các sở và cơ quan liên bang"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name one power that is only for the federal government.",
+    "answers": [
+      "Print paper money",
+      "Mint coins",
+      "Declare war",
+      "Create an army",
+      "Make treaties",
+      "Set foreign policy"
+    ],
+    "id": 58,
+    "year": 2025,
+    "translations": {
+      "de": {
+        "question": "36. Für wie viele Jahre wird der Präsident der Vereinigten Staaten von Amerika",
+        "answers": []
+      },
+      "ja": {
+        "question": "46. 行政府はさまざまな要素で構成されています。その一つを挙げてください。",
+        "answers": [
+          "アメリカ合衆国大統領",
+          "大統領顧問団／内閣／閣僚"
+        ]
+      },
+      "ru": {
+        "question": "46. Исполнительная власть состоит из множества частей. Назовите одну.",
+        "answers": [
+          "Президент (США)",
+          "Кабинет Министров",
+          "Федеральные министерства и агентства"
+        ]
+      },
+      "uk": {
+        "question": "47. Що робить Кабінет Президента?",
+        "answers": [
+          "Надає поради Президенту (Сполучених Штатів)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name one power that is only for the states.",
+    "answers": [
+      "Provide schooling and education",
+      "Provide protection (police)",
+      "Provide safety (fire departments)",
+      "Give a driver’s license",
+      "Approve zoning and land use"
+    ],
+    "id": 59,
+    "year": 2025,
+    "translations": {
+      "ja": {
+        "question": "47. 大統領顧問団は何をしますか?",
+        "answers": [
+          "アメリカ合衆国大統領への助言"
+        ]
+      },
+      "ru": {
+        "question": "47. Чем занимается Кабинет Президента?",
+        "answers": [
+          "Консультирует Президента (США)"
+        ]
+      },
+      "es": {
+        "question": "43. ¿Quién firma los proyectos de ley para convertirlos en ley?",
+        "answers": [
+          "El Presidente"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What is the purpose of the 10th Amendment?",
+    "answers": [
+      "(It states that the) powers not given to the federal government belong to the states or to the people."
+    ],
+    "id": 60,
+    "year": 2025,
+    "translations": {
+      "de": {
+        "question": "Legislaturperioden ausfüllen. Warum?",
+        "answers": [
+          "Das ist im 22. Zusatzartikel zur US-Verfassung so festgeschrieben.",
+          "damit der Präsident nicht zu viel Macht erhält"
+        ]
+      },
+      "ko": {
+        "question": "50. 사법부의 한 부서는 무엇인가?",
+        "answers": [
+          "대법원",
+          "연방 법원"
+        ]
+      },
+      "pl": {
+        "question": "46. Władza wykonawcza ma wiele organów. Wymień jeden.",
+        "answers": [
+          "Prezydent Stanów Zjednoczonych",
+          "Gabinet",
+          "Agencje i departamenty federalne"
+        ]
+      },
+      "es": {
+        "question": "44. ¿Quién veta los proyectos de ley? *",
+        "answers": [
+          "El Presidente"
+        ]
+      },
+      "vi": {
+        "question": "48. Kể tên hai vị trí trong Nội các?",
+        "answers": [
+          "Bộ trưởng Bộ Nông nghiệp",
+          "Bộ trưởng Bộ Thương mại",
+          "Bộ trưởng Bộ Quốc phòng",
+          "Bộ trưởng Bộ Giáo dục"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Who is the governor of your state now? *",
+    "answers": [
+      "Answers will vary. [District of Columbia residents should answer that D.C. does not have a governor.]"
+    ],
+    "id": 61,
+    "year": 2025,
+    "translations": {
+      "ko": {
+        "question": "51. 사법부는 무엇을 하는가?",
+        "answers": [
+          "법률의 재검토"
+        ]
+      },
+      "pl": {
+        "question": "47. Czym zajmuje się Gabinet pod przewodnictwem prezydenta?",
+        "answers": [
+          "Doradza prezydentowi Stanów Zjednoczonych"
+        ]
+      },
+      "es": {
+        "question": "45. ¿Quién designa a los jueces federales?",
+        "answers": [
+          "El Presidente (de los Estados Unidos)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What is the capital of your state?",
+    "answers": [
+      "Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a"
+    ],
+    "id": 62,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "50. 司法部门的一部分是什么？",
+        "answers": [
+          "最高法院",
+          "联邦法院"
+        ]
+      },
+      "ko": {
+        "question": "52.미국의 최고 법원은 무엇인가? *",
+        "answers": [
+          "연방 대법원"
+        ]
+      },
+      "uk": {
+        "question": "вибором у Конгресі.",
+        "answers": []
+      },
+      "vi": {
+        "question": "sự lựa chọn của quốc hội.",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "There are four amendments to the U.S. Constitution about who can vote. Describe one of them.",
+    "answers": [
+      "Citizens eighteen (18) and older (can vote).",
+      "You don’t have to pay (a poll tax) to vote.",
+      "Any citizen can vote. (Women and men can vote.)",
+      "A male citizen of any race (can vote)."
+    ],
+    "id": 63,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "45. Qui nomme les juges fédéraux?",
+        "answers": [
+          "Le Président (des États-Unis)"
+        ]
+      },
+      "ko": {
+        "question": "53. 대법원에는 몇 자리가 있나요?",
+        "answers": [
+          "아홉 (9)"
+        ]
+      },
+      "ru": {
+        "question": "президента и отбором в Конгрессе.",
+        "answers": []
+      },
+      "uk": {
+        "question": "50. Що є однією із складових судової гілки влади?",
+        "answers": [
+          "Верховний Суд",
+          "Федеральні Суди"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Who can vote in federal elections, run for federal office, and serve on a jury in the United States?",
+    "answers": [
+      "Citizens",
+      "Citizens of the United States",
+      "U.S. citizens"
+    ],
+    "id": 64,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "46. L’exécutif a plusieurs composantes. Nommez-en une.",
+        "answers": [
+          "Le Président (des États-Unis)",
+          "Le Cabinet",
+          "Les ministères et organismes fédéraux"
+        ]
+      },
+      "ja": {
+        "question": "50. 司法府を構成する要素を一つ挙げてください。",
+        "answers": [
+          "最高裁判所",
+          "連邦裁判所"
+        ]
+      },
+      "ko": {
+        "question": "54. 판결을 내리기 위해는 보통 몇 명의 대법관들이 필요한가?",
+        "answers": [
+          "다섯명 (5)"
+        ]
+      },
+      "ru": {
+        "question": "50. Что является частью судебной власти?",
+        "answers": [
+          "Верховный Суд",
+          "Федеральные Суды"
+        ]
+      },
+      "es": {
+        "question": "47. ¿Qué hace el Gabinete del Presidente?",
+        "answers": [
+          "Asesora al Presidente"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What are three rights of everyone living in the United States?",
+    "answers": [
+      "Freedom of expression",
+      "Freedom of speech",
+      "Freedom of assembly",
+      "Freedom to petition the government",
+      "Freedom of religion",
+      "The right to bear arms"
+    ],
+    "id": 65,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "52.美国的最高法院是什么？*",
+        "answers": [
+          "最高法院"
+        ]
+      },
+      "fr": {
+        "question": "47. Que fait le Cabinet du Président ?",
+        "answers": [
+          "Conseille le Président"
+        ]
+      },
+      "de": {
+        "question": "40. Wer wird Präsident, wenn der Präsident nicht mehr in der Lage ist, sein Amt",
+        "answers": []
+      },
+      "ja": {
+        "question": "51. 司法府は何をしますか?",
+        "answers": [
+          "法律を見直す",
+          "法律を説明する",
+          "法律についての争議（見解の不一致）を解決する",
+          "法律がアメリカ合衆国憲法に反するかどうかを判断する 。"
+        ]
+      },
+      "ko": {
+        "question": "55. 대법관들은 얼마나 오래동안 이 직책을 맡는가?",
+        "answers": [
+          "평생",
+          "평생 임명",
+          "퇴직 (까지)"
+        ]
+      },
+      "es": {
+        "question": "48. ¿Cuáles son dos puestos a nivel de gabinete?",
+        "answers": []
+      },
+      "vi": {
+        "question": "51. Nhánh tư pháp có vai trò gì?",
+        "answers": [
+          "xem xét luật",
+          "giải thích luật",
+          "giải quyết tranh chấp (bất hòa) Giới thiệu về luật",
+          "xác định luật có vi hiến hay không"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What do we show loyalty to when we say the Pledge of Allegiance? *",
+    "answers": [
+      "The United States",
+      "The flag"
+    ],
+    "id": 66,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "53. 最高法院有多少个席位？",
+        "answers": [
+          "九名(9)"
+        ]
+      },
+      "fr": {
+        "question": "48. Quels sont deux postes de niveau ministériel ?",
+        "answers": []
+      },
+      "ja": {
+        "question": "52. 米国最上位の裁判所は何ですか? *",
+        "answers": [
+          "最高裁判所"
+        ]
+      },
+      "ko": {
+        "question": "56. 대법관은 평생 그 직책을 맡는다. 왜 그런가?",
+        "answers": [
+          "(경찰으로부터) 독립적이기 위해",
+          "외부 (정치의) 영향력을 제한하기 위해"
+        ]
+      },
+      "pl": {
+        "question": "50. Jaki jest jeden z organów władzy sądowniczej?",
+        "answers": [
+          "Sąd Najwyższy",
+          "Sądy federalne"
+        ]
+      },
+      "uk": {
+        "question": "52. Який найвищий суд у Сполучених Штатах? *",
+        "answers": [
+          "Верховний Суд"
+        ]
+      },
+      "vi": {
+        "question": "52. Tòa án cao nhất ở Hoa Kỳ là gì? *",
+        "answers": [
+          "Tòa án Tối cao"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name two promises that new citizens make in the Oath of Allegiance.",
+    "answers": [
+      "Give up loyalty to other countries",
+      "Defend the (U.S.) Constitution",
+      "Obey the laws of the United States",
+      "Serve in the military (if needed)",
+      "Serve (help, do important work for) the nation (if needed)",
+      "Be loyal to the United States"
+    ],
+    "id": 67,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "54. 决定一个案件通常需要多少位最高法院法官？",
+        "answers": [
+          "五个"
+        ]
+      },
+      "pl": {
+        "question": "51. Czym zajmuje się władza sądownicza?",
+        "answers": [
+          "Poddaje ocenie ustawy uchwalane przez Kongres"
+        ]
+      },
+      "ru": {
+        "question": "52. Какой суд является высшим в США? *",
+        "answers": [
+          "Верховный Суд"
+        ]
+      },
+      "es": {
+        "question": "selección del congreso.",
+        "answers": []
+      },
+      "uk": {
+        "question": "53. Скільки місць у Верховному Суді?",
+        "answers": [
+          "Дев’ять (9)"
+        ]
+      },
+      "vi": {
+        "question": "53. Tòa án Tối cao có bao nhiêu ghế?",
+        "answers": [
+          "Chín (9)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "How can people become United States citizens?",
+    "answers": [
+      "Be born in the United States, under the conditions set by the 14th Amendment",
+      "Naturalize",
+      "Derive citizenship (under conditions set by Congress)"
+    ],
+    "id": 68,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "55.最高法院大法官任职多长时间？",
+        "answers": []
+      },
+      "de": {
+        "question": "42. Wer ist der Oberbefehlshaber der US-Streitkräfte?",
+        "answers": [
+          "der Präsident (der Vereinigten Staaten von Amerika)"
+        ]
+      },
+      "ko": {
+        "question": "알아보십시오.",
+        "answers": []
+      },
+      "pl": {
+        "question": "52. Jaki jest najwyższy sąd w Stanach Zjednoczonych? *",
+        "answers": [
+          "Sąd Najwyższy"
+        ]
+      },
+      "ru": {
+        "question": "53. Сколько мест в Верховном Суде?",
+        "answers": [
+          "Девять (9)"
+        ]
+      },
+      "uk": {
+        "question": "54. Скільки суддів Верховного Суду зазвичай потрібно для вирішення справи?",
+        "answers": [
+          "П’ять (5)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What are two examples of civic participation in the United States?",
+    "answers": [
+      "Vote",
+      "Run for office",
+      "Join a political party",
+      "Help with a campaign",
+      "Join a civic group",
+      "Join a community group",
+      "Give an elected official your opinion (on an issue)",
+      "Contact elected officials",
+      "Support or oppose an issue or policy",
+      "Write to a newspaper"
+    ],
+    "id": 69,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "56. 最高法院大法官终生任期。为什么？",
+        "answers": [
+          "独立于（政治）",
+          "限制外部（政治）影响"
+        ]
+      },
+      "ja": {
+        "question": "54. 通常、事件の判決に必要な最高裁判事は何名ですか?",
+        "answers": [
+          "5名"
+        ]
+      },
+      "ko": {
+        "question": "58. 연방 정부만을 위한 권한 중 하나를 말해보아라.",
+        "answers": [
+          "지폐 인쇄",
+          "화폐 주조",
+          "전쟁 선포",
+          "군대를 만듬",
+          "조약 체결",
+          "외교 정책 설정"
+        ]
+      },
+      "pl": {
+        "question": "53. Ilu sędziów zasiada w Sądzie Najwyższym?",
+        "answers": [
+          "Dziewięciu (9)"
+        ]
+      },
+      "ru": {
+        "question": "54. Сколько судей Верховного Суда обычно требуется для рассмотрения дела?",
+        "answers": [
+          "Пять (5)"
+        ]
+      },
+      "uk": {
+        "question": "55. Як довго обіймають посаду судді Верховного Суду?",
+        "answers": [
+          "Довічно",
+          "Довічне призначення"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What is one way Americans can serve their country?",
+    "answers": [
+      "Vote",
+      "Pay taxes",
+      "Obey the law",
+      "Serve in the military",
+      "Run for office",
+      "Work for local, state, or federal government"
+    ],
+    "id": 70,
+    "year": 2025,
+    "translations": {
+      "ja": {
+        "question": "55. 最高裁判事の任期は何年ですか?",
+        "answers": [
+          "一生涯",
+          "寿命が続く限り",
+          "引退まで"
+        ]
+      },
+      "ko": {
+        "question": "59. 주만을 위한 권한 하나를 말해보아라.",
+        "answers": [
+          "학교 교육 제공",
+          "보호 서비스 제공 (경찰 업무)",
+          "안전 서비스 제공 (소방 업무)",
+          "운전 면허 발급",
+          "용지 설정 및 토지 이용 승인"
+        ]
+      },
+      "pl": {
+        "question": "54. Ilu sędziów Sądu Najwyższego jest niezbędnych do podjęcia decyzji w sprawie?",
+        "answers": [
+          "Pięciu (5)"
+        ]
+      },
+      "ru": {
+        "question": "55. Каков срок полномочий судей Верховного Суда?",
+        "answers": [
+          "Пожизненно"
+        ]
+      },
+      "es": {
+        "question": "51. ¿Qué hace la rama judicial?",
+        "answers": [
+          "Revisa las leyes",
+          "Explica las leyes",
+          "Resuelve disputas (desacuerdos) Sobre la ley",
+          "Decide si una ley va en contra de la Constitución"
+        ]
+      },
+      "uk": {
+        "question": "56. Судді Верховного Суду обіймають посаду довічно. Чому?",
+        "answers": [
+          "Щоб бути незалежними (від політики)",
+          "Щоб обмежити зовнішній (політичний) вплив"
+        ]
+      },
+      "vi": {
+        "question": "55.Các thẩm phán Tòa án Tối cao phục vụ trong bao lâu?",
+        "answers": [
+          "(Suốt) đời",
+          "Nhiệm kỳ trọn đời",
+          "(Cho đến khi) nghỉ hưu"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Why is it important to pay federal taxes?",
+    "answers": [
+      "Required by law",
+      "All people pay to fund the federal government",
+      "Required by the (U.S.) Constitution (16th Amendment)",
+      "Civic duty"
+    ],
+    "id": 71,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "51. Quel est le rôle du pouvoir judiciaire?",
+        "answers": [
+          "révise les lois",
+          "explique les lois",
+          "règle les différends (désaccords) À propos de la loi",
+          "décide si une loi va à l'encontre de la Constitution"
+        ]
+      },
+      "de": {
+        "question": "44. Wer legt Einspruch (Veto) gegen Gesetzesentwürfe ein? *",
+        "answers": [
+          "der Präsident (der Vereinigten Staaten von Amerika)"
+        ]
+      },
+      "ja": {
+        "question": "56. 最高裁判事の任期は終身制です。これはなぜですか?",
+        "answers": [
+          "（政治から）独立するため",
+          "（政治的な）外圧を制限するため"
+        ]
+      },
+      "pl": {
+        "question": "55. Jak długo trwa kadencja sędziów Sądu Najwyższego?",
+        "answers": [
+          "Dożywotnio",
+          "Są mianowani dożywotnio"
+        ]
+      },
+      "ru": {
+        "question": "56. Судьи Верховного Суда занимают свои должности пожизненно. Почему?",
+        "answers": [
+          "Чтобы быть независимыми (от политики)",
+          "Чтобы ограничить внешнее (политическое) влияние"
+        ]
+      },
+      "es": {
+        "question": "52. ¿Cuál es el tribunal más alto de los Estados Unidos? *",
+        "answers": [
+          "La Corte Suprema"
+        ]
+      },
+      "vi": {
+        "question": "56. Các thẩm phán Tòa án Tối cao phục vụ suốt đời. Tại sao?",
+        "answers": [
+          "Để độc lập (về chính trị)",
+          "Để hạn chế ảnh hưởng từ bên ngoài (chính trị)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "It is important for all men age 18 through 25 to register for the Selective Service. Name one reason why.",
+    "answers": [
+      "Required by law",
+      "Civic duty",
+      "Makes the draft fair, if needed"
+    ],
+    "id": 72,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "58. 列出仅适用于联邦政府的一种权力。",
+        "answers": [
+          "印制纸币",
+          "铸币",
+          "宣战",
+          "建军"
+        ]
+      },
+      "fr": {
+        "question": "52. Quelle est la plus haute instance judiciaire aux États-Unis ? *",
+        "answers": [
+          "la Cour suprême"
+        ]
+      },
+      "ko": {
+        "question": "명시되어있습니다.)",
+        "answers": []
+      },
+      "pl": {
+        "question": "56. Członkowie Sądu Najwyższego sprawują urząd dożywotnio. Dlaczego?",
+        "answers": [
+          "Aby byli niezależni (od polityki)",
+          "Aby ograniczyć zewnętrzne wpływy (polityczne)"
+        ]
+      },
+      "es": {
+        "question": "53. ¿Cuántos escaños hay en la Suprema Corte?",
+        "answers": [
+          "Nueve (9)"
+        ]
+      },
+      "uk": {
+        "question": "Верховного Суду Сполучених Штатів",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "The colonists came to America for many reasons. Name one.",
+    "answers": [
+      "Freedom",
+      "Political liberty",
+      "Religious freedom",
+      "Economic opportunity",
+      "Escape persecution"
+    ],
+    "id": 73,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "59. 列出仅适用于各州的一种权力。",
+        "answers": [
+          "提供学校与国民教育",
+          "提供人民保护（警政部門）",
+          "提供居住安全（消防部门）",
+          "提供驾驶执照",
+          "批准分区和土地使用"
+        ]
+      },
+      "ja": {
+        "question": "uscis.gov/citizenship/testupdates を確認のこと。",
+        "answers": []
+      },
+      "uk": {
+        "question": "58. Назвіть одне повноваження, яке належить лише федеральному уряду",
+        "answers": [
+          "Друкувати паперові гроші",
+          "Чеканити монети",
+          "Оголошувати війну",
+          "Створювати армію",
+          "Укладати договори",
+          "Встановлювати зовнішню політику"
+        ]
+      },
+      "vi": {
+        "question": "Án Tòa Án Tối Cao Pháp Viện Hoa Kỳ.",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "Who lived in America before the Europeans arrived? *",
+    "answers": [
+      "American Indians",
+      "Native Americans"
+    ],
+    "id": 74,
+    "year": 2025,
+    "translations": {
+      "ja": {
+        "question": "58. 連邦政府のみが行使できる権力を一つ挙げてください。",
+        "answers": [
+          "紙幣の印刷",
+          "貨幣の鋳造",
+          "戦争の宣言",
+          "軍隊の創設",
+          "条約の締結",
+          "外交政策の設定"
+        ]
+      },
+      "ko": {
+        "question": "답해야 함.]",
+        "answers": []
+      },
+      "ru": {
+        "question": "58. Назовите одно полномочие, которое принадлежит только федеральному",
+        "answers": []
+      },
+      "uk": {
+        "question": "59. Назвіть одне повноваження, яке належить лише штатам.",
+        "answers": [
+          "Забезпечувати шкільне навчання та освіту",
+          "Забезпечувати захист (поліція)",
+          "Забезпечувати безпеку (пожежні служби)",
+          "Видавати водійські права",
+          "Затверджувати зонування та землекористування"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What group of people was taken and sold as slaves?",
+    "answers": [
+      "Africans",
+      "People from Africa"
+    ],
+    "id": 75,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "54. En général, combien faut-il de juges à la Cour suprême pour statuer sur une",
+        "answers": []
+      },
+      "ja": {
+        "question": "59. 州のみが行使できる権力を一つ挙げてください。",
+        "answers": [
+          "学校教育の提供",
+          "保護の提供（警察）",
+          "安全の提供（消防局）"
+        ]
+      },
+      "pl": {
+        "question": "58. Wymień jedno uprawnienie, które należy wyłącznie do rządu federalnego.",
+        "answers": [
+          "drukowanie banknotów",
+          "bicie monet",
+          "wypowiadanie wojny",
+          "tworzenie armii"
+        ]
+      },
+      "ru": {
+        "question": "59. Назовите одно полномочие, которое принадлежит только штатам.",
+        "answers": [
+          "Обеспечить школьную учёбу и образование",
+          "Обеспечить защиту (полиция)",
+          "Обеспечивать безопасность (пожарные)",
+          "Выдавать водительськие права",
+          "Утверждать зонирование и землепользование"
+        ]
+      },
+      "es": {
+        "question": "55. ¿Cuánto tiempo sirven los jueces del Tribunal supremo?",
+        "answers": [
+          "(De por) vida",
+          "Nombramiento vitalicio",
+          "(Hasta) la jubilación"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What war did the Americans fight to win independence from Britain?",
+    "answers": [
+      "American Revolution",
+      "The (American) Revolutionary War",
+      "War for (American) Independence"
+    ],
+    "id": 76,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "55. Combien de temps dure le mandat des juges à la Cour suprême?",
+        "answers": [
+          "(À) vie",
+          "Nomination à vie",
+          "(Jusqu’à) la retraite"
+        ]
+      },
+      "de": {
+        "question": "47. Wofür ist das Kabinett des Präsidenten zuständig?",
+        "answers": [
+          "Es berät den Präsidenten (der Vereinigten Staaten von Amerika)"
+        ]
+      },
+      "ko": {
+        "question": "답해야 함. 미국령에 사는 주민들은 그 영토의 수도를 말해야 함.]",
+        "answers": []
+      },
+      "pl": {
+        "question": "59. Wymień jedno uprawnienie, które należy jedynie do stanów.",
+        "answers": [
+          "zapewnienie edukacji",
+          "zapewnienie ochrony (policja)",
+          "zapewnienie bezpieczeństwa pożarowego (straże pożarne)",
+          "wydawanie praw jazdy",
+          "udzielanie zgody na zagospodarowanie i użytkowanie gruntów"
+        ]
+      },
+      "es": {
+        "question": "56. Los jueces de la Corte suprema sirven de por vida. ¿Por qué?",
+        "answers": [
+          "Para ser independiente (de los políticos)",
+          "Para limitar la influencia (política) exterior"
+        ]
+      },
+      "uk": {
+        "question": "належать штатам або народу.",
+        "answers": []
+      },
+      "vi": {
+        "question": "59. Nêu tên một quyền lực chỉ dành cho các bang.",
+        "answers": [
+          "cung cấp trường học và giáo dục",
+          "đảm bảo an ninh (cảnh sát)",
+          "đảm bảo an toàn (cứu hỏa)",
+          "cấp bằng lái",
+          "chấp thuận quy hoạch và sử dụng đất"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name one reason why the Americans declared independence from Britain.",
+    "answers": [
+      "High taxes",
+      "Taxation without representation",
+      "British soldiers stayed in Americans’ houses (boarding, quartering)",
+      "They did not have self-government",
+      "Boston Massacre",
+      "Boston Tea Party (Tea Act)",
+      "Stamp Act",
+      "Sugar Act",
+      "Townshend Acts",
+      "Intolerable (Coercive) Acts"
+    ],
+    "id": 77,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "56. Les juges à la Cour suprême siègent à vie. Pourquoi?",
+        "answers": [
+          "Pour être indépendants (de la politique)",
+          "Pour limiter l’influence (politique) extérieure"
+        ]
+      },
+      "ru": {
+        "question": "правительству, принадлежат штатам или народу.",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "Who wrote the Declaration of Independence? *",
+    "answers": [
+      "(Thomas) Jefferson"
+    ],
+    "id": 78,
+    "year": 2025,
+    "translations": {
+      "ko": {
+        "question": "기술하라.",
+        "answers": [
+          "18세 이상의 시민은 투표할 수 있다.",
+          "투표를 위해 인두세를 낼 필요가 없다.",
+          "시민은 누구나 투표할 수 있다. (여성이나 남성이나 투표할 수 있다.)",
+          "어떤 인종의 남성 시민이라도 투표할 수 있다."
+        ]
+      },
+      "pl": {
+        "question": "poszczególnych stanów i do narodu.",
+        "answers": []
+      },
+      "uk": {
+        "question": "Округу Колумбія немає губернатора.]",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "When was the Declaration of Independence adopted?",
+    "answers": [
+      "July 4, 1776"
+    ],
+    "id": 79,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "无州首府。美国领土居民应该命名该领土的首府。]",
+        "answers": []
+      },
+      "fr": {
+        "question": "États-Unis.",
+        "answers": []
+      },
+      "ja": {
+        "question": "する。]",
+        "answers": []
+      },
+      "ru": {
+        "question": "в Округе Колумбия нет губернатора.]",
+        "answers": []
+      },
+      "es": {
+        "question": "58. Nombra un poder que es sólo para el gobierno federal.",
+        "answers": [
+          "Imprimir dinero",
+          "Acuñar monedas",
+          "Declarar la guerra",
+          "Crear un ejército",
+          "Suscribir tratados",
+          "Establecer la política exterior"
+        ]
+      }
+    }
+  },
+  {
+    "question": "The American Revolution had many important events. Name one.",
+    "answers": [
+      "(Battle of) Bunker Hill",
+      "Declaration of Independence",
+      "Washington Crossing the Delaware (Battle of Trenton)",
+      "(Battle of) Saratoga",
+      "Valley Forge (Encampment)",
+      "(Battle of) Yorktown (British surrender at Yorktown)"
+    ],
+    "id": 80,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "58. Nommez un pouvoir détenu uniquement par le gouvernement fédéral.",
+        "answers": [
+          "Imprime de l'argent",
+          "Frappe les pièces",
+          "Déclare la guerre",
+          "Crée une armée",
+          "Conclut des traités",
+          "Établit la politique étrangère"
+        ]
+      },
+      "ko": {
+        "question": "수 있는가?",
+        "answers": []
+      },
+      "pl": {
+        "question": "napisać, iż nie ma on swojego gubernatora.]",
+        "answers": []
+      },
+      "es": {
+        "question": "59. Nombra un poder que es sólo para los estados.",
+        "answers": [
+          "Proveer escuelas y educación",
+          "Proveer protección (policía)",
+          "Proveer seguridad (cuerpos de bomberos)",
+          "Conceder licencias para conducir",
+          "Aprobar la zonificación y uso de la tierra"
+        ]
+      },
+      "uk": {
+        "question": "Округ Колумбія не є штатом та не має столиці. Мешканці територій США",
+        "answers": []
+      },
+      "vi": {
+        "question": "Columbia không có Thống đốc.]",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "There were 13 original states. Name five.",
+    "answers": [
+      "New Hampshire",
+      "Massachusetts",
+      "Rhode Island",
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Pennsylvania",
+      "Delaware",
+      "Maryland",
+      "Virginia",
+      "North Carolina",
+      "South Carolina",
+      "Georgia"
+    ],
+    "id": 81,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "59. Nommez un pouvoir détenu uniquement par les États.",
+        "answers": [
+          "assurer la scolarisation et l'éducation",
+          "assurer la protection (police)",
+          "assurer la sécurité (services d'incendie)",
+          "accorder un permis de conduire",
+          "approuver le zonage et l'utilisation des terres"
+        ]
+      },
+      "ja": {
+        "question": "その地区の住人は 州都なしと回答する。アメリカ合衆国の海外領土の住民は、その領",
+        "answers": []
+      },
+      "ko": {
+        "question": "65. 미국에 살고 있는 모든 사람이 갖는 권리 중 세 가지는 무엇인가?",
+        "answers": [
+          "표현의 자유",
+          "언론의 자유",
+          "집회의 자유",
+          "정부 청원의 자유",
+          "종교의 자유",
+          "무기 소지 권리"
+        ]
+      },
+      "ru": {
+        "question": "Округ Колумбия не является штатом и не имеет столицы. Жители",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "What founding document was written in 1787?",
+    "answers": [
+      "(U.S.) Constitution"
+    ],
+    "id": 82,
+    "year": 2025,
+    "translations": {
+      "ko": {
+        "question": "66. 충성의 맹세를 말할 때, 무엇에 충성을 표하는 것인가?*",
+        "answers": [
+          "미국",
+          "국기"
+        ]
+      },
+      "pl": {
+        "question": "odpowiedzieć, iż nie jest on stanem i nie ma stolicy. Mieszkańcy terytoriów",
+        "answers": []
+      },
+      "uk": {
+        "question": "Опишіть одну з них.",
+        "answers": [
+          "Громадяни віком від вісімнадцяти (18) та старші (можуть голосувати).",
+          "Вам не потрібно платити (подушний податок), щоб голосувати.",
+          "Будь-який громадянин може голосувати. (Жінки та чоловіки можуть"
+        ]
+      },
+      "vi": {
+        "question": "Columbia không phải là tiểu bang và không có thủ phủ. Cư dân các lãnh thổ",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.",
+    "answers": [
+      "(James) Madison",
+      "(Alexander) Hamilton",
+      "(John) Jay",
+      "Publius"
+    ],
+    "id": 83,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "réservés aux États ou au peuple.",
+        "answers": []
+      },
+      "ja": {
+        "question": "つを挙げてください。",
+        "answers": [
+          "18歳以上の市民（が投票できる）。",
+          "投票のために（人頭税）を支払う必要はない。",
+          "市民なら誰でも投票できる。（女性も男性も投票できる）。",
+          "あらゆる人種の男性市民（が投票できる）。"
+        ]
+      },
+      "ru": {
+        "question": "голоса. Опишите одну из них.",
+        "answers": [
+          "Граждане возрастом от восемнадцати (18) и старше (могут голосовать).",
+          "Вы не обязаны платить (избирательный налог), чтобы голосовать.",
+          "Любой гражданин может голосовать. (Голосовать могут и женщины, и"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Why were the Federalist Papers important?",
+    "answers": [
+      "They helped people understand the (U.S.) Constitution.",
+      "They supported passing the (U.S.) Constitution."
+    ],
+    "id": 84,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "65.住在美国的任何人都有的三个权利是什么？",
+        "answers": [
+          "表达的自由",
+          "言论的自由",
+          "集会的自由",
+          "向政府请愿的自由",
+          "宗教的自由",
+          "携带武器的自由"
+        ]
+      },
+      "pl": {
+        "question": "kto może brać udział głosowaniu. Opisz jedną z nich.",
+        "answers": [
+          "Obywatele w wieku osiemnastu (18) lat i powyżej (mogą głosować).",
+          "Nie trzeba płacić podatku pogłównego, aby móc głosować.",
+          "Każdy obywatel może głosować. (Kobiety i mężczyźni mogą głosować.)",
+          "Obywatel każdej rasy (może głosować)."
+        ]
+      },
+      "uk": {
+        "question": "посади, та бути членом суду присяжних у США?",
+        "answers": [
+          "Громадяни",
+          "Громадяни Сполучених Штатів",
+          "Громадяни США"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Benjamin Franklin is famous for many things. Name one.",
+    "answers": [
+      "Founded the first free public libraries",
+      "First Postmaster General of the United States",
+      "Helped write the Declaration of Independence",
+      "Inventor",
+      "U.S. diplomat"
+    ],
+    "id": 85,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "66. 当念效忠誓词的时候，我们向什么表示忠诚？*",
+        "answers": [
+          "美国",
+          "国旗"
+        ]
+      },
+      "fr": {
+        "question": "répondre que le District n’a pas de gouverneur.]",
+        "answers": []
+      },
+      "de": {
+        "question": "52. Welcher Gerichtshof ist der höchste der Vereinigten Staaten von Amerika? *",
+        "answers": [
+          "der Oberste Gerichtshof"
+        ]
+      },
+      "ja": {
+        "question": "ができるのは誰ですか?",
+        "answers": [
+          "市民",
+          "アメリカ合衆国の市民",
+          "米国市民"
+        ]
+      },
+      "ru": {
+        "question": "федеральную должность, и быть членом суда присяжных в Соединённых",
+        "answers": []
+      },
+      "uk": {
+        "question": "65. Які три права кожного, хто живе у Сполучених Штатах?",
+        "answers": [
+          "Свобода вираження поглядів",
+          "Свобода слова",
+          "Свобода зібрань",
+          "Свобода подавати петиції до уряду",
+          "Свобода віросповідання",
+          "Право носити зброю"
+        ]
+      }
+    }
+  },
+  {
+    "question": "George Washington is famous for many things. Name one. *",
+    "answers": [
+      "“Father of Our Country”",
+      "First president of the United States",
+      "General of the Continental Army",
+      "President of the Constitutional Convention"
+    ],
+    "id": 86,
+    "year": 2025,
+    "translations": {
+      "pl": {
+        "question": "lub wejść w skład ławy przysięgłych?",
+        "answers": [
+          "Obywatele",
+          "Obywatele Stanów Zjednoczonych",
+          "Obywatele USA"
+        ]
+      },
+      "ru": {
+        "question": "65. Назовите три права каждого жителя, который живет в Соединённых",
+        "answers": []
+      },
+      "uk": {
+        "question": "66. Чому ми виявляємо вірність, коли вимовляємо Клятву вірності? *",
+        "answers": [
+          "Сполученим Штатам",
+          "Прапору"
+        ]
+      },
+      "vi": {
+        "question": "bang, và phục vụ trong bồi thẩm đoàn ở Hoa Kỳ?",
+        "answers": [
+          "Công dân",
+          "Công dân của Hoa Kỳ",
+          "Công dân Hoa Kỳ"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Thomas Jefferson is famous for many things. Name one.",
+    "answers": [
+      "Writer of the Declaration of Independence",
+      "Third president of the United States",
+      "Doubled the size of the United States (Louisiana Purchase)",
+      "First Secretary of State",
+      "Founded the University of Virginia",
+      "Writer of the Virginia Statute on Religious Freedom"
+    ],
+    "id": 87,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "répondre que le District de Columbia n’est pas un État, et n’a pas de capitale.",
+        "answers": []
+      },
+      "pl": {
+        "question": "65. Jakie są trzy prawa, które przysługują każdemu, kto żyje w Stanach",
+        "answers": []
+      },
+      "ru": {
+        "question": "66. Чему мы выражаем свою верность, когда произносим Клятву верности? *",
+        "answers": [
+          "Соединённым Штатам",
+          "Флагу"
+        ]
+      },
+      "vi": {
+        "question": "65. Kể tên Ba quyền của mọi người sinh sống ở Hoa Kỳ?",
+        "answers": [
+          "quyền tự do biểu đạt",
+          "quyền tự do ngôn luận",
+          "quyền tự do hội họp",
+          "quyền tự do kiến nghị chính quyền",
+          "quyền tự do tôn giáo",
+          "quyền được mang vũ khí"
+        ]
+      }
+    }
+  },
+  {
+    "question": "James Madison is famous for many things. Name one.",
+    "answers": [
+      "“Father of the Constitution”",
+      "Fourth president of the United States",
+      "President during the War of 1812",
+      "One of the writers of the Federalist Papers"
+    ],
+    "id": 88,
+    "year": 2025,
+    "translations": {
+      "de": {
+        "question": "54. Wie viele Richter des Obersten Gerichtshofs werden im Normalfall benötigt, um",
+        "answers": []
+      },
+      "ja": {
+        "question": "66. 「忠誠の誓い」を唱えるときは、何に対する忠誠を示していますか? *",
+        "answers": [
+          "アメリカ合衆国",
+          "米国旗（星条旗）"
+        ]
+      },
+      "pl": {
+        "question": "66. Czemu ślubujemy wierność, kiedy składamy Przysięgę Wierności? *",
+        "answers": []
+      },
+      "ru": {
+        "question": "67. Назовите два обещания, которые дают новые граждане в Клятве Верности.",
+        "answers": [
+          "Отказаться от лояльности другим странам",
+          "Защищать Конституцию (США)",
+          "Соблюдать законы Соединённых Штатов",
+          "Служить в армии (при необходимости)",
+          "Служить (помогать, выполнять важную работу для) нации (при"
+        ]
+      },
+      "vi": {
+        "question": "66. Chúng ta thể hiện lòng trung thành với điều gì khi nói Lời tuyên thệ Trung",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "Alexander Hamilton is famous for many things. Name one.",
+    "answers": [
+      "First Secretary of the Treasury",
+      "One of the writers of the Federalist Papers",
+      "Helped establish the First Bank of the United States",
+      "Aide to General George Washington",
+      "Member of the Continental Congress"
+    ],
+    "id": 89,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "pouvant voter. Décrivez-en un d'entre eux.",
+        "answers": [
+          "Les citoyens âgés de dix-huit (18) ans et plus (peuvent voter).",
+          "Vous ne devez pas payer (de taxe de vote) pour voter.",
+          "Tout citoyen peut voter. (Les femmes et les hommes peuvent voter.)",
+          "Un citoyen masculin d’une quelconque appartenance ethnique (peut voter)."
+        ]
+      },
+      "ja": {
+        "question": "67. 新市民が「忠誠の誓い」でする約束を二つ挙げてください。",
+        "answers": [
+          "他国への忠誠を放棄すること",
+          "アメリカ合衆国 憲法を守ること",
+          "アメリカ合衆国の法律に従うこと",
+          "（必要に応じて）兵役を務めること"
+        ]
+      },
+      "ko": {
+        "question": "70. 미국인의 자국을 위해 봉사 할 수 있는 한가지 방법은 무엇인가?",
+        "answers": [
+          "투표",
+          "세금 납부",
+          "법률 준수",
+          "군 복무",
+          "공직 출마",
+          "지방, 주, 또는 연방 정부에서 복무"
+        ]
+      },
+      "pl": {
+        "question": "67. Wymień dwie obietnice, które składają nowi obywatele, składając Przysięgę",
+        "answers": []
+      },
+      "vi": {
+        "question": "67. Kể tên hai lời hứa mà các công dân mới của Hoa Kỳ sẽ thực hiện trong Lời thề",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "What territory did the United States buy from France in 1803?",
+    "answers": [
+      "Louisiana Territory",
+      "Louisiana"
+    ],
+    "id": 90,
+    "year": 2025,
+    "translations": {
+      "ru": {
+        "question": "установленными 14-й Поправкой",
+        "answers": [
+          "Натурализироваться",
+          "Получить гражданство (в соответствии с условиями, установленными"
+        ]
+      },
+      "sw": {
+        "question": "47. What does the President’s Cabinet do?",
+        "answers": [
+          "Advises the President (of the United States)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name one war fought by the United States in the 1800s.",
+    "answers": [
+      "War of 1812",
+      "Mexican-American War",
+      "Civil War",
+      "Spanish-American War"
+    ],
+    "id": 91,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "fédéral et siéger en tant que juré aux États-Unis?",
+        "answers": [
+          "Les citoyens",
+          "Les citoyens des États-Unis",
+          "Les citoyens des USA"
+        ]
+      },
+      "pl": {
+        "question": "przez 14. poprawkę do Konstytucji Stanów Zjednoczonych",
+        "answers": [
+          "Poprzez naturalizację"
+        ]
+      },
+      "tl": {
+        "question": "47. What does the President’s Cabinet do?",
+        "answers": [
+          "Advises the President (of the United States)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name the U.S. war between the North and the South.",
+    "answers": [
+      "The Civil War"
+    ],
+    "id": 92,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "70. 美国人为国家服务的一种方式是什么？",
+        "answers": [
+          "投票",
+          "交税",
+          "遵守法律",
+          "在军队中服役",
+          "竞选公职",
+          "为地方、州或联邦政府工作"
+        ]
+      },
+      "ja": {
+        "question": "69. アメリカ合衆国での市民参加の例を二つ挙げてください。",
+        "answers": [
+          "投票",
+          "公職への立候補",
+          "政党への参加",
+          "選挙運動の支援"
+        ]
+      },
+      "pl": {
+        "question": "69. Jakie są dwa przykłady aktywności obywatelskiej w Stanach Zjednoczonych?",
+        "answers": [
+          "Głosowanie",
+          "Ubieganie się o urząd",
+          "Dołączenie do partii politycznej",
+          "Pomoc w kampanii wyborczej",
+          "Dołączenie do grupy obywatelskiej",
+          "Dołączenie do grupy społecznościowej",
+          "Udzielenie swojej opinii (w danej sprawie) funkcjonariuszowi państwowemu",
+          "Kontakt z funkcjonariuszem państwowym",
+          "popieranie konkretnej sprawy lub polityki, bądź też sprzeciwanie się im",
+          "Napisanie do gazety"
+        ]
+      },
+      "ru": {
+        "question": "Штатах?",
+        "answers": [
+          "Голосовать",
+          "Баллотироваться на должность",
+          "Вступить в политическую партию",
+          "Помогать в проведении кампании",
+          "Присоединиться к гражданской группе",
+          "Присоединиться к общественной группе",
+          "Высказать своё мнение (по вопросу) выборному должностному лицу",
+          "Связаться в выборными должностными лицами",
+          "Поддержать или выступать против вопроса или политики",
+          "Написать в газету"
+        ]
+      },
+      "vi": {
+        "question": "69. Hai ví dụ về sự tham gia của công dân ở Hoa Kỳ là gì?",
+        "answers": [
+          "Bỏ phiếu",
+          "Tranh cử",
+          "Tham gia một đảng phái chính trị",
+          "Tham dự vào một cuộc vận động tranh cử",
+          "Tham gia vào một nhóm hoạt động dân sự",
+          "Tham gia vào một nhóm hoạt động cộng đồng",
+          "Phát biểu ý kiến (về một vấn đề) với một vị dân cử",
+          "Liên hệ với các quan chức được bầu cử",
+          "Công khai ủng hộ hoặc phản đối một vấn đề hoặc chính sách nào đó",
+          "Góp ý kiến trên một tờ báo"
+        ]
+      }
+    }
+  },
+  {
+    "question": "The Civil War had many important events. Name one.",
+    "answers": [
+      "(Battle of) Fort Sumter",
+      "Emancipation Proclamation",
+      "(Battle of) Vicksburg",
+      "(Battle of) Gettysburg",
+      "Sherman’s March",
+      "(Surrender at) Appomattox",
+      "(Battle of) Antietam/Sharpsburg",
+      "Lincoln was assassinated."
+    ],
+    "id": 93,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "États-Unis?",
+        "answers": [
+          "Liberté d’expression",
+          "Liberté de parole",
+          "Liberté de réunion",
+          "Liberté de présenter des demandes au gouvernement",
+          "Liberté de religion",
+          "Droit au port d’armes"
+        ]
+      },
+      "ja": {
+        "question": "70. アメリカ人が国のためにできることは何ですか？",
+        "answers": [
+          "投票",
+          "納税",
+          "法律の遵守",
+          "兵役",
+          "公職への立候補",
+          "州や連邦政府での勤務"
+        ]
+      },
+      "ko": {
+        "question": "하나의 이유를 대시오.",
+        "answers": [
+          "법으로 요구됨.",
+          "시민 의무",
+          "필요한 경우 초안을 공정하게 만듭니다."
+        ]
+      },
+      "ru": {
+        "question": "70. Какой один из способов американцев служить своей стране?",
+        "answers": [
+          "Голосовать"
+        ]
+      },
+      "es": {
+        "question": "66. ¿A qué demostramos nuestra lealtad cuando decimos el Juramento de Lealtad",
+        "answers": []
+      },
+      "uk": {
+        "question": "70. Яким є один із способів, як американці можуть служити своїй країні?",
+        "answers": [
+          "Голосувати",
+          "Сплачувати податки",
+          "Дотримуватися закону",
+          "Служити в армії",
+          "Балотуватися на посаду",
+          "Працювати в місцевому, державному або федеральному уряді"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Abraham Lincoln is famous for many things. Name one. *",
+    "answers": [
+      "Freed the slaves (Emancipation Proclamation)",
+      "Saved (or preserved) the Union",
+      "Led the United States during the Civil War",
+      "16th president of the United States",
+      "Delivered the Gettysburg Address"
+    ],
+    "id": 94,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "66. À qui promettons-nous loyauté lorsque nous faisons le Serment d’allégeance au",
+        "answers": []
+      },
+      "ja": {
+        "question": "71. 連邦税の支払いが重要な理由は何ですか?",
+        "answers": [
+          "法律で義務付けられているため"
+        ]
+      },
+      "ru": {
+        "question": "71. Почему важно платить федеральные налоги?",
+        "answers": [
+          "Требование закона",
+          "Все люди платят за финансирование федерального правительства",
+          "Требуется Конституцией (США) (16-я Поправка)",
+          "Гражданский долг"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What did the Emancipation Proclamation do?",
+    "answers": [
+      "Freed the slaves",
+      "Freed slaves in the Confederacy",
+      "Freed slaves in the Confederate states",
+      "Freed slaves in most Southern states"
+    ],
+    "id": 95,
+    "year": 2025,
+    "translations": {
+      "pl": {
+        "question": "71. Dlaczego ważne jest płacić podatki federalne?",
+        "answers": [
+          "Jest to wymagane prawnie",
+          "Wszyscy płacą, aby finansować rząd federalny",
+          "Jest to wymagane przez Konstytucję Stanów Zjednoczonych (16 Poprawka)",
+          "Jest to obowiązek obywatelski"
+        ]
+      },
+      "vi": {
+        "question": "71. Tại sao việc đóng thuế liên bang lại quan trọng?",
+        "answers": [
+          "Pháp luật bắt buộc",
+          "Tất cả mọi người đóng tiền để duy trì ngân sách cho chính phủ liên bang",
+          "Hiến pháp Hoa Kỳ (Tu chính án thứ 16) bắt buộc",
+          "Nghĩa vụ công dân"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What U.S. war ended slavery?",
+    "answers": [
+      "The Civil War"
+    ],
+    "id": 96,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "d’allégeance.",
+        "answers": [
+          "Abandonner toute loyauté à l’égard d’autres pays",
+          "Défendre la (des États-Unis)"
+        ]
+      },
+      "ja": {
+        "question": "の理由を1つ挙げてください。",
+        "answers": [
+          "法律で義務付けられているため",
+          "市民の義務であるため",
+          "徴集が必要になったときにそれを公平に行うため"
+        ]
+      },
+      "ko": {
+        "question": "74. 유럽인들이 오기 전에 미국에는 누가 살았는가? *",
+        "answers": [
+          "아메리칸 인디언",
+          "아메리카 원주민들"
+        ]
+      },
+      "ru": {
+        "question": "срочную военную службу. Назовите одну причину.",
+        "answers": [
+          "Требуется по закону",
+          "Гражданский долг",
+          "При необходимости, делает призыв справедливым"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What amendment says all persons born or naturalized in the United States,",
+    "answers": [
+      "14th Amendment"
+    ],
+    "id": 97,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "73. 殖民者到美国有很多理由。说出一个。",
+        "answers": []
+      },
+      "de": {
+        "question": "59. Nennen Sie eine Machtfunktion, die ausschließlich den Bundesstaaten zusteht.",
+        "answers": [
+          "Trägerschaft von Schulen und anderen öffentlichen Bildungseinrichtungen",
+          "Schutz der Bevölkerung (Polizei)",
+          "Gewährung von Sicherheit (Feuerwehr)",
+          "Ausgabe von Führerscheinen",
+          "Genehmigung von Flächennutzungsplänen und Landnutzung"
+        ]
+      },
+      "ja": {
+        "question": "73. 入植者はさまざまな理由でアメリカに来ました。その一つを挙げてください。",
+        "answers": [
+          "自由",
+          "政治的な自由",
+          "宗教的な自由",
+          "経済的機会"
+        ]
+      },
+      "ko": {
+        "question": "75. 어떤 사람들이 노예로 잡혀 팔렸는가?",
+        "answers": [
+          "아프리카인들",
+          "아프리카에서 온 사람들"
+        ]
+      },
+      "pl": {
+        "question": "selektywnej służby wojskowej (Selective Service). Podaj jeden powód.",
+        "answers": []
+      },
+      "ru": {
+        "question": "73. Колонисты прибыли в Америку по многим причинам. Назовите одну",
+        "answers": [
+          "Свобода",
+          "Политическая свобода",
+          "Религиозная свобода",
+          "Экономические возможности",
+          "Спасение от преследований"
+        ]
+      },
+      "uk": {
+        "question": "Вибіркову Службу. Назвіть одну з причин.",
+        "answers": [
+          "Вимагається законом",
+          "Громадянський обов’язок",
+          "За потреби, забезпечує справедливий призов"
+        ]
+      }
+    }
+  },
+  {
+    "question": "When did all men get the right to vote?",
+    "answers": [
+      "After the Civil War",
+      "During Reconstruction",
+      "(With the) 15th Amendment",
+      "1870"
+    ],
+    "id": 98,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "74. 在欧洲殖民到来之前，何族裔栖于美国？*",
+        "answers": [
+          "美洲印第安人",
+          "土著美洲人"
+        ]
+      },
+      "ja": {
+        "question": "74. ヨーロッパ人が来る前のアメリカには誰が住んでいましたか? *",
+        "answers": [
+          "アメリカ先住民",
+          "ネイティブアメリカン"
+        ]
+      },
+      "ko": {
+        "question": "76. 미국인들은 영국으로부터 독립 하기 위해 어떤 전쟁을 벌였는가?",
+        "answers": [
+          "미국 혁명",
+          "(미국의) 혁명 전쟁"
+        ]
+      },
+      "pl": {
+        "question": "73. Koloniści przybyli do Ameryki z wielu różnych powodów. Wymień jeden z nich.",
+        "answers": [
+          "Wolność",
+          "Swoboda polityczna",
+          "Wolność wyznania",
+          "Możliwości zarobku",
+          "Ucieczka przed prześladowaniem"
+        ]
+      },
+      "ru": {
+        "question": "74. Кто жил в Америке до прибытия Европейцев? *",
+        "answers": [
+          "Американские индианцы",
+          "Коренные Американцы"
+        ]
+      },
+      "es": {
+        "question": "69. ¿Cuáles son dos ejemplos de participación cívica en los Estados Unidos?",
+        "answers": []
+      },
+      "uk": {
+        "question": "73. Колоністи приїхали до Америки з багатьох причин. Назвіть одну",
+        "answers": []
+      },
+      "vi": {
+        "question": "73. Người di dân thời thuộc địa tới Châu Mỹ vì nhiều lí do. Hãy nêu một ví dụ.",
+        "answers": [
+          "Tự do",
+          "Tự do chính trị",
+          "Tự do tôn giáo",
+          "Cơ hội kinh tế",
+          "Tránh sự áp bức"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name one leader of the women’s rights movement in the 1800s.",
+    "answers": [
+      "Susan B. Anthony",
+      "Elizabeth Cady Stanton",
+      "Sojourner Truth",
+      "Harriet Tubman",
+      "Lucretia Mott",
+      "Lucy Stone"
+    ],
+    "id": 99,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "75. 什么人群被带到美国被贩卖为奴?",
+        "answers": [
+          "非洲人",
+          "来自非洲的人"
+        ]
+      },
+      "fr": {
+        "question": "69. Quels sont les deux exemples de participation citoyenne aux États-Unis?",
+        "answers": [
+          "Voter",
+          "Se présenter aux élections",
+          "Rejoindre un parti politique"
+        ]
+      },
+      "ja": {
+        "question": "75. 奴隷として連れ去られ、売られたのは、どのような人々ですか?",
+        "answers": [
+          "アフリカ人",
+          "アフリカの人々"
+        ]
+      },
+      "ko": {
+        "question": "77. 미국이 영국으로 부터 독립을 선언 한 이유 한 가지를 말해 보아라.",
+        "answers": [
+          "높은 세금",
+          "대의권 없는 납세 의무",
+          "영국 군인들은 미국인들의 집에 머물렀다 (기숙, 숙사 할당)",
+          "자치 정부 없음",
+          "보스턴 학살",
+          "보스턴 차 사건 (다세법)",
+          "인지세법",
+          "설탕법 (관세법)",
+          "타운젠드법",
+          "참을 수 없는 법"
+        ]
+      },
+      "pl": {
+        "question": "74. Kto żył w Ameryce, zanim przybyli tam Europejczycy? *",
+        "answers": [
+          "Indianie Ameryki Północnej",
+          "Indianie - rdzenni mieszkańcy"
+        ]
+      },
+      "ru": {
+        "question": "75. Какую группу людей забрали, и продали, как рабов?",
+        "answers": [
+          "Африканцев",
+          "Людей из Африки"
+        ]
+      },
+      "es": {
+        "question": "70. ¿Cuál es una de la forma en que los Estadounidenses pueden servir a su país?",
+        "answers": [
+          "Votar",
+          "Pagar impuestos",
+          "Obedecer la ley",
+          "Servir en el ejército",
+          "Postularse a un cargo",
+          "Trabajar para el gobierno local, estatal o federal"
+        ]
+      },
+      "uk": {
+        "question": "74. Хто жив в Америцы до прибуття європейців? *",
+        "answers": [
+          "Американські індіанці",
+          "Корінні Американці"
+        ]
+      },
+      "vi": {
+        "question": "74. Ai sống ở Hoa Kỳ trước khi những người dân châu Âu đến? *",
+        "answers": [
+          "Người Mỹ da đỏ",
+          "Người Mỹ bản địa"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name one war fought by the United States in the 1900s.",
+    "answers": [
+      "World War I",
+      "World War II",
+      "Korean War",
+      "Vietnam War",
+      "(Persian) Gulf War"
+    ],
+    "id": 100,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "76. 美国人为了从英国手中赢得独立，打了哪场战争？",
+        "answers": [
+          "美国革命",
+          "(美国）革命战争",
+          "(美国）独立战争"
+        ]
+      },
+      "fr": {
+        "question": "70. De quelle façon les Américains peuvent-ils servir leur pays?",
+        "answers": [
+          "En votant",
+          "En payant des taxes",
+          "En obéissant à la loi",
+          "En rejoignant l’armée",
+          "En se présentant aux élections",
+          "En travaillant pour l’Etat, pour le gouvernement local ou fédéral"
+        ]
+      },
+      "ja": {
+        "question": "76. アメリカがイギリスから独立を勝ち取るために戦った戦争の名前は何ですか?",
+        "answers": [
+          "アメリカ革命",
+          "アメリカ革命戦争",
+          "アメリカ独立戦争"
+        ]
+      },
+      "ko": {
+        "question": "78. 독립 선언서는 누가 썼는가? *",
+        "answers": [
+          "토마스 제퍼슨"
+        ]
+      },
+      "uk": {
+        "question": "75. Яку групу людей забрали та продали, як рабів?",
+        "answers": [
+          "Африканців",
+          "Людей з Африки"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Why did the United States enter World War I?",
+    "answers": [
+      "Because Germany attacked U.S. (civilian) ships",
+      "To support the Allied Powers (England, France, Italy, and Russia)",
+      "To oppose the Central Powers (Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria)"
+    ],
+    "id": 101,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "77. 请说明美国人宣布脱离英国而独立的原因之一。",
+        "answers": [
+          "高税收",
+          "没有理由的税收",
+          "英国士兵呆在美国人的房屋中（寄宿，营区）",
+          "他们没有自治权",
+          "波士顿大屠杀",
+          "波士顿茶党（茶法）",
+          "邮票法",
+          "糖法",
+          "汤申法",
+          "不能容忍 （强制性）行为"
+        ]
+      },
+      "fr": {
+        "question": "71. Pourquoi est-il important de payer des impôts fédéraux ?",
+        "answers": [
+          "Exigé par la loi"
+        ]
+      },
+      "ko": {
+        "question": "79. 독입 선언서가 채택된 것은 언제인가?",
+        "answers": [
+          "1776년 7월 4일"
+        ]
+      },
+      "ru": {
+        "question": "Британии?",
+        "answers": [
+          "Американская Революция",
+          "Война за независимость США",
+          "Война за (Американскую) Независимость"
+        ]
+      },
+      "uk": {
+        "question": "76. У якій війні Американці брали участь, щоб здобути незалежність від",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "When did all women get the right to vote?",
+    "answers": [
+      "1920",
+      "After World War I",
+      "(With the) 19th Amendment"
+    ],
+    "id": 102,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "78. 谁起草了独立宣言?*",
+        "answers": [
+          "(托马斯）杰斐逊 (Thomas) Jefferson"
+        ]
+      },
+      "ko": {
+        "question": "80.미국 독립 혁명에는 많은 중요한 사건들이 있었다. 하나를 말해보아라.",
+        "answers": [
+          "벙커 힐 (의 전투)",
+          "독립 선언문",
+          "워싱턴의 델라웨어 횡단 (트렌턴의 전투)",
+          "사라토가 (의 전투)",
+          "벨리 포지 (진지)",
+          "요크 타운 (의 전투) (영국군의 요크 타운에서의 항복)"
+        ]
+      },
+      "pl": {
+        "question": "76. Jaką wojnę stoczyli Amerykanie, aby uzyskać niepodległość od Brytyjczyków?",
+        "answers": [
+          "Rewolucję amerykańską",
+          "Amerykańską wojnę rewolucyjną",
+          "Wojnę o niepodległość Stanów Zjednoczonych"
+        ]
+      },
+      "ru": {
+        "question": "77. Назовите одну причину, почему Американцы провозгласили",
+        "answers": []
+      },
+      "uk": {
+        "question": "77. Назвіть одну причину, чому Американці проголосили незалежність від",
+        "answers": []
+      },
+      "vi": {
+        "question": "76. Người Mỹ đã chiến đấu trong cuộc chiến nào để giành lấy sự độc lập từ nước",
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": "What was the Great Depression?",
+    "answers": [
+      "Longest economic recession in modern history"
+    ],
+    "id": 103,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "sélectif. Nommez une raison.",
+        "answers": [
+          "Exigé par la loi",
+          "Devoir civique",
+          "Rend le projet équitable, si nécessaire"
+        ]
+      },
+      "ja": {
+        "question": "78. 独立宣言を書いたのは誰ですか? *",
+        "answers": [
+          "トーマス・ジェファーソン"
+        ]
+      },
+      "pl": {
+        "question": "77. Podaj jedną przyczynę, dla której Amerykanie ogłosili niepodległość od Wielkiej",
+        "answers": []
+      },
+      "ru": {
+        "question": "78. Кто написал Декларацию Независимости? *",
+        "answers": [
+          "(Томас) Джефферсон"
+        ]
+      },
+      "es": {
+        "question": "Servicio Selectivo. Mencione una razón por qué.",
+        "answers": [
+          "Lo exige la ley",
+          "Deber cívico",
+          "Hace que de ser necesario el servicio militar obligatorio éste sea justo"
+        ]
+      },
+      "uk": {
+        "question": "78. Хто написав Декларацію Незалежності? *",
+        "answers": [
+          "(Томас) Джеферсон"
+        ]
+      },
+      "vi": {
+        "question": "77. Hãy nêu một lý do tại sao người dân Hoa Kỳ tuyên bố độc lập khỏi Anh Quốc.",
+        "answers": [
+          "Thuế cao",
+          "Đóng thuế mà không có đại diện",
+          "Binh lính Anh ở trong nhà của người Mỹ (nội trú, đóng quân)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "When did the Great Depression start?",
+    "answers": [
+      "The Great Crash (1929)",
+      "Stock market crash of 1929"
+    ],
+    "id": 104,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "73. Les colons sont arrivés aux Etats-Unis pour plusieurs raisons. Nommez-en une.",
+        "answers": [
+          "La liberté",
+          "La liberté politique",
+          "La liberté de culte",
+          "Les opportunités économiques",
+          "Pour échapper aux persécutions"
+        ]
+      },
+      "ja": {
+        "question": "79. 独立宣言が採択されたのはいつですか?",
+        "answers": [
+          "1776年7月4日"
+        ]
+      },
+      "pl": {
+        "question": "78. Kto napisał Deklarację Niepodległości? *",
+        "answers": [
+          "Thomas Jefferson"
+        ]
+      },
+      "ru": {
+        "question": "79. Когда была принята Декларация Независимости?",
+        "answers": [
+          "4 Июля 1776 года"
+        ]
+      },
+      "es": {
+        "question": "73. Los colonizadores llegaron a América por muchas razones. Nombra uno de",
+        "answers": []
+      },
+      "uk": {
+        "question": "79. Коли було прийнято Декларацію Незалежності?",
+        "answers": [
+          "4 Липня 1776 року"
+        ]
+      },
+      "vi": {
+        "question": "78. Ai viết bản Tuyên ngôn Độc lập? *",
+        "answers": [
+          "(Thomas) Jefferson"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Who was president during the Great Depression and World War II?",
+    "answers": [
+      "(Franklin) Roosevelt"
+    ],
+    "id": 105,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "80.美国革命时期发生了许多重要事件。说出一个。",
+        "answers": [
+          "邦克山（战役）",
+          "独立宣言",
+          "华盛顿穿越特拉华州（特伦顿战役）",
+          "萨拉托加（战役）",
+          "福奇谷（营地）",
+          "约克敦（战役）（约克敦英国投降）"
+        ]
+      },
+      "fr": {
+        "question": "74. Qui vivaient en Amérique avant l’arrivée des Européens? *",
+        "answers": [
+          "Indiens d'Amérique",
+          "Amérindiens"
+        ]
+      },
+      "ja": {
+        "question": "80. アメリカ革命では数多く重大な出来事がありました。その一つを挙げてください。",
+        "answers": [
+          "バンカーヒルの戦い",
+          "独立宣言",
+          "ワシントンのデラウェア川渡河（トレントンの戦い）",
+          "サラトガの戦い",
+          "バレーフォージの宿営",
+          "ヨークタウンの戦い（ヨークタウンでのイギリス軍降伏）"
+        ]
+      },
+      "ko": {
+        "question": "82. 1787년에 어떤 창립 문서가 작성되었는가?",
+        "answers": [
+          "(미국) 헌법"
+        ]
+      },
+      "pl": {
+        "question": "79. Kiedy przyjęto Deklarację Niepodległości?",
+        "answers": [
+          "4 lipca 1776 roku"
+        ]
+      },
+      "ru": {
+        "question": "80. В ходе Американской Революции было много событий. Назовите одно.",
+        "answers": [
+          "(Битва при) Банкер-Хилле",
+          "Декларация Независимости",
+          "Переправа Вашингтона через Делавэр (Битва при Трентоне)",
+          "(Битва при) Саратоге",
+          "Велли-Фордж (Лагерь)",
+          "(Битва при) Йорктауне (Капитуляция британцев в Йорктауне)"
+        ]
+      },
+      "es": {
+        "question": "74. ¿Quiénes vivían en lo que hoy conocemos como los Estados Unidos antes de la",
+        "answers": []
+      },
+      "uk": {
+        "question": "80. Американська революція мала багато подій. Назвіть одну.",
+        "answers": [
+          "(Битва за) Банкер-Гілл",
+          "Декларація Незалежності",
+          "Перетин Вашингтоном Делаверу (Битва за Трентон)",
+          "(Битва за) Саратогу",
+          "Веллі-Фордж (Табір)",
+          "(Битва за) Йорктаун (Капітуляція Британії у Йорктауні)"
+        ]
+      },
+      "vi": {
+        "question": "79. Bản Tuyên ngôn Độc lập được thông qua khi nào?",
+        "answers": [
+          "4 tháng Bảy, 1776"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Why did the United States enter World War II?",
+    "answers": [
+      "(Bombing of) Pearl Harbor",
+      "Japanese attacked Pearl Harbor",
+      "To support the Allied Powers (England, France, and Russia)",
+      "To oppose the Axis Powers (Germany, Italy, and Japan)"
+    ],
+    "id": 106,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "75. Quel groupe de personnes ont été emmenées en Amérique pour y être vendues",
+        "answers": []
+      },
+      "es": {
+        "question": "75. ¿Qué grupo de personas fue llevado y vendido como esclavos?",
+        "answers": [
+          "Africanos",
+          "Gente de África"
+        ]
+      },
+      "vi": {
+        "question": "80.Cuộc Cách Mạng Mỹ có rất nhiều sự kiện quan trọng Hãy nêu một ví dụ.",
+        "answers": [
+          "(Trận chiến ở) Bunker Hill",
+          "Tuyên Ngôn Độc Lập",
+          "Washington Vượt sông Delaware (Trận chiến Trenton)"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Dwight Eisenhower is famous for many things. Name one.",
+    "answers": [
+      "General during World War II",
+      "President at the end of (during) the Korean War",
+      "34th president of the United States",
+      "Signed the Federal-Aid Highway Act of 1956 (Created the Interstate System)"
+    ],
+    "id": 107,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "76. Quelle guerre ont combattu les Américains pour obtenir leur indépendance face",
+        "answers": []
+      },
+      "ko": {
+        "question": "말하라.",
+        "answers": [
+          "제임스 매디슨",
+          "알렉산더 해밀튼",
+          "존 제이",
+          "퍼블리우스"
+        ]
+      },
+      "pl": {
+        "question": "Wymień jedno z nich.",
+        "answers": [
+          "Bitwa o Bunker Hill",
+          "Deklaracja Niepodległości",
+          "Waszyngton przeprawia się przez rzekę Delaware (Bitwa pod Trenton)",
+          "Bitwa pod Saratogą",
+          "Obława w dolinie Valley Forge",
+          "Oblężenie Yorktown (kapitulacja armii brytyjskiej)"
+        ]
+      },
+      "es": {
+        "question": "76. ¿En qué guerra lucharon los estadounidenses para obtener su independencia",
+        "answers": []
+      },
+      "vi": {
+        "question": "81. Có 13 bang đầu tiên. Kể tên số năm bang trong số đó.",
+        "answers": [
+          "New Hampshire",
+          "Massachusetts",
+          "Rhode Island",
+          "Connecticut",
+          "New York",
+          "New Jersey",
+          "Pennsylvania",
+          "Delaware",
+          "Maryland",
+          "Virginia",
+          "North Carolina",
+          "South Carolina"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Who was the United States’ main rival during the Cold War?",
+    "answers": [
+      "Soviet Union",
+      "USSR",
+      "Russia"
+    ],
+    "id": 108,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "82. 哪一创始文件是于1787年撰写的？",
+        "answers": [
+          "(美国） 宪法"
+        ]
+      },
+      "ja": {
+        "question": "82. 1787年に書かれた建国文書は何ですか?",
+        "answers": [
+          "アメリカ合衆国 憲法"
+        ]
+      },
+      "ko": {
+        "question": "84. 연방주의자 논집 (Federalist Papers)이 중요한 이유는 무엇인가?",
+        "answers": [
+          "그는 사람들이 (미국)을 이해하게 도와주었다. 헌법,",
+          "그들은 (미국의) 통과를 지지했다. 헌법,"
+        ]
+      },
+      "pl": {
+        "question": "81. Początkowo było 13 stanów. Wymień pięć z nich.",
+        "answers": [
+          "New Hampshire",
+          "Massachusetts",
+          "Rhode Island",
+          "Connecticut",
+          "New York",
+          "New Jersey"
+        ]
+      },
+      "ru": {
+        "question": "82. Какой основополагающий документ был написан в 1787 году?",
+        "answers": [
+          "Конституция (США)"
+        ]
+      },
+      "es": {
+        "question": "77. Nombra una razón por la cual los estadounidenses declararon la independencia",
+        "answers": []
+      },
+      "uk": {
+        "question": "82. Який основоположний документ був написаний у 1787 році?",
+        "answers": [
+          "Конституція (США)"
+        ]
+      },
+      "vi": {
+        "question": "82. Văn kiện thành lập nào được viết vào năm 1787?",
+        "answers": [
+          "(Hoa Kỳ) Hiến pháp"
+        ]
+      }
+    }
+  },
+  {
+    "question": "During the Cold War, what was one main concern of the United States?",
+    "answers": [
+      "Communism",
+      "Nuclear war"
+    ],
+    "id": 109,
+    "year": 2025,
+    "translations": {
+      "ko": {
+        "question": "85. 벤자민 프랭클린은 많은 이유들로 유명하다. 하나를 말해보아라.",
+        "answers": [
+          "최초의 무료 공공 도서관 설립",
+          "미국 최초의 우체국장",
+          "독립 선언문 작성 지원",
+          "발명가",
+          "미국 외교관"
+        ]
+      },
+      "pl": {
+        "question": "82. Jaki dokument założycielski napisano w 1787 roku?",
+        "answers": [
+          "Konstytucję Stanów Zjednoczonych"
+        ]
+      },
+      "es": {
+        "question": "78. ¿Quién escribió la Declaración de Independencia?*",
+        "answers": [
+          "(Thomas) Jefferson"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Why did the United States enter the Korean War?",
+    "answers": [
+      "To stop the spread of communism"
+    ],
+    "id": 110,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "78. Qui a rédigé la Déclaration d’Indépendance? *",
+        "answers": [
+          "(Thomas) Jefferson"
+        ]
+      },
+      "de": {
+        "question": "66. Wem oder was schwören wir Treue in unserem Treueschwur? *",
+        "answers": [
+          "den Vereinigten Staaten von Amerika",
+          "der Bundesflagge"
+        ]
+      },
+      "ja": {
+        "question": "を一名挙げてください。",
+        "answers": [
+          "ジェームス・マディソン"
+        ]
+      },
+      "ru": {
+        "question": "Назовите одного из авторов",
+        "answers": [
+          "(Джеймс) Мэдисон",
+          "(Александр) Гамильтон",
+          "(Джон) Джей",
+          "Публий"
+        ]
+      },
+      "es": {
+        "question": "79. ¿Cuándo se adoptó la Declaración de Independencia?",
+        "answers": [
+          "El 4 de julio de 1776"
+        ]
+      },
+      "uk": {
+        "question": "одного із авторів",
+        "answers": [
+          "(Джеймс) Медісон",
+          "(Олександр) Гамільтон",
+          "(Джон) Джей",
+          "Публій"
+        ]
+      },
+      "vi": {
+        "question": "thông qua. Nêu tên của một trong các tác giả.",
+        "answers": [
+          "(James) Madison",
+          "(Alexander) Hamilton",
+          "(John) Jay",
+          "Publius"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Why did the United States enter the Vietnam War?",
+    "answers": [
+      "To stop the spread of communism"
+    ],
+    "id": 111,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "84. 为什么《联邦党人文集》很重要？",
+        "answers": [
+          "他们帮助人们了解（美国） 宪法。",
+          "他们支持通过（美国） 宪法。"
+        ]
+      },
+      "de": {
+        "question": "67. Nennen Sie zwei Versprechen, die Neubürger bei ihrer Einbürgerung im",
+        "answers": []
+      },
+      "ja": {
+        "question": "84. 『ザ・フェデラリスト』が重要な理由は何ですか?",
+        "answers": [
+          "人々がアメリカ合衆国憲法を理解できるようにしたため 。",
+          "アメリカ合衆国憲法の通過を支援したため 。"
+        ]
+      },
+      "pl": {
+        "question": "Zjednoczonych. Wymień jednego z eseistów.",
+        "answers": [
+          "(James) Madison",
+          "(Alexander) Hamilton",
+          "(John) Jay",
+          "Publius"
+        ]
+      },
+      "ru": {
+        "question": "84. Почему “Федералистские Записки” важны?",
+        "answers": [
+          "Они помогли людям понять Конституцию (США).",
+          "Они способствовали принятию Конституции (США)."
+        ]
+      },
+      "es": {
+        "question": "80. La Revolución de las trece colonias estuvo compuesta por varios",
+        "answers": []
+      },
+      "uk": {
+        "question": "84. Чому “Федералістські Листи” є важливими?",
+        "answers": [
+          "Вони допомогли людям зрозуміти Конституцію (США).",
+          "Вони підтримали ухвалення Конституції (США)."
+        ]
+      },
+      "vi": {
+        "question": "84. Tại sao tập Luận cương Liên bang lại quan trọng?",
+        "answers": [
+          "Nó giúp mọi người hiểu về Hoa Kỳ Hiến pháp.",
+          "Nó ủng hộ thông qua (hệ thống Liên bang Hoa Kỳ) Hiến pháp."
+        ]
+      }
+    }
+  },
+  {
+    "question": "What did the civil rights movement do?",
+    "answers": [
+      "Fought to end racial discrimination"
+    ],
+    "id": 112,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "85. 本杰明·富兰克林以许多事情而闻名。说出一个。",
+        "answers": [
+          "建立了第一批免费的公共图书馆",
+          "美国第一任邮政局长",
+          "帮助撰写了《独立宣言》",
+          "发明家",
+          "美国外交官"
+        ]
+      },
+      "ja": {
+        "question": "85. ベンジャミン・フランクリンはさまざまなことで有名です。その一つを挙げてください。",
+        "answers": [
+          "無料の公共図書館を初めて設立",
+          "米国の初代郵政長官",
+          "独立宣言の作成を支援",
+          "発明家",
+          "米国外交官"
+        ]
+      },
+      "ko": {
+        "question": "87. 토마스 제퍼슨은 다양한 이유들로 유명하다. 하나를 말해보아라.",
+        "answers": [
+          "독립 선언서 작성자",
+          "미국의 제 3대 대통령",
+          "(루이지애나 매입으로) 미국 영토의 두 배 증가",
+          "최초의 국무 장관",
+          "버지니아 대학 설립",
+          "버지니아 종교 자유 법령의 작성자"
+        ]
+      },
+      "ru": {
+        "question": "85. Бенджамин Франклин прославился многими вещами. Назовите одну.",
+        "answers": [
+          "Основал первые бесплатные публичные библиотеки",
+          "Первый Генеральный Почтмейстер Соединённых Штатов",
+          "Участвовал в написании Декларации Независимости"
+        ]
+      },
+      "uk": {
+        "question": "85. Бенджамін Франклін відомий багатьма речами. Назвіть одну.",
+        "answers": [
+          "Заснував перші безкоштовні публічні бібліотеки",
+          "Перший Генеральний Поштмейстер Сполучених Штатів",
+          "Допоміг написати Декларацію Незалежності",
+          "Винахідник",
+          "Дипломат США"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Martin Luther King, Jr. is famous for many things. Name one. *",
+    "answers": [
+      "Fought for civil rights",
+      "Worked for equality for all Americans",
+      "Worked to ensure that people would “not be judged by the color of their skin, but by the content"
+    ],
+    "id": 113,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "86. 乔治华盛顿以许多事情着称。说出一个。*",
+        "answers": [
+          "“我们国家的父亲”"
+        ]
+      },
+      "fr": {
+        "question": "80. La Révolution américaine a connu de nombreux événements importants.",
+        "answers": []
+      },
+      "ru": {
+        "question": "86.Джордж Вашингтон прославился многими вещами. Назовите одну *",
+        "answers": [
+          "“Отец нашей страны”",
+          "Первый президент Соединённых Штатов",
+          "Генерал Континентальной Армии",
+          "Президент Конституционного Конвента"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Why did the United States enter the Persian Gulf War?",
+    "answers": [
+      "To force the Iraqi military from Kuwait"
+    ],
+    "id": 114,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "87. 托马斯·杰斐逊以许多事情而闻名。说出一个。",
+        "answers": [
+          "《独立宣言》的作者",
+          "美国第三任总统",
+          "美国的规模扩大了一倍（买下路易斯安那州）",
+          "一等国务卿",
+          "成立了弗吉尼亚大学",
+          "弗吉尼亚宗教自由法规的作者"
+        ]
+      },
+      "de": {
+        "question": "69. Nennen Sie zwei Beispiele für Bürgerbeteiligung in den USA.",
+        "answers": [
+          "Wählen gehen",
+          "Sich um ein öffentliches Amt bewerben",
+          "Mitglied einer politischen Partei werden",
+          "eine Wahlkampagne unterstützen"
+        ]
+      },
+      "pl": {
+        "question": "85. Benjamin Franklin słynie z wielu rzeczy. Wymień jedną z nich.",
+        "answers": [
+          "Założył pierwsze darmowe biblioteki publiczne",
+          "Był pierwszym Poczmistrzem Generalnym Stanów Zjednoczonych",
+          "Pomagał w napisaniu Deklaracji Niepodległości",
+          "Był wynalazcą",
+          "Był dyplomatą Stanów Zjednoczonych"
+        ]
+      },
+      "ru": {
+        "question": "87. Томас Джефферсон известен многими вещами. Назовите одну.",
+        "answers": [
+          "Автор Декларации Независимости",
+          "Третий президент Соединённых Штатов",
+          "Удвоил размер Соединённых Штатов (Покупка Луизианы)",
+          "Первый Государственный Секретарь",
+          "Основал Университет Вирджинии",
+          "Автор Вирджинского Статута о свободе вероисповедания"
+        ]
+      },
+      "es": {
+        "question": "82. ¿Qué documento patrio se redactó en 1787?",
+        "answers": [
+          "(EE. UU.) Constitución"
+        ]
+      },
+      "vi": {
+        "question": "86. George Washington nổi tiếng vì nhiều lý do. Hãy nêu một ví dụ. *",
+        "answers": [
+          "\"Người cha của Đất nước Chúng ta\"",
+          "Tổng Thống đầu tiên của Hợp Chủng Quốc Hoa Kỳ",
+          "Tổng Tư lệnh Lục Quân Lục Địa",
+          "Chủ Tịch Hội nghị Lập hiến"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What major event happened on September 11, 2001 in the United States? *",
+    "answers": [
+      "Terrorists attacked the United States",
+      "Terrorists took over two planes and crashed them into the World Trade Center in New York City",
+      "Terrorists took over a plane and crashed into the Pentagon in Arlington, Virginia",
+      "Terrorists took over a plane originally aimed at Washington, D.C., and crashed in a field in Pennsylvania"
+    ],
+    "id": 115,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "88. 詹姆斯·麦迪逊因许多事情而闻名。说出一个。",
+        "answers": [
+          "“宪法之父”",
+          "美国第四任总统",
+          "1812年战争期间的总统",
+          "联邦党人文集的作者之一"
+        ]
+      },
+      "de": {
+        "question": "70. Nennen Sie eine der Möglichkeiten für Amerikanerinnen und Amerikaner, ihrem",
+        "answers": []
+      },
+      "ja": {
+        "question": "87. トーマス・ジェファーソンはさまざまなことで有名です。その一つを挙げてください。",
+        "answers": [
+          "独立宣言の起草者",
+          "第三代アメリカ合衆国大統領",
+          "米国の大きさを二倍にした（ルイジアナ買収）",
+          "米国の初代国務長官",
+          "バージニア大学の創設",
+          "バージニア信教自由法の起草者"
+        ]
+      },
+      "ko": {
+        "question": "89. 알렉산더 헤밀턴은 많은 이유들로 유명하다. 하나를 말해보아라.",
+        "answers": [
+          "재무부 제 1대 장관",
+          "연방주의자 논집의 작성자 중 하나",
+          "미국의 첫 은행 설립 지원",
+          "조지 워싱턴 장군의 보자관",
+          "대룩 의회의 위원"
+        ]
+      },
+      "pl": {
+        "question": "86. Jerzy Waszyngton słynie z wielu rzeczy. Wymień jedną z nich. *",
+        "answers": [
+          "nazwano go \"Ojcem narodu amerykańskiego\"",
+          "Był pierwszym prezydentem Stanów Zjednoczonych",
+          "Był wodzem naczelnym Armii Kontynentalnej",
+          "Był przewodniczącym Konwencji Konstytucyjnej"
+        ]
+      },
+      "uk": {
+        "question": "87. Томас Джеферсон відомий багатьма речами. Назвіть одну.",
+        "answers": [
+          "Автор Декларації Незалежності",
+          "Третій президент Сполучених Штатів",
+          "Подвоїв розмір Сполучених Штатів (Купівля Луїзіани)",
+          "Перший Державний Секретар",
+          "Заснував Університет Вірджинії",
+          "Автор Вірджинського Статуту про релігійну свободу"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name one U.S. military conflict after the September 11, 2001 attacks.",
+    "answers": [
+      "(Global) War on Terror",
+      "War in Afghanistan",
+      "War in Iraq"
+    ],
+    "id": 116,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "89亚历山大·汉密尔顿因许多事情而闻名。说出一个。",
+        "answers": [
+          "财政部第一书记",
+          "联邦党人文集的作者之一",
+          "帮助建立了美国第一银行",
+          "乔治·华盛顿将军的助手",
+          "大陆会议的成员"
+        ]
+      },
+      "fr": {
+        "question": "82. Quel document fondateur a été rédigé en 1787?",
+        "answers": [
+          "Constitution (des États-Unis)"
+        ]
+      },
+      "ja": {
+        "question": "88. ジェームズ・マディソンはさまざまなことで有名です。その一つを挙げてください。",
+        "answers": [
+          "「アメリカ合衆国憲法の父」"
+        ]
+      },
+      "ko": {
+        "question": "90. 미국이 1803년 프랑스로부터 매입한 영토는 어디인가?",
+        "answers": [
+          "루이지애나 영토",
+          "루이지애나"
+        ]
+      },
+      "pl": {
+        "question": "87. Thomas Jefferson słynie z wielu rzeczy. Wymień jedną z nich.",
+        "answers": [
+          "Jest jednym z autorów Deklaracji Niepodległości",
+          "Był trzecim prezydentem Stanów Zjednoczonych",
+          "Podwoił obszar Stanów Zjednoczonych (zakup Luizjany)",
+          "Był pierwszym Sekretarzem Stanu",
+          "Założył Uniwersytet Wirginii",
+          "Napisał Statut Wirginii na rzecz Wolności Religii"
+        ]
+      },
+      "es": {
+        "question": "aprobación de la Constitución de los Estados Unidos. Nombre uno de los autores.",
+        "answers": [
+          "(James) Madison",
+          "(Alexander) Hamilton",
+          "(John) Jay",
+          "Publius"
+        ]
+      },
+      "uk": {
+        "question": "88. Джеймс Медісон відомий багатьма речами. Назвіть одну.",
+        "answers": [
+          "“Батько Конституції”",
+          "Четвертий президент Сполучених Штатів"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name one American Indian tribe in the United States.",
+    "answers": [
+      "Apache",
+      "Blackfeet",
+      "Cayuga",
+      "Cherokee",
+      "Cheyenne",
+      "Chippewa",
+      "Choctaw",
+      "Creek",
+      "Crow",
+      "Hopi",
+      "Huron",
+      "Inupiat",
+      "Lakota",
+      "Mohawk",
+      "Mohegan",
+      "Navajo",
+      "Oneida",
+      "Onondaga",
+      "Pueblo",
+      "Seminole",
+      "Seneca",
+      "Shawnee",
+      "Sioux",
+      "Teton",
+      "Tuscarora"
+    ],
+    "id": 117,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "90. 1803年美国从法国那里购买了哪块领土？",
+        "answers": [
+          "路易斯安那领土",
+          "路易斯安那"
+        ]
+      },
+      "ja": {
+        "question": "89. アレクサンダー・ハミルトンはさまざまなことで有名です。その一つを挙げてください。",
+        "answers": [
+          "米国の初代財務長官",
+          "『ザ・フェデラリスト』の執筆者の1人",
+          "第一合衆国銀行の設立を支援",
+          "総司令官ジョージ・ワシントンの副官",
+          "大陸会議の議員"
+        ]
+      },
+      "pl": {
+        "question": "88. James Madison słynie z wielu rzeczy. Wymień jedną z nich.",
+        "answers": [
+          "Nazwano go \"Ojcem Konstytucji Amerykańskiej\"",
+          "Był czwartym prezydentem Stanów Zjednoczonych",
+          "Był prezydentem podczas wojny roku 1812 (zwanej też wojną"
+        ]
+      },
+      "ru": {
+        "question": "89. Александр Гамильтон известен многими вещами. Назовите одну.",
+        "answers": [
+          "Первый Секретарь Министерства финансов",
+          "Один из авторов “Федералистских Записок”",
+          "Помог основать Первый Банк Соединённых Штатов",
+          "Помощник Генерала Джорджа Вашингтона",
+          "Член Континентального Конгресса"
+        ]
+      },
+      "es": {
+        "question": "84. ¿Por qué El Federalista es tan importante?",
+        "answers": [
+          "Ayudó a que las personas comprendan la Constitución (estadounidense).",
+          "Fue un apoyo para la sanción de la Constitución (estadounidense)."
+        ]
+      },
+      "uk": {
+        "question": "89. Александр Гамільтон відомий багатьма речами. Назвіть одну.",
+        "answers": [
+          "Перший Секретар Міністерства фінансів",
+          "Один із авторів “Федералістських Листів”",
+          "Допоміг створити Перший Банк Сполучених Штатів",
+          "Помічник Генерала Джорджа Вашингтона",
+          "Член Континентального Конгресу"
+        ]
+      },
+      "vi": {
+        "question": "88. James Madison nổi tiếng vì nhiều lý do. Hãy nêu một ví dụ.",
+        "answers": [
+          "\"Cha đẻ của Hiến Pháp\"",
+          "Tổng Thống thứ tư của Hợp Chủng Quốc Hoa Kỳ",
+          "Tổng Thống trong thời kỳ Chiến Tranh 1812",
+          "Một trong những tác giả của tập Luận cương Liên Bang"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name one example of an American innovation.",
+    "answers": [
+      "Light bulb",
+      "Automobile (cars, internal combustion engine)",
+      "Skyscrapers",
+      "Airplane",
+      "Assembly line",
+      "Landing on the moon",
+      "Integrated circuit (IC)"
+    ],
+    "id": 118,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "91. 说出美国在十九世纪打过的一场战争。",
+        "answers": []
+      },
+      "fr": {
+        "question": "États-Unis. Citez un des auteurs.",
+        "answers": [
+          "(James) Madison",
+          "(Alexander) Hamilton",
+          "(John) Jay",
+          "Publius"
+        ]
+      },
+      "ja": {
+        "question": "90. アメリカが1803年にフランスから購入した領土はどこですか?",
+        "answers": [
+          "ルイジアナ領土",
+          "ルイジアナ州"
+        ]
+      },
+      "ru": {
+        "question": "90. Какую территорию Соединённые Штаты купили у Франции в 1803 году?",
+        "answers": [
+          "Территорию Луизианы"
+        ]
+      },
+      "uk": {
+        "question": "90. Яку територію Сполучені Штати купили у Франції у 1803 році?",
+        "answers": [
+          "Територію Луїзіани",
+          "Луїзіану"
+        ]
+      },
+      "vi": {
+        "question": "89. Alexander Hamilton nổi tiếng vì nhiều lý do. Hãy nêu một ví dụ.",
+        "answers": [
+          "Bộ Trưởng Ngân Khố Hoa Kỳ đầu tiên",
+          "Một trong những tác giả của tập Luận cương Liên Bang",
+          "Giúp đỡ thành lập Ngân Hàng đầu tiên của Hoa Kỳ",
+          "Phụ tá cho tướng George Washington"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What is the capital of the United States?",
+    "answers": [
+      "Washington, D.C."
+    ],
+    "id": 119,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "92. 说出美国南北方之间的战争。",
+        "answers": [
+          "美国内战"
+        ]
+      },
+      "fr": {
+        "question": "84. Pourquoi les Papiers fédéralistes étaient-ils importants?",
+        "answers": [
+          "Ils ont aidé les gens à comprendre Constitution (des États-Unis).",
+          "Ils ont aidé à l'adoption de la Constitution (des États-Unis)."
+        ]
+      },
+      "de": {
+        "question": "Wehrfähigen erfassungssystem (Selective Service System) anmelden. Nennen Sie",
+        "answers": []
+      },
+      "ko": {
+        "question": "92. 남부와 북부 사이에 벌어진 미국의 전쟁 이름을 말하라.",
+        "answers": [
+          "남북전쟁"
+        ]
+      },
+      "ru": {
+        "question": "91. Назовите одну войну, которую вели Соединённые Штаты в 1800-тых годах.",
+        "answers": [
+          "Война 1812 года",
+          "Мексико-Американская Война",
+          "Гражданская Война",
+          "Испано-Американская Война"
+        ]
+      },
+      "vi": {
+        "question": "90. Hoa Kỳ mua lãnh thổ nào từ Pháp vào năm 1803?",
+        "answers": [
+          "Lãnh thổ Louisiana",
+          "Louisiana"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Where is the Statue of Liberty?",
+    "answers": [
+      "New York (Harbor)",
+      "Liberty Island [Also acceptable are New Jersey, near New York City, and on the Hudson (River).]"
+    ],
+    "id": 120,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "93. 内战期间发生了许多重要事件。说出一个。",
+        "answers": [
+          "萨姆特堡（战役）",
+          "解放宣言",
+          "维克斯堡（战役）",
+          "葛底斯堡（战役）",
+          "谢尔曼的游行",
+          "阿波玛托克斯（投降）",
+          "安提坦/夏普斯堡（战役）",
+          "林肯被暗杀。"
+        ]
+      },
+      "fr": {
+        "question": "85. Benjamin Franklin est célèbre pour beaucoup de choses. Nommez-en un.",
+        "answers": [
+          "Création des premières bibliothèques publiques gratuites",
+          "Premier maître général des Postes des États-Unis",
+          "Aide à la rédaction de la Déclaration d’indépendance",
+          "Inventeur",
+          "Diplomate américain"
+        ]
+      },
+      "ko": {
+        "question": "93. 남북 전쟁에는 많은 중요한 사건들이 있었다. 하나를 말해보아라.",
+        "answers": [
+          "섬터 요새 (의 전투)",
+          "해방 선언문",
+          "빅스버그 (의 전투)",
+          "게티즈버그 (의 전투)",
+          "셔먼의 행진"
+        ]
+      },
+      "pl": {
+        "question": "90. Jakie terytorium Stany Zjednoczone kupiły od Francji w 1803 roku?",
+        "answers": [
+          "Terytorium Luizjany",
+          "Luizjanę"
+        ]
+      },
+      "ru": {
+        "question": "92. Назовите войну США между Севером и Югом.",
+        "answers": [
+          "Гражданская Война"
+        ]
+      },
+      "vi": {
+        "question": "91. Kể tên một cuộc chiến có Hoa Kỳ tham gia vào thế kỷ 19.",
+        "answers": [
+          "Chiến tranh năm 1812",
+          "Chiến tranh Mexico - Hoa Kỳ",
+          "Nội chiến",
+          "Chiến tranh Tây Ban Nha - Hoa Kỳ"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Why does the flag have 13 stripes? *",
+    "answers": [
+      "(Because there were) 13 original colonies",
+      "(Because the stripes) represent the original colonies"
+    ],
+    "id": 121,
+    "year": 2025,
+    "translations": {
+      "ja": {
+        "question": "92. アメリカの北軍と南軍が戦った戦争の名前を挙げてください。",
+        "answers": [
+          "南北戦争"
+        ]
+      },
+      "ko": {
+        "question": "94. 에이브라함 링컨은 많은 이유들로 유명하다. 하나를 말해보아라. *",
+        "answers": [
+          "노예 해방 (해방 선언문)",
+          "연방의 구조 (또는 보존)",
+          "남북 전쟁 준 미국 주도",
+          "미국의 제 16대 대통령",
+          "게티즈버그 연설"
+        ]
+      },
+      "pl": {
+        "question": "91. Wymień jedną wojnę, którą Stany Zjednoczone stoczyły w XIX wieku.",
+        "answers": [
+          "Wojna roku 1812"
+        ]
+      },
+      "ru": {
+        "question": "93. В Гражданской войне было много событий. Назовите одно.",
+        "answers": [
+          "(Битва при) Форте Самтер",
+          "Прокламация про освобождение"
+        ]
+      },
+      "uk": {
+        "question": "92. Назвіть війну США між Північчю та Півднем.",
+        "answers": [
+          "Громадянська війна"
+        ]
+      },
+      "vi": {
+        "question": "92. Kể tên cuộc chiến ở Hoa Kỳ giữa miền Bắc và miền Nam.",
+        "answers": [
+          "Nội chiến"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Why does the flag have 50 stars?",
+    "answers": [
+      "(Because there is) one star for each state",
+      "(Because) each star represents a state",
+      "(Because there are) 50 states"
+    ],
+    "id": 122,
+    "year": 2025,
+    "translations": {
+      "de": {
+        "question": "74. Wer lebte vor der Ankunft der Europäer in Amerika? *",
+        "answers": [
+          "Amerikanische Indianer",
+          "Amerikanische Ureinwohner"
+        ]
+      },
+      "ja": {
+        "question": "93. 南北戦争ではさまざまな重要な出来事がありました。その一つを挙げてください。",
+        "answers": [
+          "サムター要塞の戦い",
+          "奴隷解放宣言",
+          "ビックスバーグの戦い",
+          "ゲティスバーグの戦い"
+        ]
+      },
+      "ko": {
+        "question": "95. 노예 해방 선언은 어떤 일을 했는가?",
+        "answers": [
+          "노예들을 해방시킴",
+          "남부 연합에서의 노예 해방",
+          "납부 연합 주에서의 노예 해방",
+          "남부 대부분의 주에서 노예 해방"
+        ]
+      },
+      "pl": {
+        "question": "92. Jak nazywała się wojna pomiędzy północą, a południem Stanów Zjednoczonych?",
+        "answers": [
+          "Wojna secesyjna"
+        ]
+      },
+      "ru": {
+        "question": "94. Авраам Линкольн прославился многими вещами. Назовите одну. *",
+        "answers": [
+          "Освободил рабов (Прокламация об освобождении)",
+          "Спас (или сохранил) Союз",
+          "Возглавлял Соединённые Штаты во время Гражданской Войны",
+          "16-тый президент Соединённых Штатов",
+          "Произнёс Геттисбергскую речь"
+        ]
+      },
+      "uk": {
+        "question": "93. Громадянська війна мала багато подій. Назвіть одну.",
+        "answers": [
+          "(Битва за) Форт Самтер",
+          "Прокламація про звільнення рабів (Емансипаційна прокламація)",
+          "(Битва за) Віксбург",
+          "(Битва за) Геттісберг",
+          "Марш Шермана до моря",
+          "Капітуляція в Аппоматтоксі",
+          "Битва при Антітемі/Шарпсбурзі",
+          "Лінкольн був убитий"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What is the name of the national anthem?",
+    "answers": [
+      "The Star-Spangled Banner"
+    ],
+    "id": 123,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "95. “废奴宣言” 导致了什么？",
+        "answers": [
+          "解放奴隶",
+          "解放了南部邦联的奴隶",
+          "解放了南部邦联州的奴隶",
+          "解放了南部州的奴隶"
+        ]
+      },
+      "fr": {
+        "question": "87. Thomas Jefferson est célèbre pour beaucoup de choses. Nommez-en un.",
+        "answers": [
+          "Rédacteur de la Déclaration d’indépendance",
+          "Troisième président des États-Unis",
+          "A doublé la taille des États-Unis (achat de la Louisiane)",
+          "Premier Secrétaire d’État",
+          "A fondé l’Université de Virginie",
+          "Rédacteur du Virginia Statute on Religious Freedom"
+        ]
+      },
+      "de": {
+        "question": "75. Aus welcher Personengruppe wurden Menschen entführt und als Sklaven",
+        "answers": []
+      },
+      "ja": {
+        "question": "94. エイブラハム・リンカーンはさまざまなことで有名です。その一つを挙げてください。*",
+        "answers": [
+          "奴隷の解放（奴隷解放宣言）",
+          "ユニオン（北軍）救済 ／維持",
+          "南北戦争でアメリカ合衆国（北軍）を指揮",
+          "第16代アメリカ合衆国大統領",
+          "ゲティスバーグ演説"
+        ]
+      },
+      "pl": {
+        "question": "93. Podczas wojny secesyjnej miało miejsce wiele ważnych wydarzeń. Wymień jedno",
+        "answers": []
+      },
+      "ru": {
+        "question": "95. Что сделала Прокламация об освобождении?",
+        "answers": [
+          "Освободила рабов",
+          "Освободила рабов в Конфедерации",
+          "Освободила рабов в штатах Конфедерации",
+          "Освободила рабов в большинстве южных штатов"
+        ]
+      },
+      "uk": {
+        "question": "94. Авраам Лінкольн відомий багатьма речами. Назвіть одну. *",
+        "answers": [
+          "Звільнив рабів (Прокламація про емансипацію)",
+          "Врятував (або зберіг) Союз",
+          "Очолював Сполучені Штати під час Громадянської війни",
+          "16-тий президент Сполучених Штатів",
+          "Виголосив Геттісберзьку промову"
+        ]
+      }
+    }
+  },
+  {
+    "question": "The Nation’s first motto was “E Pluribus Unum.” What does that mean?",
+    "answers": [
+      "Out of many, one",
+      "We all become one"
+    ],
+    "id": 124,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "96. 什么美国战争结束了奴隶制？",
+        "answers": [
+          "内战"
+        ]
+      },
+      "fr": {
+        "question": "88. James Madison est célèbre pour beaucoup de choses. Nommez-en un.",
+        "answers": []
+      },
+      "ja": {
+        "question": "95. 奴隷解放宣言は何をしましたか?",
+        "answers": [
+          "奴隷を解放した",
+          "アメリカ連合国（コンフェデレート／南軍）の奴隷を解放した",
+          "アメリカ連合国州の奴隷を解放した",
+          "南部のほとんどの州の奴隷を解放"
+        ]
+      },
+      "pl": {
+        "question": "94. Abraham Lincoln słynie z wielu rzeczy. Wymień jedną z nich. *",
+        "answers": [
+          "Zniósł niewolnictwo (Proklamacja Emancypacji)",
+          "Uratował Unię",
+          "Przewodził Stanom Zjednoczonym podczas wojny secesyjnej",
+          "Był 16 prezydentem Stanów Zjednoczonych",
+          "Wygłosił przemowę gettysburską (zwaną również adresem gettysburskim)"
+        ]
+      },
+      "ru": {
+        "question": "96. Какая война в США положила конец рабству?",
+        "answers": [
+          "Гражданская Война"
+        ]
+      },
+      "uk": {
+        "question": "95. Що зробила Прокламація про емансипацію?",
+        "answers": [
+          "Звільнила рабів",
+          "Звільнила рабів у Конфедерації",
+          "Звільнила рабів у штатах Конфедерації",
+          "Звільнила рабів у більшості південних штатів"
+        ]
+      },
+      "vi": {
+        "question": "94. braham Lincoln nổi tiếng vì nhiều lý do. Hãy nêu một ví dụ. *",
+        "answers": [
+          "Giải phóng nô lệ (Tuyên ngôn Giải phóng Nô lệ)",
+          "Cứu (hoặc duy trì) phe Liên bang",
+          "Lãnh đạo phe Liên bang trong cuộc Nội chiến",
+          "Tổng thống thứ 16 của Hợp Chủng Quốc Hoa Kỳ",
+          "Đọc bài Diễn văn Gettysburg"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What is Independence Day?",
+    "answers": [
+      "A holiday to celebrate U.S. independence (from Britain)",
+      "The country’s birthday"
+    ],
+    "id": 125,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "89. Alexander Hamilton est célèbre pour beaucoup de choses. Nommez-en un.",
+        "answers": [
+          "Premier secrétaire du Trésor",
+          "Un des auteurs des Papiers Fédéralistes",
+          "Aide à la création de la First Bank of the United States",
+          "Aide au général George Washington",
+          "Membre du Congrès continental"
+        ]
+      },
+      "de": {
+        "question": "Großbritannien?",
+        "answers": [
+          "amerikanische Revolution",
+          "(amerikanischer) Revolutionskrieg",
+          "(amerikanischer) Unabhängigkeitskrieg"
+        ]
+      },
+      "ja": {
+        "question": "96. 奴隷制度を終わらせたアメリカの戦争は何ですか?",
+        "answers": [
+          "南北戦争"
+        ]
+      },
+      "pl": {
+        "question": "95. Co ustanowiła Proklamacja Emancypacji?",
+        "answers": [
+          "Zniosła niewolnictwo",
+          "Zniosła niewolnictwo na obszarach Konfederacji",
+          "Zniosła niewolnictwo na obszarach Skonfederowanych Stanów Ameryki",
+          "Zniosła niewolnictwo w większości stanów Południa"
+        ]
+      },
+      "uk": {
+        "question": "96. Яка війна в США поклала край рабству?",
+        "answers": [
+          "Громадянська Війна"
+        ]
+      },
+      "vi": {
+        "question": "95. Tuyên ngôn Giải phóng Nô lệ có vai trò gì?",
+        "answers": [
+          "giải phóng nô lệ",
+          "giải phóng nô lệ ở phe Liên hiệp",
+          "giải phóng nô lệ ở các bang Liên hiệp",
+          "giải phóng nô lệ ở hầu hết các bang miền Nam"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Name three national U.S. holidays. *",
+    "answers": [
+      "New Year’s Day",
+      "Martin Luther King, Jr. Day",
+      "Presidents Day (Washington’s Birthday)",
+      "Memorial Day",
+      "Juneteenth",
+      "Independence Day",
+      "Labor Day",
+      "Columbus Day",
+      "Veterans Day",
+      "Thanksgiving Day",
+      "Christmas Day"
+    ],
+    "id": 126,
+    "year": 2025,
+    "translations": {
+      "fr": {
+        "question": "90. Quel est le territoire que les États-Unis ont acquis auprès de la France en 1803?",
+        "answers": [
+          "Territoire de la Louisiane",
+          "Louisiane"
+        ]
+      },
+      "de": {
+        "question": "77. Nennen Sie einen Grund, aus welchem die Amerikaner die Unabhängigkeit von",
+        "answers": []
+      },
+      "ko": {
+        "question": "규정한 수정 헌법 조항은 무엇인가요?",
+        "answers": [
+          "미국 수정 헌법 제 14조"
+        ]
+      },
+      "pl": {
+        "question": "96. Jaka wojna amerykańska zakończyła niewolnictwo?",
+        "answers": [
+          "Wojna secesyjna"
+        ]
+      },
+      "ru": {
+        "question": "натурализированные в Соединённых Штатах и находящиеся под их",
+        "answers": []
+      },
+      "vi": {
+        "question": "96. Trận chiến nào đã kết thúc chế độ nô lệ ở Hoa Kỳ?",
+        "answers": [
+          "Cuộc Nội chiến"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What is Memorial Day?",
+    "answers": [
+      "A holiday to honor soldiers who died in military service"
+    ],
+    "id": 127,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "98. 什么时候所有男性获得投票权？",
+        "answers": [
+          "内战之后",
+          "重建期间",
+          "(在）第15修正案",
+          "1870年"
+        ]
+      },
+      "de": {
+        "question": "78. Wer verfasste die amerikanische Unabhängigkeitserklärung? *",
+        "answers": [
+          "(Thomas) Jefferson"
+        ]
+      },
+      "ja": {
+        "question": "修正条項はどれですか？",
+        "answers": [
+          "修正第14条"
+        ]
+      },
+      "ko": {
+        "question": "98. 언제 모든 남성들이 투표할 권리를 얻었는가?",
+        "answers": [
+          "남북전쟁 이후",
+          "재건 시대 중",
+          "미국 수정 헌법 제 15조",
+          "1870년"
+        ]
+      },
+      "ru": {
+        "question": "98. Когда все мужчины получили право голоса?",
+        "answers": [
+          "После Гражданской Войны",
+          "Во время Реконструкции",
+          "(С принятием ) 15-ой поправки",
+          "1870 год"
+        ]
+      },
+      "uk": {
+        "question": "Сполучених Штатах, та підпадають під їх юрисдикцію, є громадянами США?",
+        "answers": [
+          "14-та поправка"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What is Veterans Day?",
+    "answers": [
+      "A holiday to honor people in the (U.S.) military",
+      "A holiday to honor people who have served (in the U.S. military)"
+    ],
+    "id": 128,
+    "year": 2025,
+    "translations": {
+      "zh": {
+        "question": "99. 说出一位1800年代妇女权利运动的领导人。",
+        "answers": [
+          "苏珊·安东尼（Susan B. Anthony）",
+          "伊丽莎白·卡迪·斯坦顿（Elizabeth Cady Stanton）",
+          "旅居者真相(Sojourner Truth)",
+          "哈丽特·塔布曼（Harriet Tubman）"
+        ]
+      },
+      "de": {
+        "question": "79. Wann wurde die Unabhängigkeitserklärung verabschiedet?",
+        "answers": [
+          "am 4. Juli 1776"
+        ]
+      },
+      "ja": {
+        "question": "98. すべての男性が投票権を得たのはいつですか?",
+        "answers": [
+          "南北戦争後",
+          "レコンストラクション（南部再建）中",
+          "修正第15条の批准",
+          "1870年"
+        ]
+      },
+      "pl": {
+        "question": "Stanach Zjednoczonych i podlegające ich jurysdykcji są obywatelami",
+        "answers": []
+      },
+      "es": {
+        "question": "90. ¿Qué territorio compró Estados Unidos a Francia en 1803?",
+        "answers": [
+          "El territorio de Louisiana",
+          "Louisiana"
+        ]
+      },
+      "uk": {
+        "question": "98. Коли всі чоловіки отримали право голосувати?",
+        "answers": [
+          "Після Громадянської Війни",
+          "Під час Реконструкції",
+          "(З) 15-ою поправкою",
+          "1870 рік"
+        ]
+      },
+      "vi": {
+        "question": "Hoa Kỳ và thuộc quyền tài phán của Hoa Kỳ là công dân Hoa Kỳ?",
+        "answers": [
+          "Tu chính án thứ 14"
+        ]
+      }
+    }
+  }
+]
