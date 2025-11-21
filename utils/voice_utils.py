@@ -50,7 +50,7 @@ def record_and_transcribe():
 
     with st.spinner("📥 Recording received. Transcribing..."):
         transcript = client.audio.transcriptions.create(
-            model="gpt-4o-mini-tts",
+            model="whisper-1",   # ← 여기!
             file=audio
         )
         text = transcript.text
