@@ -42,18 +42,18 @@ def play_tts(text):
 # 🎤 RECORD + WHISPER STT
 # --------------------------------------------------------------
 def record_and_transcribe():
-    client = get_client()
+    st.markdown("🎤 Record your answer:")
 
-    audio = st.audio_input("Record your voice")
-    if audio is None:
-        return None
+    audio_file = st.file_uploader(
+        "Tap to record (mobile supported)",
+        type=["mp3", "wav", "m4a"],
+        accept_multiple_files=False
+    )
 
-    with st.spinner("📥 Recording received. Transcribing..."):
-        transcript = client.audio.transcriptions.create(
-            model="whisper-1",   # ← 여기!
-            file=audio
-        )
-        text = transcript.text
-        st.success("🎉 Transcription completed!")
-        st.markdown(f"🗣️ You said: **{text}**")
-        return text
+    if audio_file:
+        with st.spinner("Transcribing..."):
+            transcript = client.audio.transcriptions.create(
+                model="whisper-1",
+                file=audio_file
+            )
+        return transcript.text
