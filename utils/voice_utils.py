@@ -44,16 +44,17 @@ def play_tts(text):
 def record_and_transcribe():
     client = get_client()
 
-    audio = st.audio_input("Record your voice")
+    audio = st.audio_input("🎤 Record your voice")
     if audio is None:
         return None
 
-    with st.spinner("📥 Recording received. Transcribing..."):
+    with st.spinner("📥 Transcribing your recording..."):
         transcript = client.audio.transcriptions.create(
-            model="gpt-4o-mini-tts",
+            model="whisper-1",    # ← 반드시 whisper-1!
             file=audio
         )
         text = transcript.text
-        st.success("🎉 Transcription completed!")
-        st.markdown(f"🗣️ You said: **{text}**")
-        return text
+
+    st.success("🎉 Transcription completed!")
+    st.markdown(f"🗣️ You said: **{text}**")
+    return text
